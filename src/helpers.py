@@ -1,36 +1,14 @@
 # Helper functions
 # ================
 
-
-import string
 import xml.dom.minidom
 
-from constants import DELETECHARS
+from constants import DELETECHARS, contractions
 
 
-def tokenize(text, length):
-    """ Tokeniz a given text and return a dict containing all start and end
-    positions for each token.
-    Characters defined in the global string DELETECHARS will be ignored.
-
-    Keyword arguments:
-    text   -- the text to tokenize
-    length -- the length of each token
-    """
-    tokens = {}
-    token = []
-
-    for i in range(0, len(text)):
-        if text[i] not in DELETECHARS:
-            token.append((i, text[i]))
-        if len(token) == length:
-            ngram = ''.join([x[1].lower() for x in token])
-            if ngram not in tokens:
-                tokens[ngram] = []
-            tokens[ngram].append((token[0][0], token[-1][0]))
-            token = token[1:]
-
-    return tokens
+def sum_vect(vect1, vect2):
+    res = [x + y for x, y in zip(vect1, vect2)]
+    return res
 
 
 def serialize_features(susp, src, features, outdir):
