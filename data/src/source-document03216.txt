@@ -1,0 +1,27 @@
+The data were reformatted to adhere to the . CHILDES transcription conventions
+Additional conventions: Interruptions and types of interruptions
+Interruptions are generally deemed violations of current speakers' rights, but there is no general consensus about their definition, identification and classification - still a highly contentious and complex question (see Guillot M.-N. 2005: Revisiting the debate on interruptions: from measurement to classification in the annotation of data for cross-cultural research. 15; 1, 25-47).Pragmatics
+For the purposes of the project for which the data were collected. the data were coded using the scheme described below (see also Guillot 2005, as above).
+Identification
+The scheme differentiates between overlaps and interruptions, to account for violations of speakers' rights not involving an overlap. Such non-overlapped violations of speakers' rights are overlooked in qualitatively-driven approaches advocating dealing with overlaps, as observable phenomena, rather than with interruptions, whose identification is deemed to involve value judgements (e.g. Drummond 1989, Tannen 1994; see references at the end of this section).
+Interruptions are defined as a function of utterance incompleteness, judged on the basis of unequivocal breaks in the previous speaker's last uttered word, in the syntax of the previous speaker's utterance and/or in the unit of meaning developed by the previous speaker.
+Interruptions are differentiated from false starts, coded [^ gui: startFalse] [^ gui: endFalse] in the data, i.e. turn or potential interruption dropped immediately at or before the initial drop point (from Goldberg 1990; see below).
+Classification
+The classification scheme is based on Goldberg's 1990 scheme (see references at the end of this section). Goldberg differentiates between the following different types of interruptions (also differentiated from false starts (see above).
+(affiliative) , i.e. arising from the listener's participatory rights and obligations (addressing immediate communicative needs, e.g. eliciting repairs - coded [^ gui: INTN] in the data;relationally neutral interruptions
+(non-affiliative) , i.e. the by-product of the listener's participatory wants, further subdivided into:relationally loaded interruptions
+(with overlapping goal orientations, viewed as cooperative acts - coded [^ gui: INTR] in the datarapport interruptions
+(with divergent goal orientations, viewed as acts of conflict - coded [^ gui: INTP] in the datapower interruptions
+The first step in Goldberg's categorisation is
+a) to identify type of interactional pressure (as above).
+It is then guided by
+b) the type of interruptive act, defined with the set of operational criteria detailed in Table 1 below;
+c) the response to the interruptive act.
+Goldberg's approach is, in the CA tradition, governed by situated analysis and members' response, thus involves interpretation. Part of her categorisation (i.e. a) and b) above) is largely independent of members' response and gives scope for 'objective' coding.
+The project for which the data were collected is interested in the tension between interruptive phenomena as identified by operational criteria and responses to interruptive acts (see Guillot 2005). The coding is accordingly based on a) and b) of Goldberg's scheme; c) is considered in qualitative analyses of the data and not represented in the coding.
+Other transcription conventions
+[^ gui: SIM] - simultaneous turn-taking [^ COM: xxx] e.g. [^ COM: laugh] - additional information about a turn or set of turns, here comment about a subject laughing
+References
+Drummond K. 1989. A backward glance at interruptions. 53: 150-66. Goldberg J. 1983. A move towards describing conversational coherence. In R.T. Craig and Tracy K. (eds). London: Sage, 22-45. Goldberg J. 1990. Interrupting the discourse on interruptions: an analysis in terms of relationally neutral, power and rapport oriented acts. 14: 883-903. Tannen D. 1994. . Oxford: Oxford University Press.Western Journal of Speech Communication
+Conversational coherence: form, structure and strategy.
+Journal of Pragmatics

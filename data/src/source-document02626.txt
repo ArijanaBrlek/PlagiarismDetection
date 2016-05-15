@@ -1,0 +1,15 @@
+4 See also
+[] edit Block I satellites
+Beginning with Navstar 1 in 1978, ten "Block I" GPS satellites were successfully launched. One satellite, "Navstar 7", was lost due to an unsuccessful launch on December 18, 1981. The Block I satellites were launched from using rockets that were converted . The satellites were built by at the same plant in where the second stages of the rockets had been built. The final Block I launch was conducted on October 9, 1985. The last Block I satellite was taken out of service on November 18, 1995. [1] Vandenberg Air Force Base Atlas intercontinental ballistic missiles Rockwell International Seal Beach, CA S-II Saturn V [2]
+[] edit Block II satellites
+[] edit Initial Block II series
+The first of the nine satellites in the initial Block II series was launched February 14, 1989; the last was launched October 1, 1990. The final satellite of the series to be taken out of service was decommissioned March 15, 2007. [3]
+[] edit Block IIA series
+Nineteen satellites in the Block IIA series were launched, the first on November 26, 1990 and the last on November 6, 1997. As of January 17, 2009, six satellites of this series have been removed from service.
+Two of the satellites in this series, numbers 35 and 36, are equipped with laser retro-reflectors. They can therefore be tracked independently of their radio signals, allowing unambiguous separation of clock and ephemeris errors. [4]
+[] edit Block IIR series
+The Block IIR series are "replenishment" satellites developed by . Each satellite weighs 4,480 pounds (2,030 kg) at launch and 2,370 pounds (1,080 kg) once on orbit. The first attempted launch of a Block IIR satellite failed on January 17, 1997 when the rocket exploded 12 seconds into flight. The first successful launch was on July 23, 1997. Twelve satellites in the series were successfully launched. Lockheed Martin [5] Delta II
+[] edit Block IIR-M series
+The Block IIR-M satellites include a new military signal and a more robust civil signal, known as L2C. Data is not yet being broadcast on L2C. There will be eight satellites in the Block IIR-M series, which are built by . The first Block IIR-M satellite was launched on September 26, 2005. The most recent launch, GPS IIR-19 (M), was on March 15, 2008. [6] Lockheed Martin [7]
+[] edit Block IIF series
+On September 9, 2007 Boeing announced that it had completed assembly of the first satellite in the Block IIF series. Boeing is under contract to build a total of twelve Block IIF satellites. The first is planned for launch in 2009 on a . [8] Delta IV rocket [9]

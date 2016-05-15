@@ -1,0 +1,42 @@
+Mathematics, MechanicsPrimary:
+CartographySubordinate:
+His name is linked with the solution of third-degree equations. His other contributions concern fundamentals of arithmetic, numerical calculations, extraction of roots, rationalization of denominators, combinatorial analysis. One of the first publishers of Archimedes, he produced an edition of William of Moerbeke's 13th-century Latin version of some of Archimedes's work. He also translated Euclid into Italian.
+He published Nova Scientia in 1537, announcing a "new" mathematical way of treating motion, especially of projectiles. His Quesiti ed inventioni diverse dealt with algebraic and geometric material and, and such varied subjects as the firing of artillery, cannonballs, the disposition of infantry, topographical surveying, and statics.
+Tartaglia was invited to Milan in 1539; the visit led to the quarrel with Ferrari and their public exchange of mathematical challenges and responses. For failing to cite his debt to Jordanus in the Quesiti, Tartaglia was denounced for plagiary in Ferrari.
+Generale trattato di numeri et misure, 1556-60.
+7. Means of Support
+SchoolmasteringPrimary:
+He moved to Verona, probably sometime between 1516 and 1518, where he was employed as teacher in an abacus school-- i.e, practical mathematics. About 1529-33, he was in charge of a school in the Palazzo Mazzanti.
+In 1534 he went to Venice, where he was teacher of mathematics. Except for l8 months back in Brescia, he remained in Venice for the rest of his life.
+8. Patronage
+Aristrocrat, Court Official, GentryTypes:
+Cardano introduced Tartaglia to Diego Hurtado de Mendoza, an aristocrat and humanist who was the Spanish ambassador to Venice from 1539 to 46, and to Rome from 1547 to 52. Tartaglia's Quesiti took the form of dialogues with Mendoza.
+Tartaglia dedicated Nova scientia to the Duke of Urbino.
+He dedicated his edition of Euclid (1543) to Gabriele Tadino da Martinengo, Knight of Rhodes and Priore of Varletta.
+He dedicated the works of Archimedes (1543) to Richard Wentworth.
+He dedicated the Quesiti, 1546, to Henry VIII. (I tend to doubt this information, not a work in the form of dialogues with the Spanish ambassador to Venice.)
+Tartaglia was not a prominent and well connected man. I find that he published a lot of his books at his own expense and without dedications.
+9. Technological Involvement
+Military Engineering, Cartography, InstrumentsTypes:
+In his ballistic studies he proposed new ideas, methods, and instruments, important among which are "firing tables".
+He had various proposals on fortifications.
+He suggested two instruments for determining inaccessible heights and distances, the first telemeters.
+He developed a specific form the the compass, or better, the housing in which it was set, that made it more useful in surveying.
+10. Scientific Societies
+NoneMemberships:
+He corresponded with Cardano for a time, and he had the famous mathematical contest with Ferrari. Since it hinged on the discovery of the solution to cubic equations, it may have been the first priority dispute.
+Sources
+A. Masotti, "Niccolo Tartaglia," in Storia di Brescia, 5 vols. ed. Giovanni Treccani degli Alfieri, (Brescia, 1963), 2, 597- 617. DG975.B78T78 _____, Cartelli di sfida matematica (between L. Ferrari and N. Tartaglia), (Brescia, 1974). Paul L. Rose, The Italian Renaissance of Mathematics, (Geneva, 1975), pp. 151-4. Stillman Drake and I.E. Drabkin, Mechanics in Sixteenth-Century Italy, (Madison, Wis., 1969), pp. 16-26.
+P. Riccardi, Biblioteca matematica italiana, 1, 496-507.
+Edmond R. Kiely, Surveying Instruments, (New York, 1947), pp. 210-11.
+Not Available and Not Consulted
+Antonio Favaro, "Per la biografia di N. Tartaglia," Archivio storico italiano, 71 (1913), 335-72. DG401.A67
+Baldassarre Boncompagni, "Intorno ad un testamento inedito di N.Tartaglia," in In memoriam Dominici Chelini-Collectanea mathematica, (Milan, 1881).
+Atti del convegno in onore del quator centenario della morte di Niccolo Tartaglia 1959, (Brescia, 1962).
+A. Koyr "La dynamique de Niccolo Tartaglia," in Etudes d'histoire de la pens scientifique, (Paris, 1966), 101-21.
+P. Costabel, "Vers une manique nouvelle," in J. Roger, ed., Sciences de la renaissance, (Paris, 1973), pp. 127-42.
+Compiled by:
+Department of History and Philosophy of Science
+Indiana University
+Note: the creators of the Galileo Project and this catalogue cannot answer email on geneological questions.
+ 

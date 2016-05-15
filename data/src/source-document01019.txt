@@ -1,0 +1,28 @@
+Mary L. Johnson, RN, CDE
+Richard M. Bergenstal, MD
+David M. Kendall, MD
+International Diabetes Center, Minneapolis, Minnesota
+To determine whether clinically significantdifferences exist in fasting blood glucose (BG) at the forearm,palm, and thigh relative to the fingertip; to assess the impactof prandial status by comparing BG between alternative sitesand the fingertip at several time intervals after carbohydrateintake; to assess the effects of moderate brief exercise onsite-to-site differences in BG; to evaluate the impact of sitepreparation by local rubbing on alternative-site testing (AST)equivalence; and to determine levels of perceived pain and satisfactionassociated with AST.OBJECTIVE
+Fasting BG was measured usingthe One Touch Ultra (LifeScan, Milpitas, CA) at the fingertip,palm, thigh, and each forearm (with local rubbing) in 86 patientswith type 2 diabetes. A 40-g carbohydrate meal was consumedand BG was again measured from each site at 60, 90, and 120min postmeal, with an additional forearm test at 90 min withoutlocal rubbing. Patients then exercised for 15 min with repeatBG at each site. Differences in BG between sites were assessedusing repeated-measures ANOVA and regression analyses.RESEARCH DESIGN AND METHODS
+Significant differences in BG at alternative siteswere found 60 min postmeal ( = 0.0003) and postexercise (= 0.037). Specifically, clinically significant differences (expressedas percent difference from the fingertip) at 60 min include-8.8 ± 10.8% at the forearm and -13.7 ± 10.7%at the thigh, and postexercise +19.1 ± 19.1% at the forearmand +15.6 ± 22.6% at the thigh. However, no significantdifferences were observed between sites in either the fastingstate or at 90 and 120 min postmeal. The dynamic results suggesta time lag in equilibration of forearm and thigh BG during periodsof rapid glucose change. Palm and fingertip BG test resultswere similar at all time points.RESULTSPP
+AST results are consistent with fingertipBG results in both the fasting state and 2 h postmeal; no benefitfrom site preparation by local rubbing was noted. However, testingat sites other than the hand cannot be recommended 1 h postmealor immediately after exercise. AST is equivalent and appropriatefor use at testing times commonly used in clinical practice.CONCLUSIONS
+AST, alternative-site testing  BG, blood glucose  SMBG, self-monitoring of blood glucoseAbbreviations:
+               
+This article has been cited by other articles:
+P. Anzalone Clin Nurs Res, November 1, 2008; 17(4): 251 - 261.
+Equivalence of Earlobe Site Blood Glucose Testing With Finger Stick
+M. M. Austin, L. Haas, T. Johnson, C. G. Parkin, C. L. Parkin, G. Spollett, and M. T. Volpone The Diabetes Educator, November 1, 2006; 32(6): 835 - 847.
+Self-monitoring of Blood Glucose: Benefits and Utilization
+C. D. Saudek, R. L. Derr, and R. R. Kalyani JAMA, April 12, 2006; 295(14): 1688 - 1697.
+Assessing Glycemia in Diabetes Using Self-monitoring Blood Glucose and Hemoglobin A1c
+S. Meguro, O. Funae, K. Hosokawa, and Y. Atsumi Diabetes Care, March 1, 2005; 28(3): 708 - 709.
+Hypoglycemia Detection Rate Differs Among Blood Glucose Monitoring Sites
+[Full Text] [PDF]
+N. Lucidarme, C. Alberti, I. Zaccaria, E. Claude, and N. Tubiana-Rufi Diabetes Care, March 1, 2005; 28(3): 710 - 711.
+Alternate-Site Testing Is Reliable in Children and Adolescents With Type 1 Diabetes, Except at the Forearm for Hypoglycemia Detection
+J. Silverstein, G. Klingensmith, K. Copeland, L. Plotnick, F. Kaufman, L. Laffel, L. Deeb, M. Grey, B. Anderson, L. A. Holzmeister, Diabetes Care, January 1, 2005; 28(1): 186 - 212.et al.
+Care of Children and Adolescents With Type 1 Diabetes: A statement of the American Diabetes Association
+D. E. Goldstein, R. R. Little, R. A. Lorenz, J. I. Malone, D. Nathan, C. M. Peterson, and D. B. Sacks Diabetes Care, July 1, 2004; 27(7): 1761 - 1773.
+Tests of Glycemia in Diabetes
+S. Clement, S. S. Braithwaite, M. F. Magee, A. Ahmann, E. P. Smith, R. G. Schafer, and I. B. Hirsch Diabetes Care, February 1, 2004; 27(2): 553 - 591.
+Management of Diabetes and Hyperglycemia in Hospitals

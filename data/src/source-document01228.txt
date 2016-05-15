@@ -1,0 +1,18 @@
+Welcome to Universal Videogame List - since 1998
+UVL is the biggest on-line database about almost any video game ever created, for any platform.
+Right now UVL has games, images and gaming platforms in the database.In the last 31 days, we had new images, game edits and new games. Finally, there are users, articles, groups and characters.List status5878553703150
+490509332
+64162192925943851
+what's new
+While I know that there are thousands of things to complete or to fix, I can't stop adding new features that I feel useful, so here it is: Events! The basic idea is to show how games are related (not strictly related) events. Some examples: - How are related Olympics video games to the real Olympic games? - How many years we before a "The Simpson" game was released since the fists air date? - Bat-Man games are only released along movies? (This works well for any licensed group, but I'm sure you will find some more unusual usage of this!) For testing purposes I filled some . (I'd like to find the event that started the new dragonbball-mania since 2002 too!) Basically we relate a date (along with a description) to a tag. So simple. Something similar could be done to record companies events (sold, bankrupt, etc.), platforms and games release dates too (with an additional country field). Please note, you can't add dates for now, the input interface is not yet ready.Events
+posted 9 months and 12 days ago
+had to wait
+Dragonball events
+I've started working around the synonyms system. At first this will be useful when adding new tags (with automatic replacement) and when searching, eventually proposing alternatives ("did toy mean..." google-like). Naturally we'll have an interface to add/manage synonyms, but for now I'm working on the core routines, so I wanted build a short list to work with. For a start, is someone willing to post here a brief list of his most needed synonyms? This is to see how data should be stored, apply eventual categories ans such...Synonyms
+posted 1 year and 0 months ago
+It's almost ready the interface to edit and add companies. Looking at the Sanguine lists, there are new fields to be added: - Founded (date) - Function (multiple values. what are the possible values?) - Formerly/closed/etc (just use the description field for now, I'm planning to implement something that could be named "events" that should handle things like this, beside game release dates, hardware release dates and anything else) Is there something else missing?Company editing
+posted 1 year and 1 month ago
+Old news / UVL Work In Progress page
+Other news
+Fennec alpha 1 was released to the public on 2008-12-23. Named after arguably the [media]http://upload.wikimedia.org/wikipedia/commons/5/5f/Fennec_Singing.ogg[/media]. Fennec is a Mozilla based browser aimed at the mobile computer market (tablets, cell phones, MIDs). With Firefox 3.0 becoming a bloated beast, some people are discussing the possibility of using Fennec on their desktop instead. It already has . Including noscript. Its supposed to use less than 6MB, load google.com in under three seconds, download faster, automatically pan and zoom, have and all-in-one search and address bar, block popups, add/update/remove itself and add-ons (No PC host needed), and be QT compatible (KDE users rejoice).New lightweight Mozilla browser, Fennec
+posted 14 days and 20 hours ago

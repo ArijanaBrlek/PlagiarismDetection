@@ -1,0 +1,8 @@
+<document reference="suspicious-document00841.txt">
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.4369488098669337" source_length="391" source_offset="1214" source_reference="source-document03179.txt" this_length="247" this_offset="561" type="artificial" />
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.33338789155484094" source_length="594" source_offset="5991" source_reference="source-document03179.txt" this_length="542" this_offset="1105" type="artificial" />
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.46604546873949587" source_length="620" source_offset="6680" source_reference="source-document03179.txt" this_length="692" this_offset="5004" type="artificial" />
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.5401329897730771" source_length="506" source_offset="56" source_reference="source-document03179.txt" this_length="340" this_offset="16805" type="artificial" />
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.38895740419893854" source_length="602" source_offset="7782" source_reference="source-document03179.txt" this_length="410" this_offset="19559" type="artificial" />
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.49403462307042567" source_length="511" source_offset="3169" source_reference="source-document03179.txt" this_length="388" this_offset="20748" type="artificial" />
+</document>

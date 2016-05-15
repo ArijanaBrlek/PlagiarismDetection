@@ -1,0 +1,17 @@
+Products - Open Source SOA - FUSE
+Certified, tested and supported products based on Apache projectsSOA
+[With ] they take it, they stabilize the releases, they package it together and put support around it. It’s the same basic code as the community version with support and stabilization. It’s working out well for us.FUSE
+Bill Parducci, PassengerCTO
+components are based on Apache projects, and are integrated, tested and supported to combine the speed and innovation of software with the reliability and expertise of commercially provided enterprise services. Many are employed by the team and work on the products.FUSESOA open source key Apache committers FUSEFUSE
+– based on Apache ServiceMix FUSE ESB
+is one of the first shipping implementations of the Java Business Integration (JBI) specification. supports any -compliant binding for connectivity, and enables any -compliant engine to be integrated into the backplane for message processing. FUSE ESB FUSE ESBJBIJBISOA
+– based on Apache ActiveMQ FUSE Message Broker
+The is a high performance solution for reliable messaging. The Message Broker provides high performance, unlimited scalability, and mission-critical reliability for distributed enterprise computing. FUSE Message Broker FUSE
+– based on Apache FUSE Services Framework CXF
+is a pluggable service framework that provides the easiest environment available for Java developers to create Web services. It is the only services framework that fully implements the -WS 2.0 specification, radically simplifying the process of exposing existing Java code as a Web service or writing new Web services. FUSE Services Framework JAX
+– based on Apache Camel FUSE Mediation Router
+is a powerful tool for routing and process mediation that combines the ease of basic development with the clarity of the standard Enterprise Integration Patterns. FUSE Mediation Router POJO
+is Eclipse-based tooling for implementing Enterprise Integration Patterns (EIPs) that complements the other products. FUSE Integration Designer FUSE
+– manage and monitor infrastructure FUSE HQ FUSE
+is a management and monitoring system based on Hyperic HQ Enterprise and is available as a part of any . It is integrated with the product family for real-time administration and control of infrastructure.FUSE HQSOA FUSE support package FUSEFUSE SOA
+Download Free Today

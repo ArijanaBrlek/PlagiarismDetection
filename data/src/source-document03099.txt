@@ -1,0 +1,18 @@
+PlayStation X (Project name), PSX (Acronym - inaccurate with release of ), PSone (Rebranded version) Sony PSX
+Announced:
+date the console was announced
+Release date:
+JP: 03/December/1994 NA: 09/September/1995 EU: 29/September/1995 AU: 29/September/1995
+Initial Price:
+JP: {{{jpprice}}} NA: {{{naprice}}} EU: 299.99 AU: {{{auprice}}}
+Discontinued:
+Description of system goes here.
+Contents
+Specifications
+Games
+A full list of Sony PlayStation games documented on GamerWiki can be found at . the Sony PlayStation category
+Alternatively, a manually created list is - this is to be deprecated, . also available so please add any further games to the games to be added page
+Websites
+Magazines
+other possible headings:
+Versions (different versions of the hardware, e.g. Master System I & II) Peripherals (notable peripherals unique to the system) Emulation (how to emulate this system)

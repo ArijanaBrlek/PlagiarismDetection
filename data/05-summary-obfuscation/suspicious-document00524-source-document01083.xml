@@ -1,0 +1,5 @@
+<document  reference="suspicious-document00524.txt">
+	<feature  name="about" authors="DUC2001, DUC2006" title="news" language="en" />
+	<feature  name="md5" value="66bf9050602455c6c1defd9dda851f13" language="en" />
+	<feature  name="plagiarism" type="artificial" obfuscation="summary" this_language="en" this_offset="3491" this_length="591" source_reference="source-document01083.txt" source_language="en" source_offset="0" source_length="4232" />
+</document>

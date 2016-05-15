@@ -1,0 +1,60 @@
+The HP 2133 is a small laptop that packs a very capable set of features in a small package. The mini-note is highly portable, highly usable, and provides the software you need to be productive anywhere.Features and SpecificationsOverview
+Full-function PC with utmost mobility and durable all-aluminum case
+Ultra-portable light-weight design starting at 2.63 lb (1.19 kg) and 1.05 in (27 mm) thin at front
+8.9-inch diagonal WXGA scratch-resistant display
+92% full-size QWERTY keyboard and touchpad
+Optional 802.11 a/b/g wireless LAN and Bluetooth, HP Wireless Assistant
+Up to 160 GB 7200 rpm hard drive with HP 3D DriveGuard
+Optional integrated VGA Webcam
+Secure Digital slot for SD and MMC media cards
+Upgradeable up to 2GB of 667 MHz DDR2 SDRAM
+Standard Features
+VIA C7-M processor (1.0GHz,* 128 KB L2 cache, 400 MHz FSB)
+VIA C7-M processor (1.2 GHz, 128 KB L2 cache, 800 MHz FSB)
+VIA C7-M processor (1.6 GHz, 128 KB L2 cache, 800 MHz FSB)
+Operating Systems
+Preinstalled: Genuine Windows Vista Home Basic 32,Genuine Windows Vista Business 32,Genuine Windows Vista Business downgrade to Genuine Windows XP Professional installed,SuSE Linux Enterprise Desktop 10,FreeDOS
+Supported:Genuine Windows XP Professional
+Graphics
+VIA Chrome 9
+Up to 256 MB of shared system memory for Windows with 2 GB of system memory
+Up to 128 MB of shared system memory for Windows with 1 GB of system memory
+Up to 64 MB of shared system memory for Linux
+Display
+Internal:8.9-inch WXGA display with 1280 x 768 resolution,Scratch-resistant treatment
+External:Up to 32-bit per pixel color depth,VGA port supports resolutions up to 2048 x 1536 at 75 Hz, and lower resolutions at up to 100 Hz
+Memory
+Standard: 1024 MB 667 MHz DDR2 SDRAM SODIMM; one SODIMM slot
+Maximum:Supports up to 2048 MB maximum
+Support for secure, integrated wireless LAN options featuring support for the latest industry standards. Wireless LAN is factory configurable only. Integrated Bluetooth is also available (factory configurable only) and can be combined with any of the supported wireless LAN options.Wireless Devices
+All 802.11 integrated wireless LAN options:
+Wi-Fi certified
+Cisco Compatible Extensions support (Version 4.0)
+Wired Equivalent Privacy (WEP) support up to 128-bit keys
+Wi-Fi Protected Access (WPA) and WPA2 support
+802.1x authentication support, including EAP-TLS, EAP-TTLS, PEAP-GTC, PEAP-MSCHAPv2, and LEAP
+Advanced Encryption Standard (AES) support
+WiFi certified for WPA2, WMM
+Dual antennas integrated in the display enclosure
+Broadcom 4311AG 802.11a/b/g Wi-Fi Adapter:
+Integrated support for 802.11 a, b and g
+Up to 54-mbps data rate
+Broadcom 4311BG 802.11b/g Wi-Fi Adapter
+Integrated support for 802.11 b and g
+Up to 54-mbps data rate
+HP Integrated Module with Bluetooth Wireless Technology:
+Bluetooth Specification v2.0 compliant
+Works with a wide range of Bluetooth devices
+Keyboard is 92% of full size, 101/102-key compatible with isolated inverted-T cursor control keys, both left and right control and alt keys, 12 function keys, and hotkey combinations for audio volume, power conservation, brightness, and other features. US and international key layouts are available.KeyboardPointing Device
+Touchpad with scroll zone and two soft-touch buttons
+Expansion Card Slots
+ExpressCard/54 slot:Supports ExpressCard/54 and ExpressCard/34
+Secure Digital slot:Supports SD (Secure Digital), MMC (MultiMedia Card)
+Storage
+120/160 GB 5400 rpm SATA Hard Drive
+120/160 GB 7200 rpm SATA Hard Drive
+HP 3D DriveGuard:The hard drive is mounted to the notebook frame, reducing the transmission of shock away from the hard drive. Uses three-axis digital motion detection with intelligent sensitivity to help protect the hard drive during normal use from shock and vibration. The digital accelerometer temporarily halts all data transfer and parks the hard drive when abrupt motion is detected.
+External Optical Drives-Via optional HP External MultiBay II (9.5-mm): MultiBay II DVD-ROM Drive, MultiBay II DVD/CD-RW Combo Drive, MultiBay II DVD+/-RW SuperMulti DL Drive
+Software
+Preinstalled Software with Windows Vista or Windows XP
+MS Office Ready 2007

@@ -1,0 +1,58 @@
+- Chicago, IL Design with Emerging TechnologiesMFA, School of the Art Institute of Chicago
+1992
+- Purchase, NY Painting, Photography and DesignBFA, State University of New York at Purchase
+Experience
+2005-present
+Visual & Interaction Design, Human Computer Interaction Interwoven, Inc. Chicago, IL
+Developed a uniform, Common Look and Feel User Interface (CLF-UI) design for all current and newly acquired Interwoven software products.
+Work with development teams across the US, Europe and Asia to insure that this CLF-UI is consistently adopted. Created templates and graphic libraries so that both web-deployed and client-side applications can make the change easily.
+Work with engineering teams at newly acquired or partner companies to insure their interfaces are consistent with Interwoven branding and interface standards.
+Coauthored company wide style guide so that engineers may create visually and behaviorally consistent interfaces across all products. Authored chapters covering Navigation, Typography, Visual Elements, Standard Elements and Handicapped Accessibility. Provided visual diagrams and examples throughout entire guide.
+Work with engineering teams through all planning and development stages to insure that all products meet high standards of interaction design.Create and maintain a library of all icons used across all products.
+Collaborate with writers in creating documentation for the software
+Research current product users for needed usability improvements.
+1998-present
+Freelance Interactive Design & Digital Illustration
+Storyboard, design and structure information within web sites. Design interfaces, animations, and illustrations. Perform timely site maintenance.
+Maximize user experience through research and testing. Insure that all web sites are Section 508 compliant.
+Project manage the entire process, continually communicating with clients. Design flexibly for both print and online use of designs.
+2003-2006
+Webmaster, Interactive Designer F Newsmagazine, School of the Art Institute of Chicago
+Redesigned the flow of information within the F Newsmagazines online presence. Design interfaces, animate, create and maintain Fnewsmagazine.com and Fzine.com.
+Spearheaded creation of Fzine.com, an online zine for young artists.
+Work in tandem with print edition designers and editors to maintain integrity of content and message across all media. Work with editorial advisors to improve the sites offerings grow, online staff and streamline workflow.
+2003
+Contextual Design & Qualitative Research InContext Enterprises, Inc., Concord, MA.
+Performed Contextual Inquiry by interviewing users, culling data from interview transcripts, and consolidating resulting information into data models that illuminated users underlying needs
+From the data, Personas, User Experience and User Interface solutions were developed.
+Modeled design solutions based upon users discovered needs. Presented overview of data, design recommendations and final designs.
+2000-2001
+Interactive Designer Brodeur Worldwide, Boston, MA
+Storyboarded, designed and executed information flow within web pages, web casts, presentations, CD-ROMs and Buzz cards.
+Created and animated internet graphics, interfaces and splash screens.
+Shot and edited video, animated text and graphics for DVD presentations, trade shows, and web streaming.
+1996-1998
+.Video Editor, Graphic Designer Core Group, Ltd., Boston, MA
+Developed editorials Avid Media Composer for use in broadcast or corporate presentations.
+Performed video finishing, type design and video on-line in Discreet Logic Flame.
+initiated, designed, wrote copy, and maintained the company website.
+Designed all print media, including brochures, Business cards and advertisements. Supervised printing process.
+1999-2003
+Lecturer, Adjunct Professor New England School of Art and Design at Suffolk University, Massachusetts College of Art, Harvard University, Boston University
+Developed and taught curricula for undergraduate students in Multimedia, Animation, Design, Concept Building, Creativity, and Usability. Courses enable students to problem solve using professional standards.
+Developed supplemental workshops in writing and focusing project goals.
+Skills
+HTML, CSS, page layout and dynamic element creation and integration, streaming media integration, Flash, GoLive and Dreamweaver.Interactive design proficiency
+Photoshop, Illustrator, InDesign, After Effects, Fontographer, Painter, Font Lab, Premiere, Image Ready and Alias Maya.Graphics & Media Design Proficiency:
+Rhino, Form Z, JavaScript, Director (moderate usage of Lingo, creating software objects to interface with EZIO board), Avid Media Composer, Final Cut Pro, Media Cleaner and Microsoft Office.Working Knowledge:
+Casting and prototyping in plaster, rubber, foam and resin; Beginning Robotics; Virtual Reality construction with YG and Cave Simulator; Electronic circuit building, B & W and Color Photography; excellent typographic skills.Other skills:
+Design Exhibitions
+2006
+An Exhibition of Disability Themed Work by School of the Art Institute Students, Staff, Faculty and Alumni Gene Siskel Film CenterNavigation / Negotiation
+"Ambient Envelope", 16 page explanatory book and prototype sculptures for a hand held object designed to be a customizable interface for personal technology Juried exhibition
+2004-2005
+Art Institute of ChicagoChicago Architecture: Ten Visions
+"Chicago Area Network", A kiosk and portal design centered on putting accessible technology into public spaces to augment the informational landscape of Chicago. Juried exhibition, my work was included in Doug Garofalo's pavilion.
+2004
+1926 Exhibition SpaceCross Walk
+Curated exhibition featuring 20 women artists, designers and architects whose work takes a critical and tactical look at public spaces.

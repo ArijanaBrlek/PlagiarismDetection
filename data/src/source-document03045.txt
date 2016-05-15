@@ -1,0 +1,9 @@
+ 
+Abstract
+The reason is that size (capacity) matters. There is a tremendous size range - stations range from 500 kilowatts to more than 5 000 000 kilowatts. There is no obvious pattern of where large or small stations are found across Canada. However, stations in the northern part of Canada are invariably small, while most of the largest stations (over 1 000 000 kilowatts) are found in the Great Lakes - St. Lawrence area.This is the most important of the three maps showing the distribution of 815 generating stations.
+This is one of three overview maps showing all generating stations. This map shows the stations by their size (their capacity in kilowatts). There are 815 generating stations shown, ranging from 500 to 5.5 million kilowatts (). Of these, 29 have a capacity of more than 1 000 000 , and a further 129 have a capacity ranging from 100 000 to 999 999 . kW kW kW
+There are a number of patterns that explain the distribution of generating stations across Canada:
+The bulk of Canada's population and economic activity is located along the southern fringe of the country. This population is serviced by a network of generating stations with a connecting grid of transmission lines.
+Some of the largest plants are hydro plants at the northern edge of the grid. The large size of the plants that can be built at these sites has made it worthwhile to build both the plant and the long transmission lines needed to connect it to the main part of the grid.
+The thermal plants in northern parts of the provinces and in the territories are usually stand-alone plants operated by electrical utilities to service small settlements which are not connected to the grid.
+Other Maps in this Series:

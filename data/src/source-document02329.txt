@@ -1,0 +1,7 @@
+I keep getting kicked back to the same page. Why can't I log in?
+If you are having trouble submitting a form or logging in, you may have a firewall or Internet security software that is blocking access. Our site uses user-based sessions for certain forms and admin login areas. You will need to adjust your Internet security software and allow/grant access for our site. If you are in a corporate environment you may need to contact your network administrator.
+Can I make my resume private or confidential?
+Our site offers 3 account options for your resume.
+1. Public - resume live in resume database for employers to search. 2. Confidential - resume live in resume database but contact information is not visible. 3. Private - resume is not live in the database. The resume is stored for applying to jobs faster.
+Can I cut and paste my resume into your form?
+Yes. You are able to cut and paste into any of our forms, including the resume submission and account creation forms. To cut, highlight the text you want to copy, simultaneously hit the "control" and "c" keys. Then put the cursor in the form you want to paste and simultaneously hit "control" and "v".

@@ -1,0 +1,19 @@
+Download TVU Player : Source 1
+TVU is a nifty little player that offers users a variety of channels that can be used to watch normal TV or Sport. US channels are also found on this player.
+Installation
+It in English so its all pretty straight forward.
+TVU Player is extremely easy to use. To scroll through the simply the up and down arrows. To load a channel simply . It loads in the window with the cone.channel listmouse-overclick on it once
+Figure 1: The TVU Player Program
+Features
+To enlarge the viewing screen simply press the button (circled in red).Full View
+Figure 2: The TVU Player Full Screen Mode
+You will see a screen as follows:
+Figure 3: The TVU Player Back to Standard Screen Mode
+To change it back to a smaller screen just press the Change (circled in red).View button
+Favourite Channel
+If you find that you constantly watch a particular channel, but don want to spend time searching for it, then do this: - Load the channel - Once it is loaded, press the Add to Favourites button (Figure 4.2)
+Figure 4: TVU Player Favourite Channels
+To view your favourites press the Favourites button (Figure 4.1).
+If you have any problems with the program please feel free to post at our Help & Support Forum
+Please send yours views regarding TVU Player to . We will publish the ones that can contribute to other readers. You can state your name and where you are from, or stay annonymous Feedback@football4less.com
+Copyright © Football4less.com

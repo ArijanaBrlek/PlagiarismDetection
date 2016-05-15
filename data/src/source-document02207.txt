@@ -1,0 +1,44 @@
+What is the Regulation Information System (RIS)?
+What is a regulation?
+A regulation is a general rule governing people's rights or conduct that is promulgated by a state agency and has the force of law. Agencies promulgate regulations in order to administer and enforce specific state laws and to implement general agency objectives. Each regulation must be authorized by law. Each chapter of the Virginia Administrative Code (VAC) contains a single regulation.
+How is a regulation promulgated?
+A regulation is created, amended, or repealed through a regulatory action. Typically, regulatory actions take about 18 months from start to finish. The purpose of a regulatory action is to ensure that the public has an opportunity to participate in the rulemaking process and that all perspectives are considered in the development of a final regulation. In addition, proposed regulations must meet the Governors policy goals as set out in his Executive Order and are usually subject to an economic impact analysis.
+Unless there are special circumstances each regulatory action goes through a standard three stage process giving state decision makers, businesses and the public ample opportunity to scrutinize the proposed change and provide recommendations and feedback.
+. Details of the different stage types and special circumstances
+How can the public participate in the regulatory process?
+There are many ways the public can participate in the regulatory process. These opportunities include making a public comment, attending board meetings and public hearings, joining an ad hoc advisory committee, and submitting a petition for rulemaking. An agency's public participation guidelines sometimes provide additional information on how to participate.
+Although regulatory boards will accept public comments in a variety of ways, the Town Hall website makes it easy for any member of the public to submit comments. Public comment forums will automatically open for NOIRA stages, Proposed stages, Petitions for Rulemaking and Periodic Reviews upon their publication in The Virginia Register.Making a public comment:
+  about comment forums on the Town Hall More details
+  Check out the currently open. Public Comment Forums
+Through the Town Hall notification service, the public can find out when board meetings and public hearings will be held where regulations will be discussed.Attending board meetings and public hearings:
+  Check out the page. Meetings
+Often an agency will put together a committee consisting of regulants, advocacy groups, and other concerned citizens to assist the board in drafting or amending regulations.Joining an ad hoc advisory committee:
+A member of the public can request an agency to develop a new regulation or amend an existing regulation at any time. An agency must respond to a petition for rulemaking within 180 days.Petition for rulemaking:
+  Check out the currently under review. petitions for rulemaking
+What is the Virginia Administrative Code (VAC)?
+The Virginia Administrative Code (VAC) is the official source for Virginia's regulations. The VAC consists of approximately 1,250 chapters (regulations). You can link to the official text of a regulation in the VAC on each Chapter Information page of the Town Hall. It is important to understand the format of a VAC citation, also called, a VAC reference.
+24 VAC 5-20-40Example:
+24
+There are in the Virginia Administrative Code. For example, Title 24 contains all regulations pertaining to Transportation and Motor Vehicles.Title Number: 24 titles
+VAC
+Abbreviation for Virginia Administrative Code.
+5
+There are in Virginia. For example, Board 5 of Title 24 contains regulations of the Virginia Aviation Board. this board field in the VAC code citation is often referred to as an agency, but this doesn't not equate to what is generally called a state agency. Sometimes a state agency has a board with the same name and other times an agency houses many regulatory boards or none at all.Board Number: 122 boards Important Note:
+20
+There are approximately 1,250 chapters in the Virginia Administrative Code. Each chapter is considered one regulation. For example, chapter 20 under Title 24, Board 5 contains a regulation about the licensing and operation of airports and aircraft and obstructions to airspace in Virginia.Chapter Number:
+40
+Each regulation is divided into parts, e.g., definitions, purpose, and scope. For example, section 40 of this citation is about the expiration and renewal of aircraft licenses.Section Number:
+On the Regulatory Town Hall you will see frequent chapter references using code citations (ex: 24 VAC 5 - 20). The Town Hall doesn't usually reference specific sections.
+See how the Town Hall facilitates . searching using VAC citations
+What is the Virginia Administrative Process Act (APA)?
+The Virginia Administrative Process Act (APA) provides the basic framework for rulemaking in Virginia. Article 2 of the APA, in particular, sets out the stages of the regulatory process, including notice and comment; requires agencies to promulgate public participation guidelines on how the public can be involved in the rulemaking process; and requires the Governor to publish procedures for executive review of regulations.
+What is executive branch review?
+Before a stage of a regulatory action becomes available for public comment, it often undergoes review by the Office of Attorney General, the Department of Planning and Budget, the Cabinet Secretary, and the Governor. Executive branch review includes certifying that the regulation is consistent with statutory authority and assessing the economic costs and benefits of the regulation. It also includes making sure that regulations are clearly written and easily understandable to the regulated community, determining if the regulation is essential to protect public health, safety, and welfare, and is the least burdensome and intrusive regulation possible. Details of Executive Branch Review
+What is an economic impact analysis (EIA)?
+An economic impact analysis (EIA) is prepared by the Department of Planning and Budget. An EIA summarizes the costs and benefits that are expected to result from the implementation of the regulatory language. The analysis includes an evaluation of any unintended consequences the new rule may have and assessment of any less intrusive and more cost effective alternatives. The EIA must also include information on the number and types of entities affected by a regulatory action, and on the effects the regulation will have on particular localities, on employment, and on the use and value of private property. The Department has 45 days for proposed stage regulations and 30 days for fast-track regulations from the date of submission to complete its economic analysis. EIAs can be found on the Stage Information page for each proposed regulatory action.
+What are guidance documents?
+Guidance documents are developed by state agencies to provide general information to agency staff or the public on how to implement or interpret state law or agency regulations. Links to guidance document lists can be found on Board and Chapter Information pages.
+What is The Virginia Register of Regulations?
+is the official publication of legal record in Virginia for regulatory actions. Citations to the Register are available on each Stage Information page of the Town Hall. The Virginia Register of Regulations
+What is the Regulation Information System (RIS)?
+is a web-enabled application for agencies to file regulations and related items with the Virginia Registrar of Regulations for publication in the Virginia Register. The Regulation Information System (RIS)

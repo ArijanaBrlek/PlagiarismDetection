@@ -1,0 +1,8 @@
+This article . Please help by adding citations to . material may be challenged and removed.does not any cite references or sources improve this article reliable sources Unverifiable
+(October 2008)
+When an client (generally a ) requests a that points to a structure instead of an actual Web page within the directory, the will generally serve a general page, which is often referred to as a main or "index" page. HTTP Web browser URL directory Web server
+is the traditional filename for such a page, but most modern HTTP servers offer a configurable list of filenames that the server can use as an index. If a server is configured to support , the list will usually include entries allowing dynamic content to be used as the index page (e.g. index., index., default.). An example is the popular web server , where the list of filenames is controlled by the directive in the main server configuration file or in the .index.html [1] server-side scripting php shtml asp open source Apache DirectoryIndex configuration file for that directory
+If the server is unable to find a file with any of the names listed in its configuration, it may either return an error (generally ) or generate its own index page listing the files in the directory. Usually this option is also configurable. 404 Not Found
+In theory, for relative links to function properly, the URL pointing to a directory should end with a forward slash. Otherwise most web servers will send an to add the slash. HTTP redirect
+For example, strictly speaking is not a valid URL and most browsers and servers will redirect to where the index page from the root directory will be displayed.http://www.example.comhttp://www.example.com/
+Entrance

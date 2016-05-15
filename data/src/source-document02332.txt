@@ -1,0 +1,6 @@
+Yahoo! Launches Web Analytics
+Published on October 12, 2008 by Jay Signorello Bookmark
+Yahoo! is launching a “web analytics” service on a limited basis starting this week, as reported by . The new service (currently in beta and available to only a select handful of advertisers and third party application developers) is apparently the result of Yahoo’s acquisition of IndexTools earlier this year. Search Engine Land
+Jitendra Kavathekar, Yahoo’s VP of Web Analytics, said that the next “big deployment” will be for Yahoo’s Small Business service users, and that the service will continue to be rolled out this year and into 2009.
+Best of all…the service will be free! Really nice to see some more competition for Google in this space.
+Check out the Web Analytics FAQ, and then read the article at Search Engine Land (both links below).
