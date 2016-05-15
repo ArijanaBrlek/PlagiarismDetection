@@ -116,13 +116,14 @@ if __name__ == "__main__":
         srcdir = sys.argv[2]
         suspdir = sys.argv[3]
         outdir = sys.argv[4]
+
         if outdir[-1] != "/":
             outdir += "/"
         lines = open(sys.argv[1], 'r').readlines()
+
         for line in lines:
             susp, src = line.split()
-            baseline = Baseline(os.path.join(suspdir, susp),
-                                os.path.join(srcdir, src), outdir)
+            baseline = Baseline(os.path.join(suspdir, susp), os.path.join(srcdir, src), outdir)
             baseline.process()
     else:
         print('\n'.join(["Unexpected number of commandline arguments.",
