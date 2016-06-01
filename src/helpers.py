@@ -2,6 +2,7 @@
 # ================
 
 import xml.dom.minidom
+import json
 
 from constants import DELETECHARS, contractions
 
@@ -55,3 +56,24 @@ def serialize_features(susp, src, features, outdir):
     doc.writexml(open(outdir + susp.split('.')[0] + '-'
                       + src.split('.')[0] + '.xml', 'w'),
                  encoding='utf-8')
+
+
+def serialize_to_json(susp, src, features, outdir):
+    response = {
+        'src_file': src,
+        'susp_file': susp,
+        'fragments': []
+    }
+
+    for f in features:
+        fragment = {
+            'src_offset': str(f[0][0]),
+            'src_len': str(f[0][1] - f[0][0]),
+            'susp_offset': str(f[1][0]),
+            'susp_len': str(f[1][1] - f[1][0])
+        }
+        response['fragments'].append(fragment)
+
+    with open(outdir + susp.split('.')[0] + '-' + src.split('.')[0] + '.json', 'w') as outfile:
+        json.dump(response, outfile)
+        

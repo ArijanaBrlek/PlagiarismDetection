@@ -11,6 +11,7 @@ from constants import LENGTH
 from extension import Extension
 from filtering import Filtering
 from helpers import serialize_features
+from helpers import serialize_to_json
 from preprocessing import Preprocessing
 from seeding import Seeding
 
@@ -133,6 +134,7 @@ class Baseline:
     def postprocess(self):
         """ Postprocess the results. """
         serialize_features(self.susp_file, self.src_file, self.detections, self.outdir)
+        serialize_to_json(self.susp_file, self.src_file, self.detections, self.outdir)
 
 
 # Main
