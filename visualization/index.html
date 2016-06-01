@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>APT</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/app.css">
   </head>
   <body>
 
@@ -11,16 +12,14 @@
       <input class='file-upload-button' type="file" />
   </div>
 
-   <div class="col-sm-6">
-   		<h3>Source document</h3>
-
-       <div id="src-doc"></div>
+   <div class="col-sm-6 documents center">
+   		<h3 class="doc-name">Source document</h3>
+       	<div id="src-doc" class="doc"></div>
    </div>
 
-   <div class="col-sm-6">
-   		<h3>Suspicious document</h3>
-
-       <div id="susp-doc"></div>
+   <div class="col-sm-6 documents center">
+   		<h3 class="doc-name">Suspicious document</h3>
+       	<div id="susp-doc" class="doc"></div>
    </div>
 
     <script src="js/jquery-2.2.4.min.js"></script>
