@@ -7,8 +7,19 @@ from constants import DELETECHARS, contractions
 
 
 def sum_vect(vect1, vect2):
+    if len(vect1) == 0:
+        vect1 = [0] * len(vect2)
     res = [x + y for x, y in zip(vect1, vect2)]
     return res
+
+# def sum_vect(dic1,dic2):
+#     res=dic1
+#     for i in dic2.keys():
+#         if res.has_key(i):
+#             res[i]+=dic2[i]
+#         else:
+#             res[i]=dic2[i]
+#     return res
 
 
 def serialize_features(susp, src, features, outdir):

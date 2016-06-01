@@ -1,7 +1,9 @@
+from seeding import Seeding
+
 class Filtering(object):
 
     @staticmethod
-    def remove_overlap3(src_bow, susp_bow, plags):
+    def remove_overlap3(src_bow, susp_bow, plags, model):
         plags.sort(key=lambda tup: tup[1][0])
         res = []
         flag = 0
@@ -43,7 +45,8 @@ class Filtering(object):
                     for sent in sents_i:
                         sim_max = 0.0
                         for k in range_i:
-                            sim = 1 - spatial.distance.cosine(susp_bow[sent], src_bow[k])
+                            #sim = 1 - spatial.distance.cosine(susp_bow[sent], src_bow[k])
+                            sim = Seeding.alzahrani_similarity(susp_bow[sent], src_bow[k], model)
                             if sim > sim_max:
                                 sim_max = sim
                         if sent in sents_j:
@@ -56,7 +59,8 @@ class Filtering(object):
                     for sent in sents_j:
                         sim_max = 0.0
                         for k in range_j:
-                            sim = 1 - spatial.distance.cosine(susp_bow[sent], src_bow[k])
+                            #sim = 1 - spatial.distance.cosine(susp_bow[sent], src_bow[k])
+                            sim = Seeding.alzahrani_similarity(susp_bow[sent], src_bow[k], model)
                             if sim > sim_max:
                                 sim_max = sim
                         if sent in sents_i:

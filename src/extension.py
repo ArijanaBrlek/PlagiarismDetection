@@ -1,6 +1,9 @@
 from helpers import sum_vect
 from scipy import spatial
 
+from seeding import Seeding
+
+
 class Extension(object):
 
     @staticmethod
@@ -51,26 +54,33 @@ class Extension(object):
 
     @staticmethod
     def similarity3(plags, psr, src_bow, susp_bow, src_gap, src_gap_least, susp_gap, susp_gap_least, src_size,
-                    susp_size, th3):
+                    susp_size, th3, model):
+
         res = []
         i = 0
         range_i = len(plags)
         while i < range_i:
             src_d = []
             for j in range(plags[i][0][0], plags[i][0][1] + 1):
-                src_d = sum_vect(src_d, src_bow[j])
+                #src_d = sum_vect(src_d, src_bow[j])
+                src_d.extend(src_bow[j])
             susp_d = []
             for j in range(plags[i][1][0], plags[i][1][1] + 1):
-                susp_d = sum_vect(susp_d, susp_bow[j])
+                susp_d.extend(susp_bow[j])
+                #susp_d = sum_vect(susp_d, susp_bow[j])
 
-            # if dice_coeff(src_d,susp_d)<=th3:# or cosine_measure(src_d,susp_d)<=0.40:
-            if (1 - spatial.distance.cosine(src_d, susp_d)) <= th3:
+
+            #if dice_coeff(src_d,susp_d)<=th3:# or cosine_measure(src_d,susp_d)<=0.40:
+            alza_sim = Seeding.alzahrani_similarity(susp_d, src_d, model)
+            #if (1 - spatial.distance.cosine(src_d, susp_d)) <= th3:
+
+            if alza_sim <= th3:
                 if src_gap - src_gap_least > 0 and susp_gap - susp_gap_least > 0:  # Do until substraction +1
                     (temp1, temp2) = Extension.integrate_cases(psr[i], src_gap - 1, susp_gap - 1, src_size, susp_size)
                     if len(temp1) == 0:
                         return []
                     res2 = Extension.similarity3(temp1, temp2, src_bow, susp_bow, src_gap - 1, src_gap_least, susp_gap - 1,
-                                       susp_gap_least, src_size, susp_size, th3)
+                                       susp_gap_least, src_size, susp_size, th3, model)
                     if len(res2) != 0:
                         res.extend(res2)
                 i += 1

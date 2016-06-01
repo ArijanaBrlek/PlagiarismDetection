@@ -51,6 +51,7 @@ class Preprocessing(object):
                     if word not in stopwords.words('english'):
                         sentence_tokenized.append(wordnet_lemmatizer.lemmatize(word))
             sentences_tokenized.append(sentence_tokenized)
+
         return sentences_tokenized
 
     # za spajanje malih recenica

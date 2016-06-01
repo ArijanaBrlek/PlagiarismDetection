@@ -96,12 +96,12 @@ class Baseline:
         (plags2, psr2) = Extension.integrate_cases(ps, self.src_gap + 20, self.susp_gap + 20, self.src_size, self.susp_size)
 
         plags = Extension.similarity3(plags, psr, self.src_bow, self.susp_bow, self.src_gap, self.src_gap_least, self.susp_gap,
-                            self.susp_gap_least, self.src_size, self.susp_size, self.th3)
+                            self.susp_gap_least, self.src_size, self.susp_size, self.th3, self.model)
         plags2 = Extension.similarity3(plags2, psr2, self.src_bow, self.susp_bow, self.src_gap + 20, self.src_gap_least,
-                             self.susp_gap + 20, self.susp_gap_least, self.src_size, self.susp_size, self.th3)
+                             self.susp_gap + 20, self.susp_gap_least, self.src_size, self.susp_size, self.th3, self.model)
 
-        plags = Filtering.remove_overlap3(self.src_bow, self.susp_bow, plags)
-        plags2 = Filtering.remove_overlap3(self.src_bow, self.susp_bow, plags2)
+        plags = Filtering.remove_overlap3(self.src_bow, self.susp_bow, plags, self.model)
+        plags2 = Filtering.remove_overlap3(self.src_bow, self.susp_bow, plags2, self.model)
 
         sum_src = 0
         sum_susp = 0
