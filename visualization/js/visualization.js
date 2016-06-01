@@ -24,6 +24,9 @@ $(function() {
                     textArray = p.innerText.split('');
 
                 jsonObj.fragments.forEach(function (fragment) {
+                    fragment.src_offset = parseInt(fragment.src_offset, 10);
+                    fragment.src_len = parseInt(fragment.src_len, 10);
+
                     textArray[fragment.src_offset] = '<span style="background-color:yellow">' + textArray[fragment.src_offset];
                     textArray[fragment.src_len + fragment.src_offset] = '</span>' + textArray[fragment.src_len + fragment.src_offset];
                 });
@@ -38,6 +41,9 @@ $(function() {
                     textArray = p.innerText.split('');
 
                 jsonObj.fragments.forEach(function (fragment) {
+                    fragment.susp_offset = parseInt(fragment.susp_offset, 10);
+                    fragment.susp_len = parseInt(fragment.susp_len, 10);
+
                     textArray[fragment.susp_offset] = '<span style="background-color:yellow">' + textArray[fragment.susp_offset];
                     textArray[fragment.susp_len + fragment.susp_offset] = '</span>' + textArray[fragment.susp_len + fragment.susp_offset];
                 });
