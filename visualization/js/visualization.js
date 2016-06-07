@@ -10,12 +10,18 @@
 // p.innerHTML = textArray.join('');
 
 $(function() {
+
     $(document).on('change', '.file-upload-button', function(event) {
       var reader = new FileReader();
 
+      $('#filename').val(event.target.files[0].name);
+
       reader.onload = function(event) {
+
         var jsonObj = JSON.parse(event.target.result);
-        console.log(jsonObj);
+
+        $('#src-filename').html(jsonObj.src_file);
+        $('#susp-filename').html(jsonObj.susp_file);
 
           jQuery.get('/data/src/' + jsonObj.src_file, function(data) {
                $('#src-doc').html(data);

@@ -1,29 +1,86 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>APT</title>
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="css/app.css">
-  </head>
-  <body>
+    <head>
+        <meta charset="utf-8">
+        <title>APT</title>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/app.css">
+    </head>
+    <body>
 
-  <div class="col-sm-12">
-      <input class='file-upload-button' type="file" />
-  </div>
+  <!-- Static navbar -->
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Plagiarism Detection</a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li>
 
-   <div class="col-sm-6 documents center">
-   		<h3 class="doc-name">Source document</h3>
-       	<div id="src-doc" class="doc"></div>
-   </div>
+              </li>
+             
+            </ul>
 
-   <div class="col-sm-6 documents center">
-   		<h3 class="doc-name">Suspicious document</h3>
-       	<div id="susp-doc" class="doc"></div>
-   </div>
+            <ul class="nav navbar-form navbar-right">
+   
+              <li>
+               <div class="input-group">
+                      <label class="input-group-btn">
+                      <span class="btn btn-success btn-file btn-flat">
+                      Browse&hellip; <input class='file-upload-button' type="file"/>
+                      </span>
+                      </label>
+                      <input id="filename" type="text" placeholder="Select .json file" class="form-control" readonly>
+                </div>
 
-    <script src="js/jquery-2.2.4.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/visualization.js"></script>
-  </body>
+              </li>
+            
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </nav>
+
+
+
+        <div class="row full-height">
+
+
+                <div class="col-sm-12 full-height">
+                    <div class="col-sm-6 documents center full-height ">
+                        <h4 class="doc-name">Source document</h4>
+                        <h5 id="src-filename">&nbsp;</h5>
+                        <div id="src-doc" class="doc"></div>
+                    </div>
+                    <div class="col-sm-6 documents center full-height ">
+                        <h4 class="doc-name">Suspicious document</h4>
+                        <h5 id="susp-filename">&nbsp;</h5>
+                        <div id="susp-doc" class="doc"></div>
+                    </div>
+                </div>
+
+
+        </div>
+        <script src="js/jquery-2.2.4.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/visualization.js"></script>
+        <script src="js/jquery.nicescroll.min.js"></script>
+        <script>
+
+              // $(document).ready(function() {  
+              //     $(".doc").niceScroll({
+              //       cursorcolor:"#5cb85c",
+              //       cursorwidth: "8px",
+              //       autohidemode: false,
+              //     });
+              // });
+              
+        </script>
+    </body>
 </html>
