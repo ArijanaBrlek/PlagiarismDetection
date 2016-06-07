@@ -33,9 +33,9 @@ class Baseline:
         self.detections = None
         self.outdir = outdir
 
-        self.th1 = 0.5
+        self.th1 = 0.7
         self.th2 = 0.33
-        self.th3 = 0.4
+        self.th3 = 0.5
         self.src_gap = 4
         self.src_gap_least = 2
         self.susp_gap = 4
@@ -65,13 +65,15 @@ class Baseline:
         susp_fp = codecs.open(self.susp, 'r', 'utf-8')
         self.susp_text = susp_fp.read()
         self.susp_bow = Preprocessing.tokenize(self.susp_text, self.susp_offsets, self.susp_sents)
-
+        Preprocessing.ss_treat(self.susp_bow, self.susp_offsets, self.min_sentlen, self.rssent)
         susp_fp.close()
 
         src_fp = codecs.open(self.src, 'r', 'utf-8')
         self.src_text = src_fp.read()
         self.src_bow = Preprocessing.tokenize(self.src_text, self.src_offsets, self.src_sents)
+        Preprocessing.ss_treat(self.src_bow, self.src_offsets, self.min_sentlen, self.rssent)
         src_fp.close()
+
 
     def compare(self):
         """ Test a suspicious document for near-duplicate plagiarism with regards to
@@ -85,16 +87,16 @@ class Baseline:
             for j in range(len(self.src_bow)):
                 alza_sim = Seeding.alzahrani_similarity(self.susp_bow[i], self.src_bow[j], self.model)
                 if alza_sim > self.th1:
-                    """ kontrola
-                    print "***"
-                    print self.susp_bow[i]
-                    print self.src_bow[j]
-                    """
+                    # print "***"
+                    # print alza_sim
+                    # print self.susp_bow[i]
+                    # print self.src_bow[j]
                     ps.append((i, j))
 
         # extend faza
         (plags, psr) = Extension.integrate_cases(ps, self.src_gap, self.susp_gap, self.src_size, self.susp_size)
         (plags2, psr2) = Extension.integrate_cases(ps, self.src_gap + 20, self.susp_gap + 20, self.src_size, self.susp_size)
+
 
         plags = Extension.similarity3(plags, psr, self.src_bow, self.susp_bow, self.src_gap, self.src_gap_least, self.susp_gap,
                             self.susp_gap_least, self.src_size, self.susp_size, self.th3, self.model)
@@ -110,8 +112,8 @@ class Baseline:
             arg1 = (self.src_offsets[plag[0][0]][0], self.src_offsets[plag[0][1]][0] + self.src_offsets[plag[0][1]][1])
             arg2 = (
             self.susp_offsets[plag[1][0]][0], self.susp_offsets[plag[1][1]][0] + self.susp_offsets[plag[1][1]][1])
-            sum_src = sum_src + (arg1[1] - arg1[0]);
-            sum_susp = sum_susp + (arg2[1] - arg2[0]);
+            sum_src = sum_src + (arg1[1] - arg1[0])
+            sum_susp = sum_susp + (arg2[1] - arg2[0])
 
         if sum_src >= 3 * sum_susp:
             for plag in plags2:
@@ -149,7 +151,7 @@ if __name__ == "__main__":
         srcdir = sys.argv[2]
         suspdir = sys.argv[3]
         outdir = sys.argv[4]
-        model = Word2Vec.load_word2vec_format('data/model/GoogleNews-vectors-negative300.bin', binary=True)
+        model = Word2Vec.load_word2vec_format('/home/arijana/Desktop/apt/PlagiarismDetection/data/model/GoogleNews-vectors-negative300.bin', binary=True)
 
         if outdir[-1] != "/":
             outdir += "/"

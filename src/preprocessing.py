@@ -11,6 +11,7 @@ from nltk.stem import WordNetLemmatizer
 
 
 class Preprocessing(object):
+
     @staticmethod
     def tokenize(text, offsets=[], sents=[]):
         contractions_re = re.compile('(%s)' % '|'.join(contractions.keys()))
@@ -24,10 +25,20 @@ class Preprocessing(object):
         sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
         sents.extend(sent_detector.tokenize(text))
 
-        offsets.extend([a, b - a] for (a, b) in sent_detector.span_tokenize(text))
+        # import pdb; pdb.set_trace()
+
         raw = text.lower()
-        raw = expand_contractions(raw)
+
+        # import pdb; pdb.set_trace()
+
+        # aw = expand_contractions(raw)
+
+        # import pdb; pdb.set_trace()
+
         sentences = sent_detector.tokenize(raw)
+
+        offsets.extend([a, b - a] for (a, b) in sent_detector.span_tokenize(raw))
+
         sentences_tokenized = []
         for sentence in sentences:
             # za pretvorbu npr. car's -> car
@@ -55,18 +66,21 @@ class Preprocessing(object):
         return sentences_tokenized
 
     # za spajanje malih recenica
-    """
-    def ss_treat(list_dic,offsets,min_sentlen,rssent):
+    @staticmethod
+    def ss_treat(list_dic, offsets, min_sentlen, rssent):
         if rssent=='no':
             i=0
             range_i=len(list_dic)-1
             while i<range_i:
-                if sum(list_dic[i].values())<min_sentlen:
-                    list_dic[i+1]=sum_vect(list_dic[i+1],list_dic[i])
-                    del list_dic[i]
+                if len(list_dic[i]) < min_sentlen:
+
+                    list_dic[i].extend(list_dic[i+1])
+                    #sum_vect(list_dic[i+1],list_dic[i])
+                    del list_dic[i+1]
                     offsets[i+1]=(offsets[i][0],offsets[i+1][1]+offsets[i][1])
                     del offsets[i]
                     range_i-=1
+
                 else:
                     i=i+1
         else:
@@ -79,4 +93,4 @@ class Preprocessing(object):
                     range_i-=1
                 else:
                     i=i+1
-    """
+

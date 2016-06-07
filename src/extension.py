@@ -1,7 +1,5 @@
-from helpers import sum_vect
-from scipy import spatial
-
 from seeding import Seeding
+from sets import Set
 
 
 class Extension(object):
@@ -60,18 +58,17 @@ class Extension(object):
         i = 0
         range_i = len(plags)
         while i < range_i:
-            src_d = []
+            src_d = Set()
             for j in range(plags[i][0][0], plags[i][0][1] + 1):
                 #src_d = sum_vect(src_d, src_bow[j])
-                src_d.extend(src_bow[j])
-            susp_d = []
+                src_d.update(src_bow[j])
+            susp_d = Set()
             for j in range(plags[i][1][0], plags[i][1][1] + 1):
-                susp_d.extend(susp_bow[j])
+                susp_d.update(susp_bow[j])
                 #susp_d = sum_vect(susp_d, susp_bow[j])
 
-
             #if dice_coeff(src_d,susp_d)<=th3:# or cosine_measure(src_d,susp_d)<=0.40:
-            alza_sim = Seeding.alzahrani_similarity(susp_d, src_d, model)
+            alza_sim = Seeding.alzahrani_similarity(list(susp_d), list(src_d), model)
             #if (1 - spatial.distance.cosine(src_d, susp_d)) <= th3:
 
             if alza_sim <= th3:

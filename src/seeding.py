@@ -10,8 +10,13 @@ class Seeding(object):
                 max_sim = 0
                 for word_b in sentence_b:
                     if word_a in model and word_b in model:
-                        if model.similarity(word_a, word_b) > max_sim:
-                            max_sim = model.similarity(word_a, word_b)
+                        sim = model.similarity(word_a, word_b);
+                        if sim > max_sim:
+                            max_sim = sim
                 similarity += max_sim
-        res = similarity / max(len(sentence_a), len(sentence_b))
+        length = max(len(sentence_a), len(sentence_b))
+        if length != 0:
+            res = similarity / length
+        else:
+            res = 0
         return res
