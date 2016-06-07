@@ -3,6 +3,11 @@ body, html {
 	background-color: whitesmoke;
 }
 
+.container {
+	padding: 5px;
+	width: 95%;
+}
+
 .center {
 	text-align: center;
 }
@@ -10,7 +15,7 @@ body, html {
 .doc {
 	padding: 15px;
 	text-align: left;
-    border: 1px solid green;
+    border: 1px solid black;
 	overflow: auto;
 	min-height: 450px;
 	max-height: 450px;
@@ -46,10 +51,6 @@ body, html {
 	display: none;
 }
 
-.top-div {
-	background-color: #008080;
-}
-
 .no-padding {
 	padding: 0px;
 }
@@ -64,10 +65,23 @@ body, html {
 
 .navbar-default {
 	border-radius: 0px;
-	background-color: white;
+	background-color: #232323;
 	border-bottom-color: green;
 }
 
 .doc-filename {
 	color: green;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+	font-size: 20px;
+}
+
+.form-control {
+	border-radius: 0px;
+}
+
+.btn {
+	border-radius: 0px;
 }
