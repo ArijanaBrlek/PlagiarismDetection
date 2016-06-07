@@ -21,7 +21,7 @@ $(function() {
                $('#src-doc').html(data);
 
                 var p = $('#src-doc')[0],
-                    textArray = p.innerText.split('');
+                    textArray = data.split('');
 
                 jsonObj.fragments.forEach(function (fragment) {
                     fragment.src_offset = parseInt(fragment.src_offset, 10);
@@ -38,7 +38,7 @@ $(function() {
                $('#susp-doc').html(data);
 
                 var p = $('#susp-doc')[0],
-                    textArray = p.innerText.split('');
+                    textArray = data.split('');
 
                 jsonObj.fragments.forEach(function (fragment) {
                     fragment.susp_offset = parseInt(fragment.susp_offset, 10);

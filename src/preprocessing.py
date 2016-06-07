@@ -24,17 +24,8 @@ class Preprocessing(object):
 
         sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
         sents.extend(sent_detector.tokenize(text))
-
-        # import pdb; pdb.set_trace()
-
         raw = text.lower()
-
-        # import pdb; pdb.set_trace()
-
-        # aw = expand_contractions(raw)
-
-        # import pdb; pdb.set_trace()
-
+        #raw = expand_contractions(raw)
         sentences = sent_detector.tokenize(raw)
 
         offsets.extend([a, b - a] for (a, b) in sent_detector.span_tokenize(raw))
