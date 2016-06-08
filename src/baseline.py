@@ -157,7 +157,8 @@ if __name__ == "__main__":
             outdir += "/"
         lines = open(sys.argv[1], 'r').readlines()
 
-        for line in lines:
+        for (i, line) in enumerate(lines):
+            print "{}/{}".format(i + 1, len(lines))
             susp, src = line.split()
             baseline = Baseline(os.path.join(suspdir, susp), os.path.join(srcdir, src), outdir, model)
             baseline.process()
