@@ -35,7 +35,7 @@ class Baseline:
 
         self.th1 = 0.6
         self.th2 = 0.33
-        self.th3 = 0.33
+        self.th3 = 0.5
         self.src_gap = 4
         self.src_gap_least = 2
         self.susp_gap = 4
