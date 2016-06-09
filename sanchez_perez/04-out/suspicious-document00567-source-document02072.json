@@ -1,0 +1,1 @@
+{"fragments": [{"src_len": "439", "src_offset": "896", "susp_offset": "341", "susp_len": "476"}, {"src_len": "955", "src_offset": "116", "susp_offset": "3234", "susp_len": "594"}, {"src_len": "487", "src_offset": "1509", "susp_offset": "15610", "susp_len": "761"}], "susp_file": "suspicious-document00567.txt", "src_file": "source-document02072.txt"}
