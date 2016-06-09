@@ -1,0 +1,24 @@
+Reading data/01-no-plagiarism/
+Reading data/t1_07_out01/
+Processing... (this may take a while)
+Plagdet Score 1.0
+Recall 1
+Precision 1
+Granularity 1
+
+Reading data/04-translation-obfuscation/
+Reading data/04-out/
+Processing... (this may take a while)
+Plagdet Score 0.682949939697
+Recall 0.52734769441
+Precision 0.97351295745
+Granularity 1.00236406619
+
+Reading data/05-summary-obfuscation/
+Reading data/05-out/
+Processing... (this may take a while)
+Plagdet Score 0.0585232847815
+Recall 0.0316654836006
+Precision 0.999215498584
+Granularity 1.06896551724
+

@@ -151,7 +151,7 @@ if __name__ == "__main__":
         srcdir = sys.argv[2]
         suspdir = sys.argv[3]
         outdir = sys.argv[4]
-        model = Word2Vec.load_word2vec_format('/home/arijana/Desktop/apt/PlagiarismDetection/data/model/GoogleNews-vectors-negative300.bin', binary=True)
+        model = Word2Vec.load_word2vec_format('/home/arijana/APT/PlagiarismDetection/data/model/GoogleNews-vectors-negative300.bin', binary=True)
 
         if outdir[-1] != "/":
             outdir += "/"
