@@ -1,0 +1,59 @@
+EquiTrust Life Certainty Select 10
+Ten Year Guaranteed Interest Rate (30k)
+6.00%
+ 
+Equity-Indexed Annuities Explained
+An equity-indexed annuity is an annuity that earns interest that is linked to a stock or other equity index. One of the most commonly used indices is the Standard & Poor's 500 Composite Stock Price Index (the S&P 500).
+HOW ARE THEY DIFFERENT FROM OTHER FIXED ANNUITIES?
+An equity-indexed annuity is different from other fixed annuities because of the way it credits interest to your annuity's value. Most fixed annuities only credit interest calculated at a rate set in the contract. Equity-indexed annuities credit interest using a formula based on changes in the index to which the annuity is linked. The formula decides how the additional interest, if any, is calculated and credited. How much additional interest you get and when you get it depends on the features of your particular annuity.
+Click Here
+Your equity-indexed annuity, like other fixed annuities, also promises to pay a minimum interest rate. The rate that will be applied will not be less than this minimum guaranteed rate even if the index-linked interest rate is lower. The value of your annuity also will not drop below a guaranteed minimum. For example, many single premium annuity contracts guarantee the minimum value will never be less than 90 percent (100 percent in some contracts) of the premium paid, plus at least 3% in annual interest (less any partial withdrawals). The insurance company will adjust the value of the annuity at the end of each term to reflect any index increases.
+Equity Indexed Annuities of the Month
+Midland National MNL Ten
+Provides 7.50% Guaranteed Payment Balance Growth and Guaranteed Lifetime Income Payments
+ 
+100% Participation No Spread/Margin Fees
+10.00% Upfront Bonus
+No Cap RateUnlimited Upside Interest Potential
+14 Year Surrender Term
+10.00% Bonus 100% Participation No Spread/Margin Fees
+ 2.35%
+Click Here For a Complete Listing of All Available Equity Indexed Annuities
+WHAT ARE SOME OF THE CONTRACT FEATURES?
+Two features that have the greatest effect on the amount of additional interest that may be credited to an equity-indexed annuity are the indexing method and the participation rate. It is important to understand the features and how they work together. The following describes some other equity-indexed annuity features that affect the index-linked formula.
+The indexing method means the approach used to measure the amount of change, if any, in the index. Some of the most common indexing methods, which are explained more fully later on, include annual reset (ratcheting), high-water mark and point-to-point.Indexing Method
+The participation rate decides how much of the increase in the index will be used to calculate index-linked interest. For example, if the calculated change in the index is 9% and the participation rate is 70%, the index-linked interest rate for your annuity will be 6.3% (9% x 70% = 6.3%). A company may set a different participation rate for newly issued annuities as often as each day. Therefore, the initial participation rate in your annuity will depend on when it is issued by the company. The company usually guarantees the participation rate for a specific period (from one year to the entire term). When that period is over, the company sets a new participation rate for the next period. Some annuities guarantee that the participation rate will never be set lower than a specified minimum or higher than a specified maximum.Participation Rate
+Some annuities may put an upper limit, or cap, on the index-linked interest rate. This is the maximum rate of interest the annuity will earn. In the example given above, if the contract has a 6% cap rate, 6%, and not 6.3%, would be credited. Not all annuities have a cap rate.Cap Rate or Cap
+The floor is the minimum index-linked interest rate you will earn. The most common floor is 0%. A 0% floor assures that even if the index decreases in value, the index-linked interest that you earn will be zero and not negative.Floor on Equity Index-Linked Interest
+In some annuities, the average of an index's value is used rather than the actual value of the index on a specified date. The index averaging may occur at the beginning, the end, or throughout the entire term of the annuity.Averaging
+In some annuities, the index-linked interest rate is computed by subtracting a specific percentage from any calculated change in the index. This percentage, sometimes referred to as the "margin," "spread," or "administrative fee," might be instead of, or in addition to, a participation rate. For example, if the calculated change in the index is 10%, your annuity might specify that 2.25% will be subtracted from the rate to determine the interest rate credited. In this example, the rate would be 7.75% (10% - 2.25% = 7.75%). In this example, the company subtracts the percentage only if the change in the index produces a positive interest rate.Margin/Spread/Administrative Fee
+HOW DO THE COMMON INDEXING METHODS DIFFER?
+Index-linked interest, if any, is determined each year by comparing the index value at the end of the contract year with the index value at the start of the contract year. Interest is added to your annuity each year during the term.Annual Reset
+The index-linked interest, if any, is decided by looking at the index value at various points during the term, usually the annual anniversaries of the date you bought the annuity. The interest is based on the difference between the highest index value and the index value at the start of the term. Interest is added to your annuity at the end of the term.High-Water Mark
+The index-linked interest, if any, is based on the between the index value at the end of the term and the index value at the start of the term. Interest is added to your annuity at the end of the term.Point-to-Point
+difference
+WHAT ARE SOME OF THE ADVANTAGES AND DISADVANTAGES OF DIFFERENT INDEXING METHODS?
+Generally, annuities offer combinations of indexing features. You may have to make trade-offs to get features you want in an annuity. This means the annuity you choose may also have some features you don't want.preset
+Advantages
+Annual Reset
+ 
+Since the interest earned is "locked in" annually and the index value is "reset" at the end of each year, future decreases in the index will not affect the interest you have already earned. Therefore, your annuity using the annual reset method may credit more interest than annuities using other methods when the index fluctuates up and down often during the term. This design is more likely than others to give you access to index-linked interest before the term ends.
+Your annuity's participation rate may change each year and generally will be lower than that of other indexing methods. Also, an annual reset design may use a cap or averaging to limit the total amount of interest you might earn each year.
+High-Water Mark
+ 
+Since interest is calculated using the highest value of the index on a contract anniversary during the term, this design may credit higher interest than some other designs if the index reaches a high point early or in the middle of the term, then drops off at the end of the term.
+Interest is not credited until the end of the term. In some annuities, if you surrender your annuity before the end of the term, you may not get index-linked interest for that term. In other annuities, you may receive index-linked interest, based on the highest anniversary value to date and the annuity's vesting schedule. Also, contracts with this design may have a lower participation rate than annuities using other designs or may use a cap to limit the total amount of interest you might earn.
+Point-to-Point
+ 
+Since interest cannot be calculated before the end of the term, use of this design may permit a higher participation rate than annuities using other designs.
+Since interest is not credited until the end of the term, typically six or seven years, you may not be able to get the index-linked interest until the end of the term.
+WHAT IS THE IMPACT OF SOME OTHER PRODUCT FEATURES?
+While a cap limits the amount of interest you might earn each year, annuities with this feature may have other product features you want, such as annual interest crediting or the ability to take partial withdrawals. Also, annuities that have a cap may have a higher participation rate.Cap on Interest Earned
+Averaging at the beginning of a term protects you from buying your annuity at a high point, which would reduce the amount of interest you might earn. Averaging at the end of the term protects you against severe declines in the index and losing index-linked interest as a result. On the other hand, averaging may reduce the amount of index-linked interest you earn when the index rises either near the start or at the end of the term.Averaging
+The participation rate may vary greatly from one annuity to another and from time to time within a particular annuity. Therefore, it is important for you to know how your annuity's participation rate works with the indexing method. A high participation rate may be offset by other features, such as averaging, or a point-to-point indexing method. On the other hand, an insurance company may offset a lower participation rate by also offering a feature such as an annual reset indexing method.Participation Rate
+View a Complete Listing of Available Equity Indexed Annuities - Click Here
+HOW DO I KNOW WHICH EQUITY-INDEXED ANNUITY IS BEST FOR ME?
+As with any other insurance product, you must carefully consider your own personal situation and how you feel about the choices available. No single annuity design may have all the features you want. It is important to understand the features and trade-offs available so you can choose the annuity that is right for you. Keep in mind that it may be misleading to compare one annuity to another unless you compare all the other features of each annuity. You must decide for yourself what combination of features makes the most sense for you. Also, remember that it is not possible to predict the future market behavior of an index.
+To speak with a live, licensed AnnuityAdvantage Specialist regarding  Equity-Indexed Annuities, please call toll-free at 1-800-239-0356.
+Send email to with questions or comments about this web site. Copyright 2001-2008 AnnuityAdvantage.com webmaster@annuityadvantage.com
+Alternate Home Page

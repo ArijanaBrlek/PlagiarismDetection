@@ -1,0 +1,6 @@
+Administrator User
+21/08/2008 4:33 pm
+PVC is an amorphous polymer and as a result its products are basically transparent. PVC products are non-transparent when they are manufactured using compounding agents that are non-compatible. The haze value is used to measure the transparency of plastic products.
+This value is a percentage value calculated by dividing the diffused light transmittance of the test piece with the total light transmittance. It is also possible to manufacture PVC products with superior gloss. Gloss is expressed in terms of gloss value, which usually shows the amount of reflected light from the test piece compared to amount of reflected light from glass (amount from glass defined as 100%). The table shows the haze value and gloss value of PVC films compared with other films made of general purpose plastics. The smaller the haze value, the higher the transparency, and higher gloss values indicate enhanced gloss.
+Rigid PVC products that have high transparency are used in construction materials such as day-lighting, transparent partitions for clean rooms, or industrial flat plates, corrugated panels. They are also used in packaging (blisters). Examples of flexible PVC products requiring transparency are wrap films, transparent bags and coating films.
+Haze value and gloss value of various films

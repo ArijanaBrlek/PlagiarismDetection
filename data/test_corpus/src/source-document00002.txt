@@ -1,0 +1,11 @@
+Papers In Press, published online ahead of print August 29, 2000
+J. Biol. Chem, 10.1074/jbc.M001797200
+Submitted on March 3, 2000
+Revised on August 22, 2000
+Accepted on August 29, 2000
+Macrophage-Colony Stimulating Factor Rapidly Enhances beta-VLDL Metabolism in Macrophages Through Activation of a Gi/o-Protein Signaling Pathway
+Stewart C. Whitman, Alan Daugherty, and Steven R. Post
+Pharmacology, University of Kentucky, Lexington, KY 40536-0298
+Corresponding Author:spost{at}pop.uky.edu
+Previous studies have examined lipoprotein metabolism by macrophages following prolonged exposure (>24h) to macrophage-colony stimulating factor (M-CSF). Because M-CSF activates several signaling pathways that could rapidly affect lipoprotein metabolism, we examined whether acute exposure of macrophages to M-CSF alters the metabolism of either native or modified lipoproteins. Acute incubation of cultured J774 macrophages and resident mouse peritoneal macrophages with M-CSF markedly enhanced LDL and -VLDL stimulated cholesteryl [H]oleate deposition. In parallel, M-CSF treatment increased the association and degradation of [I]-labeled LDL or -VLDL without altering the amount of lipoprotein bound to the cell surface. The increase in LDL and -VLDL metabolism did not reflect a generalized effect on lipoprotein endocytosis and metabolism because M-CSF did not alter cholesterol deposition during incubation with acetylated LDL. Moreover, M-CSF did not augment -VLDL cholesterol deposition in macrophages from LDL receptor (-/-) mice indicating that the effect of M-CSF was mediated by the LDL receptor. Incubation of macrophages with pertussis toxin, a specific inhibitor of G-protein signaling, had no effect on cholesterol deposition during incubation with -VLDL alone, but completely blocked the augmented response promoted by M-CSF. In addition, incubation of macrophages with the direct G-protein activator, mastoparan, mimicked the effect of M-CSF by enhancing cholesterol deposition in cells incubated with -VLDL, but not acetylated LDL. In summary, M-CSF rapidly enhances LDL receptor-mediated metabolism of native lipoproteins by macrophages through activation of a G-protein signaling pathway. Together, these findings describe a novel pathway for regulating lipoprotein metabolism.
+3125

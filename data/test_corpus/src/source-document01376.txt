@@ -1,0 +1,19 @@
+@   Database Management (5)
+- Starjet electronic forms generator. APPIC
+- RPM - Remote Print Manager - supports printing using MPE/iX's TCP/IP service and telnet protocol. Also known as "stream printing" or "reverse telnet". Brooks Internet Software
+- Disaster recovery and hotsite recovery services for the HP 3000. Computer Solutions, Inc.
+- Part of HP's corporate-wide initiative in high availability and mission critical computing. Hewlet-Packard -- Business Recovery Services
+- Performance software and consulting services. SOS/3000 -- performance monitoring and diagnosis; Defrag/X; Forcast3000 -- capacity planner; Performance Gallery Gold --graphic performance management. Lund Performance Solutions
+- Data center management tools and cross-platform spoolfile management products for MPE/iX, HP-UX, and NT systems. JobRescue, JobQue, ElectroPage, TranSpooler. Nobix
+- Reveal Enterprise can electronically capture, store, deliver, and manage documents and reports from multiple systems to users and customers. OPIN Systems
+- Flexform electronic forms printing. Proactive Systems, Inc.
+- High availability solutions and middleware gateways for open systems interoperability. Quest Software
+- Espul spoolfile and network printing management. RAC Consulting
+- Software for HP 3000 and MPE. Maestro -- automated job scheduling. RoadRunner for MPE -- backup and recovery. Formation -- electronic forms printing. Spoolmate -- spool file management. TapesPlus -- tape library management. ROC Software
+- E-space disk space manager optimizes and defragments disk space on-line. Solution-Soft Systems Inc.
+- From traditional disaster recovery to the latest in information availability solutions, SunGard offers hotsite services, end user recovery, managed services and consulting. SunGard Availability Services
+"" search on:  Systems Management
+to edit this category. Volunteer
+    Copyright © 1998-2008 Netscape
+   |  |  |  | Visit our sister sites mozilla.org ChefMoz MusicMoz Open-Site Wikipedia
+Last update: 9:33 PT, Monday, September 15, 2008 - edit

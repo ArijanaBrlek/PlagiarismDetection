@@ -1,0 +1,45 @@
+Web Resources
+Commercial Vendors
+The power, flexibility, and reliability of FreeBSD attract a wide variety of users and vendors. Here you will find vendors offering commercial products and/or services for FreeBSD.
+For your convenience, we have divided our growing commercial listing into several sections. If your company supports a FreeBSD-compatible product or service that should be added to this page, please fill out a for category www. Submissions should be in HTML and a medium-sized paragraph in length. problem report
+Internet Service Providers
+Active Domain
+Active-Domain.com has been providing domain name registration service since 2001. We are utilizing FreeBSD exclusively on all our mail, web and DNS servers. The stability and security of FreeBSD has enabled us to provide consistently DNS service for over hundred thousand domain names. We fully recommend and support the development of FreeBSD.
+Active Venture Pte Ltd
+Active-Venture.com strives to provide one of the most feature-packed and affordable web hosting services on the market. We offer an extensive range of FreeBSD-based virtual hosting plans to meet the needs of any webmaster for personal, professional, or ecommerce web hosting requirements.
+Anthony Carmody Consulting
+Anthony Carmody Consulting offers a range of Internet related FreeBSD services including: Shared Web Hosting, Dedicated Servers, Co-location and Remote Administration and Monitoring. We currently maintain a list of: Mail, DNS, Web, Database, IM, Streaming Media, Network Management and File/Backup Servers. Customers can supply hardware or purchase directly from us. All supplied servers are based on a high quality rack mounted 1RU Chenbro chassis, Supermicro Mainboards, ECC registered RAM and 3Ware Disc Controllers. Tower servers are available on request.
+Aplus.Net
+Aplus.Net is a facilities based provider located in San Diego, CA since 1995. We provide Web Hosting, Dedicated Servers, Domain Names, Web Design, and E-Commerce solutions. We offer to our customers the power and stability of the FreeBSD Operating System with our Web Hosting and Dedicated Servers. Aplus.Net, everything for your online business.
+Bewide Internet Service Provider
+Bewide is an Internet Service Provider focussing on all forms of hosting, domain registration and development of internet applications. We are a company demanding a high level of quality, using high quality hardware. FreeBSD is the operating system of our choice, powering our systems with a high quality operating system, perfectly suited for our company. For more information about Bewide, please visit our website http://www.bewide.com
+Crucial Servers LLC
+Crucial Servers LLC uses FreeBSD to the fullest controlling our hosting network behind PC FreeBSD based routers that control ipv4 and ipv6 connectivity, traffic shapping and advanced firewall tactics all currently use FreeBSD. All our public and private web servers all run FreeBSD 4.9 or higher and have uptimes over 400 days. We are a FreeBSD friendly provider and offer Free consulting for colocation and server customers.
+ElanTech, Ltd.
+We are providing wide range of IT services for small business companies in our region (Moscow, Russia). Our main tasks - IT outsourcing and WEB developement. As part of IT support and building networks for our customers we use the reliable and efficient OS - FreeBSD. All our WEB developers use FreeBSD as comfortable development hosting platform. Please, be free to . contact us
+EscapeBox
+The ISP-in-a-Box: Managed On-Demand UNIX Servers. Time efficient and affordable! Relevant Internet software is pre-installed and maintained centrally. User benefit: the convenience of a homepage account, combined with the flexibility of a dedicated server. No hassle with security updates etc. Resellers are welcome, too.
+F/X Services Managed Hosting
+We specialize in Internet Services and we have been doing so since 1999. We do this in a no-nonsense way: no long lists of tech-terms, just information that matters. We are your partner if you are looking for: Colocating and/or managing dedicated server(s), Online backup / storage service, High quality webhosting for your site(s), Domain registration(s), Anti-Spam and Anti-Virus mailscanning services, Hosting of mailinglists, from low to high volume
+Gecad Technologies
+Gecad Technologies develops an innovative messaging solution available for Linux and BSD Platforms - AXIGEN Mail Server. This highly configurable MTA offers (E)SMTP, POP3, IMAP4 and Webmail SSL/TLS secured services. It includes an integrated list server and connectors for Antivirus and Antispam applications. AXIGEN provides several administration tools, including an intuitive Web configuration interface, granting system administrators full control of the email traffic. AXIGEN works on FreeBSD, NetBSD and OpenBSD. For more information, please see . http://www.axigen.com
+gradwell dot com Ltd
+gradwell dot com Ltd is a UK Internet Email and Webhosting provider offering UNIX shell accounts, web hosting, mailman and ezmlm, pop3, imap, webmail (squirrelmail), mysql, php, fastcgi and mod_perl hosting on FreeBSD servers in London. Our site is . Phone: 0870 787 9129. http://www.gradwell.com
+Hamburgnet
+Hamburgnet provides you with experience in FreeBSD and OpenBSD based projects. From low-end webservers to high-end firewall and database clusters. Storage, server, Unix, cluster & consulting. You can visit our , , phone us at +49 (40) 73672322 or contact us via fax at +49 (40) 73672321. website mail us
+HostingFreak.net, Inc.
+HostingFreak is a company providing hosting services for everyone's needs. Whether it might be a high content, or a private website, we are dedicated to a high level of reliability and performance. Our company offers hosting services ranging from web-site hosting to self-managed dedicated servers.
+ImproWare AG
+ImproWare AG focuses on Internet and Networking Services as well as System Integration and Consulting. ImproWare runs its own swiss-wide Multiservice-Backbones. It offers internet access via cable and leased lines. Serverhousing with 24/7 access to the server-room is also a service ImproWare offers.
+Internet Engineering Association, LLC
+Internet Engineering Association, LLC specializes in providing extremely secure, private and reliable Internet services. Our complete website and email services provide clients a reliable, worry free environment. Every server we use to provide service runs on FreeBSD. Our technical infrastructure is housed within state-of-the-art Internet Data Center facilities located in Tokyo and San Francisco. Our systems are designed to be extremely secure and reliable.
+Interoute Deutschland GmbH
+Interoute Deutschland is located in Duesseldorf, Germany. As full service provider we deliver a large range of services including leased lines, (S)DSL, virtual and dedicated hosting. Using FreeBSD since years for internal purposes and customer solutions we are sure to meet your requirements.
+IP Global.net
+IP Global is the leading Texas Internet Service Provider offering data transport services to all major cities as well as hosting and colocation solutions to businesses and groups around the globe. We specialize in carrier grade transport circuits for Houston, Austin, Dallas / Fort Worth, and San Antonio ranging in connections from Fractional T1, Integrated T1, Full Unmetered T1 Service, and bundled T1's up to Burstable and Full T3 packages. IP Global also delivers Highspeed DSL and Local 56K Dialup Internet to the Houston area.
+JohnCompanies
+JohnCompanies Collocation is a specialist in both dedicated and virtual FreeBSD servers. Unlimited technical support comes directly from FreeBSD engineers with no complicated ticket system, impersonal auto responders and no first level techs reading from cue-cards. Servers are housed in a state of the art, secure hosting facility with multi-homed tier 1 backbone connections.
+K2 Colocation
+K2 Colocation is a BSD friendly colocation company. Our infrastructure resides on IBM xSeries servers running FreeBSD. We can provide colocation solutions for small, medium and enterprise level businesses. We believe by focusing our efforts to the colocation arena we can better serve our customers.
+Keyway Internet Services
+Keyway Internet Services has provided premium business and residential solutions since 1995. Nationwide services include business-class hosting and dialup access. Southern California services include T1, Fiber, DSL, and Wireless. We feature our own colocation facility in Ontario, CA, and are proud to feature FreeBSD as a recommended platform. All clients receive live no-hold support, and T1/Colocation clients receive 24/7/365 support.

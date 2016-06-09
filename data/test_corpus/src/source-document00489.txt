@@ -1,0 +1,25 @@
+"Diagrammatic reasoning is the only really fertile reasoning." – C.S. Pierce
+Introduction
+The Starlight Information Visualization System (Starlight) is simultaneously a powerful information analysis tool and a platform for conducting advanced visualization research.
+The human mind is an unparalleled pattern recognition engine, and the visual channel is the most efficient and highest bandwidth interface to that engine. The key to harnessing this power for problem solving is to capture information relationships in meaningful ways, and present these relationships in intuitive graphical forms.
+Starlight couples advanced information modeling and management functionality with a visualization-oriented user interface. This approach makes relationships that exist among the items in the system visible, enabling exciting and powerful new forms of information access, exploitation, and control.
+(PNNL) developed Starlight over six years of research. It is the first commercially available information visualization system that uses a wide variety of capabilities in a single, integrated package. This allows Starlight to support the largest range of analytical functions possible today. Pacific Northwest National Laboratory
+Visualization
+Consider an arbitrary set of "information objects," perhaps a collection of Web pages, database records, a group of related email messages. These collections are valuable because they can be used to help solve problems.
+Looking at individual items is strictly a matter of retrievalfinding and examining the items that have a certain property. Looking at relationships between items, or information analysis, is much more involved—comparing various properties of items with one another, and comparing such properties with prior knowledge. As the volume and complexity of information increases, human ability to make these kinds of comparisons mentally degrades rapidly.
+Visualization technologies can reverse this trend by capturing relationships in a kind of graphical "memory" where they can be more easily compared and evaluated. This makes visualization a potentially powerful tool for information analysis—allowing humans to make rapid, efficient, and effective comparisons. The best information visualization systems will have a wide range of possible comparisons which can be quickly and easily made.
+How it Works
+Starlight accommodates a wide variety of relationship types, including discrete property (i.e., field/value pair) co-occurrences, free-text similarity, temporal relationships, parent-child associations, network relationships, and spatial (e.g., geospatial) relationships.
+Starlight uses a common XML-based information model which captures multiple types of relationships that may exist among disparate information. The model can flexibly accommodate the full range of information types expressible in XML—which is almost any type of digital information.
+Starlight is explicitly designed to manipulate the types of relationships humans need to understand in order to solve complex, multifaceted, real-world problems. Graphical representations enable the underlying relationships to be visually interpreted.
+Viewers can interactively move among multiple representations of the same information in order to uncover correlations that may span multiple relationship types. For example, email messages can be related to one another in a number of different ways:
+topological relationships among the senders and recipients
+conceptual similarities among the message contents
+temporal correlations among the messages
+spatial correlations involving places that are physically close.
+Clients may choose to graphically depict such "email spaces" in any of a number of ways, depending on the problem being solved. An analyst may initially wish to view the collection as a network diagram in which the emails are portrayed as edges connecting nodes that represent senders and recipients, to identify important topological relationships among individuals based on "who sent what to whom." Once a particular subset of email had been identified based on its network topology, an analyst might switch to a conceptual representation of the same information that summarizes the concepts described in the items of interest. Following that, the analyst could switch the display to another alternate representation that spatially groups the items according to author or recipient. In this way, even extremely complex and multifaceted relationships that exist in the collection can be quickly and easily characterized and assimilated.
+continues developing Starlight to seamlessly accommodate all of these relationship types, and visualization tools to enable users to quickly understand the potentially complex interdependencies among them. PNNL
+More Information
+For examples showing how Starlight can be applied to a variety of different problem domains, review the section. Applications
+For additional information, refer to the section, or directly. Frequently Asked Questions (FAQ) Contact us
+Starlight

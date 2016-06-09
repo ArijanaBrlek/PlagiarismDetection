@@ -1,0 +1,9 @@
+Since2002 Apl.1st
+Introduces measurement items in the database.
+Provides the measurement method for body size, physical fitness, maximum strength, range of voluntary motion of joints, passive counteraction of joints, and functional power of the upper limbs.
+Provides charts of body characteristics for each measurement item.
+You can calculate and graph statistics pertaining to the body characteristics, such as the maximum strength, and download the original data.
+[] [] [] [] Measurement Items Measurement Method List of data Database
+Notes for using
+-This site is optimized for Internet Explorer 5.x. If you use other browsers, some functions may be restricted. The database for this institution uses JavaScript and cookies. Refer to for the settings. -A chart for passive counteraction of joints is displayed with rougher sampling data than the actual one in order to display the data quickly. Therefore, if you calculate a regression equation from it, the solution will be different from the actual data. this
+Copyright 2002-2004(C) National Institute of Technology and Evaluation All rights reserved.

@@ -1,0 +1,14 @@
+MERIC has compiled detailed demographic and economic data for 10 regions in Missouri.
+ 
+U.S. Census County Data
+Kansas City, Platte, Clay, Ray, Jackson and Cass Counties Kansas City
+Audrain, Boone, Callaway, Camden, Cole, Cooper, Crawford, Dent, Gasconade, Howard, Laclede, Maries, Miller, Moniteau, Morgan, Osage, Phelps, Pulaski and Washington Counties Central
+Adair, Clark, Knox, Lewis, Lincoln, Macon, Marion, Monroe, Montgomery, Pike, Ralls, Randolph, Schuyler, Scotland, Shelby and Warren Counties Northeast
+Andrew, Atchison, Buchanan, Caldwell, Clinton, Daviess, DeKalb, Gentry, Grundy, Harrison, Holt, Linn, Livingston, Mercer, Nodaway, Putnam, Sullivan and Worth Counties Northwest
+Dallas, Christian, Greene, Polk, Stone, Taney and Webster Counties Ozark
+Butler, Carter, Douglas, Howell, Oregon, Ozark, Reynolds, Ripley, Shannon, Texas, Wayne and Wright Counties South Central
+Bollinger, Dunklin, Cape Girardeau, Iron, Madison, Mississippi, New Madrid, Pemiscot, Perry, Scott, St. Francois, Ste. Genevieve and Stoddard Counties Southeast
+Barry, Barton, Dade, Jasper, Lawrence, McDonald and Newton Counties Southwest
+Bates, Benton, Carroll, Cedar, Chariton, Henry, Hickory, Johnson, Lafayette, Pettis, St. Clair, Saline and Vernon Counties West Central
+Franklin, Jefferson, St. Charles, St. Louis Counties and St. Louis City St. Louis Region
+|| | | | | | |

@@ -1,0 +1,157 @@
+() << Return to Beyond TV Homepage Beyond TV Release Notes
+Follow to verify the version of Beyond TV you're currently using.Note: these instructions
+Version 4.9 Release Notes
+Build 6073 | November 21, 2008
+New Features
+- QAM support - Placeshifting - Tech support upload through Web Admin - Add recording-level setting for "max days" expiration - StreamSnip on the fly for ATSC and QAM recordings - Add option to tag recordings automatically with the name of user who scheduled them - Create a new MPEG-2 transport stream demux - Improved support for Hauppauge HD PVR - Support Hauppauge HVR-2250
+Bug Fixes
+- ShowSqueeze from HD/QAM to iPod Classic/Nano no longer fails - H.264 iTunes conversions no longer have audio/video sync on iPod Touch and iPhone 2.X firmware
+Improvements
+- The DVD Burning & H.264 Plug-In is now buit-in by default to Beyond TV and Beyond TV Link - Add "send ENTER / OK / SELECT before channel change" option to IR blaster tuning - Improved recorded shows section in the Web Admin - Add Replace Showsqueeze (the oppisite of replace originals) to Recorded Shows views - Various small useful tweaks to information displayed in the Web Admin - Improved SmartChapter accuracy - Improved SSL support in the Web Admin - Faster Scheduler Startup - Faster Library startup
+Version 4.8.2 Release Notes
+Build 5607 | July 2, 2008
+New Features
+- - Brand new Recorded Shows page in the Web Admin - added to the Web Admin (ala Couchville) - User specific watched/new properties - Add user accounting messages to Beyond TV log - Automatic handling of programs that by 5 minutes or less - Automatic HD ShowSqueeze with independent settings Library Folder permissions
+overlap
+Bug Fixes
+- Fixed ViewScape lockups while watching Live TV in Link - Fixed SmartChapter markers show in inprogress recordings after viewing a smartchapter recording - Fixed volume goes to 0 if you play a corrupt file - Fixed handling unicode text in the Web Admin - Fixed IE proxy settings interfering with Link connectivity - Fixed extending recordings creating multiple files - Fixed Live TV prompting to change channel to make a recording when it didn't need to - Fixed corrupt audio on WMV ShowSqueeze - Fixed Saved Guide Searches ignoring certain words
+Improvements
+- Scheduler overhaul, offering up to 80X performance increases over 4.8.1 - Record On Any channel updates to more intelligently schedule recordings and resolve conflicts - Improved conflict resolution in general - Web Admin look and feel improvements to nearly every page - Updated to the latest H.264 and DivX encoders and decoders - Saved Guide Searches has new fields such as IS:New and IS:Movie - More accurate skipping in recorded VBR transport stream files - New 640x480 iPod options in H.264 profiles
+Version 4.8.1 Release Notes
+Build 5118 | March 20, 2008
+New Features
+- Added "" - Add ability to do frame by frame playback in ViewScape - Display recording schedule stats (avg hours per day of recorded TV, etc) - Implement in BTV and Link - Simple e-mail admin notifications - DirecTV Pay Per View Guide Data - Create webadmin page showing connected link client info - Add "Enter Server" feature to link - Support ATI Theater 650 PCI-E Combo tuner - Support Hauppauge HVR-1800 Combo tuner Saved Guide Searches
+access control
+Bug Fixes
+- DST Time change breaks Timeslot recordings - Fixed playback on some ATSC HD channels - Extra Shows expiration not working correctly - BTV isn't installed properly on Vista64 or XP64 - Search by Keyword does not display all hits in the preview before going to the results - Fixed playback of >2GB H.264 files - Weekly timeslot recordings have a UTC vs. Local bug - Setup Wizard not using USB-UIRT correctly
+Improvements
+- Added option to sort/filter library display in FSGUI - Use SSL for sending passwords in link and the Web Admin, making BTV Link more secure - Improved performance/reduced CPU usage of incremental updates - Handle DST in the Guide better - Make Link activity or Web Admin activity keep the system from going to standby - Tab Key does not change fields in right order in setup wizard: .net setup - Enlarge confirmation number font - Improved Vista compatibility - Major Web Admin improvements (New navigation menu, improved Opera/Safari compatibility) - Reduce BTVRecordingEngine memory usage while it is recording - Search By Title and Search By Keyword performance and correctness improvements
+Version 4.7.1 Release Notes
+Build 4529 | September 27, 2007
+New Features
+- Automatically sync shows to iPod, iPhone or Apple TV with the optional . - Burn DVDs directly from Beyond TV Link with Link's optional . - Span recordings across multiple harddrives as if you were recording to a single logical drive. - Record the most popular shows using the "Automatic Community Recordings" feature. - "Firefly Mobile" web-based remote allows you to control Beyond TV from your smart phone or PDA. - Support for multiple USB-UIRT devices in Beyond TV. - Record a show at a particular timeslot only. - Extend a recording from the Beyond TV Viewscape while watching the recording in progress. - Line-up changes are detected and automatically updated by Beyond TV. - Search for shows by keyword and add recording jobs from the Web Admin. - Warnings viewable from the Web Admin. - The order that custom post processing events happen is now configurable. DVD Burning & H.264 Plug-in
+DVD Burning Plug-in
+Bug Fixes
+- Updates and fixes to the recording scheduler. - Windows Media files can now be streamed to XBOX 360 using Windows Media Player 11. - ShowSqueeze™ jobs with constraints spanning 2 days now work correctly. - ShowSqueeze™ copy function reliability improved. - Improved reliability with Beyond TV Link live TV playback. - Beyond TV settings saved during PC crashes. - Keyboard number pad can be used in the manual recordings screen. - AverMedia A180 ATSC tuner card supported by Beyond TV under Vista. - Starting live TV with the Silicon Dust HDHomeRun is faster.
+Improvements
+- Web Admin has added calendar of upcoming recordingsand Ajax code to various pages. - Beyond TV Link has added sessions to prevent users from interfering with one another. - Un-fullscreen button added to fullscreen theater mode in the Beyond TV Viewscape. - User can configure number of simultaneous ShowSqueeze™ occurrences. - Web Admin can be toggled between Beyond TV and Beyond TV Link mode. - ActiveX download manager control added for Internet Explorer downloads. - DVD burning engine now allows the configuration of burning speed. - Library speed and performance improved. - DVD burning can be configured to skip padding when generating thumbnails for the DVD menu. - Various performance improvements. - Optimizations made to the scheduler. - Web Admin performance improvements. - Caching of streamed video to Beyond TV Link optimized. - Virtual Memory usage reduced in Beyond TV Link. - Search By Title and Search By Keyword returns faster results. - Recordings can be made to UNC and mapped network folders. - Recordings in progress are recovered if the PC reboots.
+Version 4.6.1 Release Notes
+Build 3939 | April 5, 2007
+Bug Fixes
+- Recordings failing due to, "Could not attach to graph" error are no longer failing. - Setup wizard now detects sound devices for software encode TV tuner cards. - TV format settings now correctly being saved as NTSC or PAL in the Web Admin. - AVerMedia M780 PCI express TV tuner now capable of using both of its onboard tuners simultaneously. - Serial tuning satellite and set-top-boxes on COM ports higher than 9 can now be done. - Meta-data no longer lost when copying video files. - Manual recordings no longer being ended prematurely when the Beyond TV recording scheduler is rebuilt. - Manual recordings made within the Beyond TV Viewscape are now being scheduled on the correct channel in cases where duplicate channels exist in a person's lineup.
+Improvements
+- Library monitoring and performance improved. - HDHomeRun (ATSC and QAM support) now supported. - Serial tuning for DirecTV D11 Model 500 now supported.
+Version 4.6 Release Notes
+Build 3839 | February 15, 2007
+New Features
+- Microsoft Vista 32bit Compatibility for Beyond TV and Firefly Mini. - Web Based DivX streaming supported. - Support for Hauppauge HVR-1600 in dual tuner (ATSC/NTSC) mode. - Added previous day log viewer to the Web Admin. - Added setting to mark generic episodes (episodes without specific airing info) as new. - Beyond TV 4.6 SDK updates.
+Bug Fixes
+- ShowSqueeze™ and SmartChapters now work with Microsoft Windows Media Player 11. - Recording Engine has been fixed to prevent glitch at the beginning of some recordings. - The 'Display Upcoming Episodes' screen now displays channels that a show airs on. - Downloads can now be done from the Web Admin in Firefox. - Size of Beyond TV installer has been reduced.
+all
+Improvements
+- Video playback has been improved for users with large video libraries. - Faster and more responsive Web Admin. - Playing videos from Network Area Storage is now more successful. - DivX playback has been improved. - MPEG video playback bas been improved. - Web Admin security has been heightened. - SmartChapter generation now faster. - Speed and accuracy of keyword searches has improved. - Accuracy of title searches has improved. - Beyond TV now handles video files in recursive folders more successfully. - Beyond TV now has measures in place to help prevent corrupt Library XML files. - User customized Beyond TV desktop shortcuts are no longer overwritten after upgrade. - Incorrect password messaging for Beyond TV Link has been improved. - Beyond TV User Interface now includes "Copy" as a ShowSqueeze type. - PAL Hauppauge PVR-350 support improved. - Improved DVD Burning Plug-in compatibility. - DVD Burning works better with ComSkip generated SmartChapter files.
+Community Supported WebAdmin Release Notes
+- First version of Web Based DivX streaming added.
+Version 4.5 Release Notes
+Build 3600 | November 16, 2006
+New Features
+- Integrated DVD Burning Plug-in added (optional) - [ and ] see screenshots learn more
+Improvements & bug fixes
+- Improved performance of library when more than 100 shows are present. - Increased reliability of library settings during power failure. - Improved Web Admin reliability on Windows 2000 systems. - ShowSqueeze now properly launches only as many jobs as physical cores on the processor. - Saving metadata for shows during file tagging is now significantly faster. - Tray icon properly displays channel number for “Any Channel” Jobs.
+- []Community Supported WebAdmin Release Notes see screenshots
+- Added new page called “Today.” Shows all recordings made in the last 24 hours, all upcoming recordings in the next 24 hours and any conflicted recordings over the next 24 hours. - Time remaining is displayed based on the selected folder (if you are viewing by folder). - All shows that cannot be played will have a Download link (remote connections to Recorded Shows). - ShowSqueeze page updates every 60 seconds if there are currently running ShowSqueezes. - Upcoming conflict display shows on main status display. - Setup Recordings page shows conflicting recordings and the reason why it will not record. - Multiple shows can be added to ShowSqueeze. - Library can hide shows based on their ShowSqueeze status. - In progress recordings on the Recorded Shows page now cannot be deleted, edited, or selected. - Added Delete confirmation boxes on several pages. - Significantly overhauled aesthetic look of Recorded Shows page.
+Version 4.4 Release Notes
+Build 3368 | August 18, 2006
+New Features
+- Support for KWorld ATSC-TV 310U USB capture card. - Support for serial tuning on Samsung TS-360. - Update notification for Beyond TV for newer versions. - Changing a recording from "All" to "New Episodes" within the ViewScape and WebAdmin without having to delete the job.
+Improvements
+- Make BTV allow system screen saver when appropriate - StreamSnips can be scheduled during off peak hours. - WebAdmin Improvements (see below) - Add Disk usage to the Web Admin Expiration page - Add Disk space Indicator WebAdmin Library
+Bug fixes
+- Fixed: Video Folders over Windows File Shares - Fixed: Status Bar for SmartChapters Generation - Fixed: Aborted ShowSqueeze jobs are not being removed from the ShowSqueeze list. - Fixed: In Live TV -- when you bring up the Info for the Current show -- the Duration is not displayed - Fixed: BTV exhibits "slow playback" of mpeg-2 recordings - Fixed: NVIDIA Video card with TV Out can cause video to zoom in when in pillar boxed mode. - Fixed: Clicking back during lineup selection and re-entering zip code causes wrong lineup to be made. - Fixed: DirectVobSub and FFDShow cause BTV to say file is corrupt - Fixed: Stretch aspect ratio lost when switching tuners. - Fixed: Mixing manually scheduled recordings with EPG-scheduled recordings results in recordings creating dozens of files - Fixed: Setup Wizard listing inputs twice.
+Community Supported WebAdmin Release Notes
+- Auto redirect to SnapStream.NET when using the Program Guide from a remote PC. - Series and folder buttons are re-enabled after changing to those views. - Changed option/edit buttons for mobile devices to be links instead of buttons on the Library page. - Changed the default view for mobile devices to be folder view on the Library page. - The last method for listing all shows in the library is remembered between sessions. - The last method of Show Options is remembered between sessions.
+Version 4.3 Release Notes
+| |Build 3267 | June 8, 2006 Download Update Download Trial
+New Features
+- DivX 6 implemented for ShowSqueeze - HD ShowSqueeze to DivX - HD ShowSqueeze to Windows Media - Added support for newer WinTV PVR-USB2 - StreamSnip of Transport Streams to save space. - New disk allocation method to reduce disk fragmentation. - Support for ATI Theater 650 Pro - Beyond TV Buzz () - Added a Creative Zen Vision Windows Media Profile
+http://www.snapstream.net/Buzz.aspx
+Improvements
+- Fixed Adaptec VideOH! PCI card builder to not include FM radio - Fixed DVICO Fusion 5 analog card builder to not include FM radio - Fixed ability to add root directory as a video folder with recurse subdirectory on. - Upgrades now automatically shut down running instances of BTV before upgrade occurs. - Added ability to jump more than 3 hours in a recording - Added Two-Pass DivX ShowSqueeze support. - Web Admin ShowSqueeze page progress indicators - Web Admin UI improvements - Web Admin shows all currently recording shows. - Live TV doesn’t exit when EPG is used. - Can extend recordings more than 60 minutes.
+Bug Fixes
+- Fixed EPG for lineups less than your displayed lineups. - Fixed ShowSqueeze “Copy” function. - ADSTech Instant TV Deluxe now works with BTV 4.3 - Fixed DivX ShowSqueeze producing truncated files. - Fixed Live TV’s last channel from being affected by the EPG’s last channel. - Fixed Hauppauge PVR 150/500 zoomed video recordings. - Fixed DXVA doesn't work when two monitors are used with SnapStream Video SP decoder. - Fixed Beyond TV Link cannot upload system information. - Fixed File deleted during the ShowSqueeze when 'File Moving Postprocessor' failed. - Fixed AverMedia A180 analog card builder from producing grey video on svideo or composite inputs. - Fixed SubChannel change during HD playback if ViewScape window is resized. - Fixed changing the name of a default profile not being reflected in the ViewScape - Fixed channel change dialog from popping under the transparent guide. - Fixed issue with all tuners recording, selecting channel from program guide does not go to requested channel
+Version 4.2 Release Notes
+Build 3110 | March 24, 2006
+New Features
+- Record On Any Channel allows scheduling a show to be recorded on any channel that it airs on. - Added statistics page (now Beyond TV Buzz, )
+http://www.snapstream.net/Buzz.aspx
+(Note: To participate in this data collection, choose to "Enable advanced features" in the installer or “SnapsStream.NET Settings-> Enable Advanced Features” in the Web Admin.)
+- Faster and more reliable guide updates - Enhanced Firefly Mini support in Beyond TV Link - Added Transport Stream Resolution to the Full Screen Theater
+Improvements
+- Reduced memory usage when Smartchaptering ATSC recordings. - Expand "Padding" option to allow for ten minutes
+Bug Fixes
+- Properly detect partial shows and not mark as completed recordings - Allow DivX ShowSqueeze at the job level in the Web Admin - Detect conflicts properly in manual record screen - Changed way BTV enumerates video capture devices - Cleaned up the log message for DivX bitrate - ViewScape screen titles now correspond to selections on previous menu - When folders don't exist, recordings and ShowSqueeze's recordings go to the defaults and throw a warning. - Fixed backup and restore function to not set the install directory in the registry - Fix crash in HD SmartChaptering - SmartChapter pending is now shown in the library when TP files are SmartChaptering - Tray Icon now works in 1920X1080 Resolution - All profile values are now copied when copying a video profile - Scheduling a recording from "View Upcoming Episodes" list no longer avoids conflict resolution entirely. - FM sources can no longer be chosen as a source for TV recording - Fixed TVTV support, support for tvtv.be and tvtv.nl added - Beyond TV Link now upgrades to the same directory as the previous install. - Disabled transport stream Showsqueeze option in the FSGUI - Context sensitive help in the SetupWizard has been fixed - Canceling a "Convert to AVI" job no longer crashes - Playback of DVR-MS file without codec installed no longer crashes - Fixed: Black video on 3D Accelerated with no deinterlacing using NVIDIA 6600 video card - Fixed: XMLTV lineups get wiped on setup wizard run - Enabled Core Detection for AMD64 Dual Core processors - Fixed: "Options" menu and video lost when using NVIDIA 6600GT video card - Updated help file for Beyond TV 4.2
+Version 4.1 Release Notes
+Build 2964 | January 20, 2006
+New Features
+- SmartSkip on HD and SD digital recordings is now supported - Improved download reliability through new hosting provider (Akamai)
+New Card Support
+- Hauppauge WinTV USB2 (Software Encode) - Newer ATI All-In-Wonder cards x800 XL and up based on Theater 200 Chipset.
+Bug Fixes
+- Fixed problem with conversion to DivX to ensure audio video sync. - Improved reliability of guide updates via SnapStream.net backend updates. - Fixed Intellimouse 2.0 to not cause "last channel" command. - Added support for volume controls and media buttons on hid compliant keyboards. - Added warning message for vivo users with HD - Allow users to input product key in the ViewScape - Add Registry Keys to fix some Link Video display issues. - Fixed: Password protected Web Servers give a soap exception when trying to connect with link. - Fixed: Setup Wizard locks up frequently on Video Test Page
+Known Issues:
+- SmartChaptering HD files takes longer than MPEG files. - SmartChaptering HD files makes the BTVTask.exe use more memory. - Short files (4 Minutes or less) converting to DivX may hang the transcoder.
+Version 4.0 Release Notes
+|Build 2811 | November 10, 2005 Upgrade Now
+New Features
+- Support for multiple new over the air high definition cards - New video decoder with better high definition decoding performance. - New audio decoder with support for decoding Dolby AC-3 audio streams in high definition content. - Support for SPDIF output - New high definition guide data services including high definition indicators in the program guide - New disk space indicator logic for high definition and standard definition content - New lock to 16:9 aspect ratio option in windowed mode. - Support for playing back high definition dvr-ms files. - New signal strength and detection pages in the setup wizard. - New support for non-square pixel displays. - New support for tagging transport streams. - New transport stream demultiplexer for playing HD streams. - New requirements check for HD required components.High Definition Television
+- Software Divx capture - Divx Transcode support - Automatic conversion from SSX to AVI for DivX format recorders.DIVX:
+: - Backcapture of live TV buffer while watching that show in live TV is now supported.BackCapture
+- Support for tuning and timeshifting FM radio.FM Radio:
+- New search by category feature (customizable by advanced users)Search By Category:
+Bug Fixes and Improvements:
+- Library operations are more responsive - New advanced settings for controlling the throttling applied to background ShowSqueeze and SmartSkip operations. - New task scheduling algorithm optimizes operations on dual and multi core system. Potentially a 1.6 to 1.8 speedup on Intel dual core systems. - New database format. - Worked around a bug in Windows Server 2003 SP1 that would crash the ViewScape. - Additional fixes for incorrect system times during installation. - Database is now reinitialized and a database update is started when a version mismatch is detected. - Fixed an issue where the agent was not repairing a service hang in certain cases. - Start and stop the recording early/late settings now directly affect the scheduling of those recordings. This allows users to work around unusual 1-2 minute overlaps in guide data. - Workaround for incorrectly set registry permissions on installation. - Improved timeouts and error messaging when Beyond TV Link fails to connect. - Various fixes to volume control in live TV.Stability and Performance:
+- Individual per source selection of the recording file format if multiple and different types of inputs are available. - Advanced setting to control recording engine process priority. - Eliminated e-mail signup requirement for .Net.Configurability:
+- Fixes added for tuning new DirecTV (D10) boxes via the serial port.Compatibility:
+- EULA for web services has been relaxed to allow developer usage of Beyond TV web services over the network without an extra license. (See EULA for definitive explanation) - All strings are now localizable. - Free unlimited tuner licenses with Beyond TV 4.Extendibility:
+Version 3.7.4 Release Notes
+Build 2507 | August 5, 2005
+Recording engine changes to alleviate jerky or stuttery recordings.
+Fixed Pink window when TryCC is enabled.
+Fixed volume state being lost between GUI sessions.
+Added support for Dual Tuner Adaptec Card.
+Updated support for VisionTek OEM mode.
+Fixed volume state when toggling between windowed and fullscreen modes.
+Fixed issue in VisionTek OEM mode.
+Version 3.7.2 Release Notes
+Build 2040 | July 12, 2005
+Support for DivX recording mode for Plextor PX-TV402U/PXM402U
+Beyond TV Link trial now works with Beyond TV Server trial
+Support for new ATI All-In-Wonder boards and new ATI drivers
+Converted recording engine to use slices rather than a circular buffer for improved stability.
+Fixed streaming video from Web Admin
+Guide Search results now exclude hidden channels
+Sound effects setting now exposed in ViewScape Settings
+Recording to a non-existent folder fails out gracefully
+Support for files larger than 2GB on FAT32 systems
+Improved guide loading performance
+About box now allows Product Key entry in Beyond TV Link
+Cleaned up GUI graphics for VIVO Live TV mode
+Beyond TV Link HUD now renders properly on the first startup
+Duration value in log now written in seconds
+Setup Wizard automatically detects Firefly
+Database automatically reinitialized on a version mismatch
+Known unsupported scenarios are noted in the Setup Wizard
+"Edit Channel Lineup" page in the Web Admin now properly works with large lineups
+Cleaned up Working Directory page in Setup Wizard
+Fixed .NET error when trying to hide channels on last page of lineup in Web Admin
+Command line arguments are no longer case sensitive
+Fixed program guide links in Web Admin for OEMs
+Web Admin header images now show in Firefox
+Disabled WMV mode on USB Capture cards with integrated audio
+Clarified warning message about Zone Alarm (for versions prior to 6)
+Padding now defaults to 2 minutes
+Available recording formats now dynamically generated based on configured A/V inputs
+Library no longer reset to the top item while watching long show
+Use overlay video renderer when software rendering is enabled
+Appropriately warn the user when running on MCE (MCE may also use the capture card)
+ViewScape does not crash on Windows Server 2003 SP1

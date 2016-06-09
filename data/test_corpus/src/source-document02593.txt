@@ -1,0 +1,22 @@
+> > > Home Dogs Home Page Emergency, Trauma & Urgent Care Article: Heat Stroke
+At temperatures greater than 109 Fahrenheit, failure of vital organs, and consequently death, can occur. Heat-related illnesses, including heat stroke, heat exhaustion and heat cramps can occur after exposure to extremely high environmental temperatures. These illnesses occur in all mammals and can be prevented by taking proper precautions. Animals at greatest risk for heat-related illness include:
+See Larger Image
+Heat stroke is a condition arising from extremely high body temperature (rectal temperature of 105 to 110 degrees Fahrenheit), which leads to nervous system abnormalities that may include lethargy, weakness, collapse or coma. Abnormally high body temperature (also called hyperthermia) develops after increased muscular activity with impaired ability to give off heat due to high heat and humidity or respiratory obstruction. Allowing a dog to remain in a car with closed windows on a hot summer day is probably the most common cause of heat stroke. Normal dogs dissipate heat from their skin. In addition, panting allows evaporation of water from the respiratory tract and is an effective method of heat dissipation. When these mechanisms are overwhelmed, hyperthermia and heat stroke usually develop. The elevation in body temperature stimulates the body to release substances that activate inflammation.
+Puppies up to 6 months of age
+Overweight dogs
+Dogs that are ill or receiving certain medications
+Brachycephalic breeds (dogs with short, wide heads like pugs, English bulldogs, Boston terriers)
+Dogs with obstructive airway diseases
+Dogs with pre-existing fever
+Dogs with heart disease
+Dogs with poor circulation due to cardiovascular or other underlying disease
+Older pets (large breed dogs over 7 years of age, small breed dogs over 14 years of age)
+Pets with a history of seizures
+What to Watch For
+Noisy breathing that may indicate upper airway obstruction
+Excessive panting
+Bright red mucous membranes (gums, conjunctiva of the eyes)
+Weakness
+Coma
+Altered mentation
+Petechiae (pinpoint hemorrhages on the gums and/or skin) function bm(bmark, campaign) { var postUrl = ''; var params = 'url='+encodeURIComponent(location.href+ '?utm_source='+bmark)+'&title='+encodeURIComponent(document.title); if (bmark == 'Digg'){ postUrl = 'http://digg.com/submit?'+params; } else if (bmark == 'Delicious'){ postUrl = 'http://del.icio

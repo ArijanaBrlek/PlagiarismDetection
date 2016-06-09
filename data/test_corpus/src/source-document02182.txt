@@ -1,0 +1,6 @@
+Data Intensive Computing
+Research Area: Hybrid Architectures
+General-purpose hardware architectures are faced with new challenges posed by data intensive scientific applications, such as massive data volumes to process, large amounts of streaming data to be computed in real-time, or unpredictable access patterns over a large data volume. Hybrid computing architectures can address these requirements by complementing traditional general-purpose architectures with hardware accelerators (e.g., Field-Programmable Gate Arrays, graphics processors, IBM Cell processor, or vector or math coprocessors). These hardware accelerators are specialized to expedite the execution of important components of data intensive applications, which, for general-purpose computers, would represent a bottleneck. To harness the power of the hybrid architectures, PNNL is making investments in the software development tools and the methodologies used to deal with the heterogeneous nature of the hardware.
+Projects that support this R&D capability:
+Multithreaded Architectures for Data Intensive Applications
+Hybrid Computing Solutions Applied to Feature Extraction, Characterization, Classification, and Clustering

@@ -1,0 +1,9 @@
+Five possible groups of operations that can be performed by the keyboard are:
+Text Input. Typing, mostly Western-language, characters which are displayed directly.
+Action. Keys like ENTER/ESCAPE have generally the function of accepting/ cancelling the prepared action. Also keys like HELP, UNDO, DEL, BACKSPACE and the Function keys belong to this group.
+Mode change. These are similar to the Action keys, but only work as on/off or selection switches. Examples are the CAPS-LOCK and the INS-key. In fact the SHIFT, CTRL and ALT-key could also be in this group.
+Navigation. This is performed by the cursor keys, TAB, HOME, END.
+Others (e.g., MIDI-keyboards)
+The most common keyboard is the Qwerty-keyboard, used on most computers and typewriters. The meaning of a key is given by its label, not by its position. This is also true for the Dvorac keyboard. Even minor variations of key location over different keyboards are very annoying to the user.
+There also exist chord-keyboards, in which the simultaneous stroking of a combinations of keys give some predefined output. The function is generally the same as the normal keyboard, only less keys are necessary. Letter order ambiguities in a chord are solved by an internal language model (example: ``... [txr] ...'' ``... xtr ...''), such that entering abbreviations or text in another language is not very well possible. In these cases, the user must fall back on single-key entry.
+Another kind of keybord exists for a completely different purpose, but still belongs to the same group of input device: MIDI-keyboards. MIDI (Musical Instrument Digital Interfaces) is a standard for exchanging music- related information. MIDI-keyboards have keys as on a piano or organ. The only labels are the color (black and white), and the further meaning of the key is fully signified by the position. This keyboard often is pressure-sensitive, allowing the volume of each sound to be controlled by the keypress only.

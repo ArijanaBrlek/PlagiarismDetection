@@ -1,0 +1,15 @@
+Stroke Overview
+Stroke is brain damage caused by a blocked blood vessel or bleeding in the brain. The signs of a stroke may include weakness, numbness, blurred vision, confusion, and slurred speech. Getting to a hospital quickly is vital for a good outcome with a stroke.
+Select a Chapter
+Latest Headlines
+Study shows that people who were physically active before having a stroke had less severe symptoms and better long-term outcomes when compared to previously inactive people who had strokes. Can Exercise Prevent Severe Stroke?
+Get a Free Trial Offer for a Cholesterol Treatment
+Symptoms
+If you have symptoms of a stroke, . General symptoms of a stroke include onset of:seek emergency medical caresudden
+Numbness, weakness, or paralysis of the face, arm, or leg, typically on one side of the body.
+Trouble seeing in one or both eyes, such as dimness, blurring, double vision, or loss of vision.
+Confusion, trouble understanding.
+Trouble walking, dizziness, loss of balance or coordination.
+Severe headache.
+Symptoms
+var chapters = [ 'http://www.webmd.com/stroke/guide/default.htm', 'http://www.webmd.com/stroke/guide/stroke-overview-facts', 'http://www.webmd.com/stroke/guide/stroke-symptoms-types', 'http://www.webmd.com/stroke/guide/stroke-diagnosis-tests', 'http://www.webmd.com/stroke/guide/stroke-treatment-care', 'http://www.webmd.com/stroke/guide/stroke-living-managing', 'http://www.webmd.com/stroke/guide/stroke-support-resources', '','']; var c1_1 = [ 'http://www.webmd.com/stroke/guide/stroke-topic-overview', 'http://www.webmd.com/stroke/guide/stroke-what-happens']; var c1_2 = [ 'http://www.webmd.com/stroke/guide/stroke-cause']; var c1_3 = [ 'http://www.webmd.com/stroke/guide/stroke-what-increases-your-risk']; var c1_4 = [ 'http://www.webmd.com/stroke/guide/stroke-prevention']; var c2_1 = [ 'http://www.webmd.com/stroke/guide/stroke-symptoms',]; var c2_2 = [ 'http://www.webmd.com/stroke/guide/stroke-when-to-call-a-doctor']; var c3 = [ 'http://www.webmd.com/stroke/guide/stroke-exams-and-tests',]; var c4 = [ 'http://www.webmd.com/stroke/guide/stroke-treatment-overview', 'http://www.webmd.com/stroke/guide/stroke-home-treatment', 'http://www.webmd.com/stroke/guide/stroke-medications', 'http://www.webmd.com/stroke/guide/stroke-surgery', 'http://www.webmd.com/stroke/guide/stroke-other-treatment', 'http://www.webmd.com/stroke/guide/should-i-have-carotid-endarterectomy-for-stroke-or-transient-ischemic-attack-tia', 'http://www.webmd.com/stroke/guide/should-i-put-my-loved-one-who-has-had-a-stroke-in-a-nursing-home',]; var c5 = [ 'http://www.webmd.com/stroke/guide/questions-doctor-stroke',]; var c6_1 = [ 'http://www.webmd.com/stroke/guide/stroke-other-p

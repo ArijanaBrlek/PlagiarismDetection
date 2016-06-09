@@ -1,0 +1,43 @@
+Answers
+How do I install the WeatherEye Yahoo! Widget onto my desktop?
+To install the WeatherEye Widget for Yahoo! Widget Engine 4, first you must have the Yahoo! Widget Engine 4 installed on your desktop. If you have the Engine 4, then to add the WeatherEye widget to your gallery. ">click here
+If you do not have the Widget Engine 4 and would like to add it and the WeatherEye widget desktop tool. Please . click here
+  |   Back to WeatherEye Yahoo! Widget Download Page Back to top
+How do I change the temperature from Celsius to Fahrenheit?
+With the widget open, right click on the widget and choose widget preferences. Click or unclick the "Metric Units" check box. This will adjust your display to Celsius or Fahrenheit temperature readings. Click Save, to save the changes.
+  |   Back to WeatherEye Yahoo! Widget Download Page Back to top
+I would like to change the city to another city, how do I do this?
+Right click on the widget and choose "Change Location". A search box will then pop up. Enter the name and select "Search" ,the widget will then display the new city data. If there is more than one city with the same name, the widget will prompt you with options to choose based on the province, state or country.
+  |   Back to WeatherEye Yahoo! Widget Download Page Back to top
+Can I add multiple WeatherEye widgets to my gallery?
+Yes, you can add as many WeatherEye widgets to the gallery if you wish. to access the WeatherEye Yahoo! widget file and install it as many times as you wish. It will however, only display one city on your desktop screen at a time but all of the city icons will remain in your gallery sidebar. ">Click here
+  |   Back to WeatherEye Yahoo! Widget Download Page Back to top
+an I view the WeatherEye widget in either French or English?
+To change you language, click on the small engine icon in your task bar. Right click on the icon and select "Yahoo! Widget Preferences". Click on Advanced and select your preferred language from the drop down menu. Click aveto save your changes. Now all of your widgets will be displayed in your preferred language. The WeatherEye Yahoo! Widget is available in English and French.
+  |   Back to WeatherEye Yahoo! Widget Download Page Back to top
+Where can I view more weather information on the widget?
+If you would like to view additional weather information from the WeatherEye widget, click on the expand button in the top left corner of the widget beside the city name. This will expand or fly out additional information on your city such as observation data, short-term or long term forecast and any Canadian weather alerts (if present). To close the fly out window, click on the minimize button on the top right of widget.
+  |   Back to WeatherEye Yahoo! Widget Download Page Back to top
+Can I drag the widget from the gallery onto my desktop?
+If the widget is open, then the minimized view containing observational weather data can be viewed on the desktop screen or in the sidebar. If you choose to close the widget both displays will close.
+  |   Back to WeatherEye Yahoo! Widget Download Page Back to top
+How does WeatherEye notify me of Canadian weather alerts?
+When a weather watch or warning is issued for the city you are viewing from your widget, a Red bar will appear providing an outline of the warning (ie Winter Storm Watch). To find out more information on the watch or warning, click on the alert. A browser window will open, linking you directly to the full description of the alert on www.theweathernetwork.com. When the watch or warning has stopped, the alert will no longer be visible for your city.
+  |   Back to WeatherEye Yahoo! Widget Download Page Back to top
+Why are there advertisements on the WeatherEye?
+We do sell some additional advertising on the WeatherEye to maintain the product, continue the software development and future growth to make it more serviceable to our users. If you have any preferred advertisers that appeal to you, and/or that you would like to see offers from, please send us your comments.
+  |   Back to WeatherEye Yahoo! Widget Download Page Back to top
+Does WeatherEye contain Spyware?
+No, the WeatherEye contains no Spyware. All information and communication flowing through the WeatherEye application comes directly from The Weather Network. We are in no way connected to any of your other computer systems or files. For more information, please refer to our . privacy policy
+  |   Back to WeatherEye Yahoo! Widget Download Page Back to top
+When I start my computer, the WeatherEye widget opens but there is no information, why?
+The WeatherEye widget requires an active internet connection. If this connection is down, the WeatherEye will be unable to display any data.
+  |   Back to WeatherEye Yahoo! Widget Download Page Back to top
+Where can I get more information on weather maps, roads, health, & environment?
+For more about these and other products and services from The Weather Network, click on the links located on the expanded view of the widget. A browser window will open to www.theweathernetwork.com where you will be able to find out more about other products such as weather maps, hourly forecasts and much more.
+  |   Back to WeatherEye Yahoo! Widget Download Page Back to top
+How do I remove the WeatherEye widget from my gallery?
+You can remove the widget by right clicking on the WeatherEye and clicking on "Close Widget". The widget will now be removed from your gallery. If you wish to permanently remove the WeatherEye from your computer, delete the WeatherEye widget file from your Computer program files.
+  |   Back to WeatherEye Yahoo! Widget Download Page Back to top
+What system does Yahoo! Widget Engine run on?
+Yahoo! Widget Engine runs on both Macintosh and Windows computers. Yahoo! Widget engine for Windows requires either Windows XP SP1 or Windows 2000 SP3 minimum. Yahoo! Widget Engine for Macintosh is for any Macintosh computer running Mac OSX 10.3 or greater.

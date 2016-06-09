@@ -1,0 +1,105 @@
+| | Blender VersionUser Manual: Contents Guidelines 2.45
+Particles
+The particle system of Blender is fast, flexible, and powerful. Every Mesh-object can serve as an emitter for particles. The particles themselves can be mass-less, like Halos, or can be objects, like a coin or piece of confetti. These objects can be any type of Blender object, for example Mesh-objects, Curves, Metaballs, and even Lamps.
+Particles can be influenced by a global force to simulate physical effects, like gravity or wind. With these possibilities you can generate smoke, fire, explosions, dust, fireworks or even flocks of birds. With hair particles you can generate fur, grass, and even plants.
+Start from Frame 1:
+To re-initialize the particle engine, it may be necessary to rewind all the way back to frame 1 and play forward after making changes to any settings or to the emitting mesh, so that Blender can re-calculate the particle motion.
+Mini-Tutorial: A first Particle System
+Reset Blender to the default scene, or make a scene with a single plane added from the top view. This plane will be our particle emitter. Rotate the view so that you get a good view of the plane and the space above it ().The emitter.
+The emitter.
+Switch to the Tab () in the Context ( or ) and click the button in the tab, which then fills up with plenty of controls - and a new tab ().Physics ObjectF7 NEWParticlesThe Particle Buttons.
+The Particle Buttons.
+In the tab, set the NumButton to 0.100 with a click on the right part of the button or use to enter the value from the keyboard. Play the animation by pressing with the mouse over the 3DWindow. You will see a stream of particles ascending vertically from the four vertices.Particle motionNormal:LMBShift AltA
+Congratulations - you have just generated your first particle-system in a few easy steps!
+To make the system a little bit more interesting, it is necessary to get deeper insight on the system and its buttons ():Particles settings.
+The parameter controls the overall count of particles. On modern speedy CPUs you can increase the particle count without noticing a major slowdown.Amount:
+The total number of particles specified in the button are uniformly created along a time interval. Such a time interval is defined by the and NumButtons, which control the time interval (in frames) in which particles are generated.Amount:Sta:End:
+Particles have a lifetime, they last a given number of frames, from the one they are produced in onwards, then disappear. You can change the lifetime of the particles with the NumButton.Life:
+The NumButton used before ( tab) made the particles having a starting speed of constant value (0.1) directed along the vertex normals. To make things more "random" you can set the NumButton to 0.1 too. This also makes the particles start with random variation to the speed.Normal:Particle motionRandom:
+Still in the tab, use the group of NumButtons to simulate a constant force, like wind or gravity. A value of -0.1 will make the particles fall to the ground, for example.Particle motionForce:Force: Z:
+Particles settings.
+This should be enough to get you started, but don't be afraid to touch some of the other parameters while you're experimenting. We will cover them in detail in the following sections.
+Rendering a particle system
+Maybe you've tried to render a picture from our example above. If the camera was aligned correctly, you will have seen a black picture with grayish blobby spots on it. This is the standard Halo-material that Blender assigns a newly generated particle system. Position the camera so that you get a good view of the particle system. If you want to add a simple environment, remember to add some lights. The Halos are rendered without light, unless otherwise stated, but other objects need lights to be visible.
+Go to the Material Buttons () and add a new material for the emitter if none have been added so far. Click the Button "Halo" from the tab ().F5Links and PipelineHalo settings
+Halo settings
+The Material Buttons change to the Halo Buttons. Choose , and adjust to a value of your choosing (you can see the effect directly in the Material-Preview). Decrease to 0.30, and choose a color for the Halo and for the Lines ().LineLines:HaloSize:Halo settings
+You can now render a picture with , or a complete animation () and see thousands of stars flying around ().F12CtrlF12Shooting stars
+Shooting stars
+Objects as particles
+It is very easy to use real objects as particles, it is exactly like the technique described in . Start by creating a cube, or any other object you like, in your scene. It's worth thinking about how powerful your computer is, as we are going to have as many objects, as indicates, in the scene. This means having as many vertices as the number of vertices of the chosen object times the value of ! DupliVerts Amount:Amount:
+Scale the newly created object down so that it matches the general scene scale. Now select the object, then the emitter and make it the parent of the cube using . Select the emitter alone and check the option "DupliVerts" in the tab in the buttons, context (). The dupliverted cubes will appear immediately in the 3DWindow.RMBShift CtrlPAnim SettingsObjectObjetcF7
+Setting Dupliverted Particles.
+You might want to bring down the particle number shown in the 3D views before pressing : the numbutton allows you to set the percentage of particles to show in the 3D views (). In the animation you will notice that all cubes share the same orientation. This can be interesting, but it can also be interesting to have the cubes randomly oriented. This can be done by checking the option in the particle-parameters, which causes the dupli-objects to follow the rotation of the particles, resulting in a more natural motion (). One frame of the animation is shown in ().AltADisp:Setting Dupliverted Particles.VectSetting Dupliverted Particles.Dupliverted particles rendering.
+Original Object
+Take care to move the original object out of the camera view, because, differently than in regular Mesh Dupliverts, in Dupliverted particles it will also be rendered! -- This may have been true in older versions but in 2.45 this does not appear to be necessary; the dupliverted object does not show up in the render. If this can be confirmed then this Note can be removed.
+Dupliverted particles rendering.
+Making fire with particles
+The Blender particle system is very useful for making realistic fire and smoke. This could be a candle, a campfire, or a burning house. It's useful to consider how the fire is driven by physics. The flames of a fire are hot gases. They will rise because of their lower density when compared to the surrounding cooler air (same principle as a hot-air balloon). Flames are hot and bright in the middle, and they fade and become darker towards their perimeter. Prepare a simple set-up for our fire, with some pieces of wood, and some rocks ().Campfire setup.
+Campfire setup.
+The particle system
+Add a plane into the middle of the stone-circle. This plane will be our particle-emitter. Subdivide the plane once. You now can move the vertices to a position on the wood where the flames (particles) should originate.
+Now go to the Object Context , buttons, and add a new particle system to the plane. The numbers given here () should make for a realistic fire, but some modification may be necessary, depending on the actual emitter's size.F7PhysicsFire particles setup.
+Fire particles setup.
+Some notes:
+To have the fire burning from the start of the animation make negative. For example, try -50. The value of should reflect the desired animation length.Sta:End:
+The of the particles is 30. Actually it can stay at 50 for now. We will use this parameter later to adjust the height of the flames.Life:
+Make the parameter a bit negative (-0.008) as this will result in a fire that has a bigger volume at its basis.Norm:
+Use a of about 0.200. If your fire looks too slow, this is the parameter to adjust.Force: Z:
+Change to 0.100 to slow down the flames after a while.Damp:
+Activate the Button. This will use an interpolation method which gives a much more fluid movement.Bspline
+To add some randomness to our particles, adjust the parameter to about 0.014. Use the parameter to add randomness in the lifetime of the particles; a really high value here gives a lively flame.Random:RLife:
+Use about 600-1000 particles in total for the animation ().Amount:
+In the 3DWindow, you will now get a first impression of how realistically the flames move (). But the most important thing for our fire will be the material.AltA
+The fire-material
+With the particle emitter selected, go to the Shading Context and add a new Material. Make the new material a halo-material by activating the button. Also, activate , located in the shaders panel. This allows us to use a texture later.F5HaloHaloTex
+Flames Material.
+Give the material a fully saturated red colour with the RGB-sliders. Decrease the Alpha value to 0.700; this will make the flames a little bit transparent. Increase the slider up to 0.700, so the Halos will boost each other, giving us a bright interior to the flames, and a darker exterior. ().AddFlames Material.
+Flames Texture.
+If you now do a test render, you will only see a bright red flame. To add a touch more realism, we need a texture. While the emitter is still selected, go to the Texture Panel and add a new Texture select the -type for it in the Texture () Buttons. Adjust the to 0.600. ().CloudsF6NoiseSize:Flames Texture.
+Go back to the Material Buttons and make the texture colour a yellow colour with the RGB sliders in the tab. To stretch the yellow spots from the clouds texture decrease the value down to 0.30. A test rendering will now display a nice fire. But we still need to make the particles fade out at the top of the fire. We can achieve this with a material animation of the and the . Be sure that your animation is at frame 1 () and move the mouse over the Material Window. Now press and choose Alpha from the appearing menu. Advance the frame-slider to frame 100, set the Alpha to 0.0 and insert another key for the Alpha with . Switch one Window to an IPO Window. Activate the Material IPO Type by clicking the pertinent Menu Entry in the IPO Window header. You will see one curve for the Alpha-channel of the Material ().F5Map ToSizeYAlphaHalo SizeShift←IIFire Material IPO
+Note
+An animation for a particle material is always mapped from the first 100 frames of the animation to the lifetime of a particle. This means that when we fade out a material in frame 1 to 100, a particle with a lifetime of 50 will fade out in that time. For objects mapped to particles through Dupliverts it seems that this animation technique does not apply/work. Any Alpha IPO added to the emitter seems to be ignored and an Alpha IPO seems to work against the absolute timeline and not anything relative to when the particle was emitted.
+Fire Material IPO
+Now you can render an animation. Maybe you will have to fine-tune some parameters like the life-time of the particles. You can add a great deal of realism to the scene by animating the lights (or use shadow-spotlights) and adding a sparks particle-system to the fire. Also recommended is to animate the emitter in order to get more lively flames, or use more than one emitter ().Final rendering.
+Final rendering.
+A simple explosion
+This explosion is designed to be used as an animated texture, or for composing it with the actual scene. For a still rendering, or a slow motion of an explosion, we may need to do a little more work in order to make it look really good. But bear in mind, that our explosion will only be seen for half a second ().The explosion
+The explosion
+As emitter for the explosion I have chosen an IcoSphere. To make the explosion slightly irregular, I deleted patterns of vertices with the circle select function in Edit Mode. For a specific scene it might be better to use an object as the emitter, which is shaped differently, for example like the actual object you want to blow up. My explosion is composed from two particle systems, one for the cloud of hot gases and one for the sparks. I took a rotated version of the emitter for generating the sparks. Additionally, I animated the rotation of the emitters while the particles were being generated.
+The materials
+The particles for the explosion are very straightforward halo materials, with a cloud texture applied to add randomness, the sparks too have a very similar material, see to .Material for the explosion cloud.Texture for both.
+Material for the explosion cloud.
+Material for the sparks.
+Texture for both.
+Animate the Alpha-value of the Halo particles from 1.0 to 0.0 at the first 100 frames. This will be mapped to the life-time of the particles, as is usual. Notice the setting of in the sparks material (). This shapes the sparks a little bit. We could have also used a special texture to achieve this, however, in this case using the setting is the easiest option.StarMaterial for the sparks.Star
+The particle-systems
+Particle system for the cloud.
+Particle system for the sparks.
+As you can see in and , the parameters are basically the same. The difference is the setting for the sparks, and the higher setting of which causes a higher speed for the sparks. I also set the for the sparks to 2.000 resulting in an irregular shape. I suggest that you start experimenting, using these parameters to begin with. The actual settings are dependent on what you want to achieve. Try adding more emitters for debris, smoke, etc.Particle system for the cloudParticle system for the sparksVectNorm:RLife:
+Fireworks
+A group of buttons we have not used so far is the group.Children
+Prepare and add a particle system to the plane. Adjust the parameters so that you get some particles flying into the sky, then increase the value of to 1.0. This will cause 100% of the particles to generate child particles when their life ends. Right now, every particle will generate four children. So we'll need to increase the value to about 90 (). You should now see a convincing firework made from particles, when you preview the animation with .Prob:Num:buttonsChildrenAltA
+buttons.Children
+When you render the firework it will not look very impressive. This is because of the standard halo material that Blender assigns. Consequently, the next step is to assign a better material. Ensure that you have the emitter selected and go to the Shading Context and Material Buttons (). Add a new material with the Menu Button, and set the type to .F5Halo
+Firework Material 1.
+I have used a pretty straightforward halo material; you can see the parameters in . The rendered animation will now look much better, yet there is still something we can do. While the emitter is selected go to the Editing Context and add a new material index by clicking on the button in the Panel ().Firework Material 1F9NewLink and MaterialsAdding a second material to the emitter.
+Adding a second material to the emitter.
+Now switch back to the Shading Context. You will see that the material data browse has changed colour to blue. The button labeled indicates that this material is used by two users. Now click on the button and confirm the popup. Rename the Material to "Material 2" and change the colour of the halo and the lines ().22Material 2
+Material 2.
+Switch to the particle parameters and change the button from the group to 2. Render again and you see that the first generation of particles is now using the first material and the second generation the second material! This way you can have up to 16 (that's the maximum number of material indices) materials for particles.Mat:Children
+Further enhancements
+Beside changing materials you also can use the material IPOs to animate material settings of each different material.
+Controlling Particles via a Lattice
+Blender's particle system is extremely powerful, and the course of particles can not only be determined via forces but channeled by a lattice. Prepare a single square mesh and add a particle system to it with a negative z-force and the general parameters in .Particle settings
+Particle settings.
+This could be good for the smoke of four small fires in a windless day, but we want to twist it! Add a lattice and deform it as in .Lattice settings
+Lattice settings
+Add a to the particle emitter and set the Lattice Modifier's to be the Object Name of the Lattice. If you now select the particle emitter, switch to the context (), buttons, and press (note: in fact, the recalcl will usually be automatic), you will notice that the particles follows, more or less, the lattice ( on the left). As a further tweak, rotate each horizontal section of the lattice 60 degrees clockwise in top view, incrementally, as if you were making a screw. After this, recalculate again the particles. The result is in on the right. Lattice Modifier Ob:ObjectF7PhysicsRecalcAllLattice deformation effectsLattice deformation effects
+Lattice deformation effects
+The twist is evident, and of course you can achieve even stronger effects by rotating the lattice more or by using a lattice with more subdivisions. If you give the emitter a halo material and you render you will see something like on the left.Normal particles, left; Vector particles, centre; and DupliVerted objects following the particles, right.
+Normal particles, left; Vector particles, centre; and DupliVerted objects following the particles, right.
+If you select the emitter, turn to buttons and press the button from the tab, the particles will turn from points to segments, with a length and a direction proportional to the particle velocity. A rendering now will give the result of in the middle. If you now Duplivert an object to the emitter, by parenting it and by pressing the button ( buttons}}), the DupliVerted objects will have the same orientation of the original object if the particles are normal particles, but will be rotated and aligned to the particle direction if the Particles are set to . By selecting the Original Object and by playing with the buttons you can change orientation ( on the right).PhysicsVectParticlesNormal particles, left; Vector particles, centre; and DupliVerted objects following the particles, right.DuplivertObjectVectTrackNormal particles, left; Vector particles, centre; and DupliVerted objects following the particles, right.
+See Also
+- Blender Summer of Documentation article on Particles. BSoD/Particles
+- Almost complete documentation for the new particle system in the Blender Wiki Sandbox section. Particles in Blender 2.46+

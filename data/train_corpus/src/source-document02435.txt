@@ -1,0 +1,27 @@
+Questions to ask in an interview
+Introduction:
+I found out that the roles and responsibilities of software engineer positions at two companies weren't what I had expected. So I think the following list of questions may help clear up some doubts or confusion about a company and/or a project before you decide to join. It also would help a candidate if he/she can think about what he/she needs.
+Development Environment:
+Is the build system automated, if yes to how much?
+Is there a nightly build and test system in place?
+Do developers write tests (unit) to test their code?
+Is there a best coding practice guide in place?
+Is there a development process (requirements gathering, designing, implementation, testing, etc) in place, if yes what it is?
+Project Manager/Management:
+What collaboration tools (IM, Wiki, Mail, etc) are being used?
+Is there a central place to store project documents (not necessarily word documents) and easily accessible by everyone in the company?
+How is project status gathered and published?
+What's the project manager's style of managing projects and people?
+What's the background of project manager?
+How is the change managed? For example, bug fixes in the version V1 and developing new features for version V2 of a product.
+Who takes care of a customer and how, customer problems and bugs in a product?
+Does manager has development background and does manager aware of latest technologies?
+Organization:
+Is the organization agile and adapts easily to changes?
+Does the organization provide an environment for creativity and innovation?
+What kind of office environment (open, cubicle, office, etc) does the organization provide?
+Project(s):
+Is the project solving significant problems, possibly using innovative/creative ways?
+What's a typical release cycle?
+Conclusion:
+The above list may help you assess the potential of a job, I think the right way of finding out if a job is suitable for you and you're a suitable candidate for a job is to date a job for 3 months or so.

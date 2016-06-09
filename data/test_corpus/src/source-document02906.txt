@@ -1,0 +1,26 @@
+Streaming technology has come a long way over the past few years. Consider this:
+In the US alone, each month there are over 11 billion views of online video.
+More than 150 of the Fortune 200 have streaming video on their public web sites.
+63% of business people report accessing online video at least once per week
+78% of them say video makes content more compelling
+Today, using only standard hardware and software, users all over the world can access high quality video and audio, along with integrated PowerPoint slides, downloadable study guides and other written materials.
+Streaming makes sense when there are too few sites to justify the expense of a satellite network infrastructure, when you are trying to reach "external" audiences (such as customers, prospects, investors, the press, etc.), and when you have sites that are outside your satellite network coverage. In fact, many BI clients "simulcast" via satellite and the Web to reach their worldwide locations.
+Benefits of Streaming
+On demand or live capability
+Low cost delivery for limited numbers of remote sites
+Worldwide reach
+Free player software – no hardware to purchase or install
+Rich media presentations featuring synchronized slides and downloadable materials
+Outsourced options for hosting and bandwidth that eliminate the need to invest in your own infrastructure
+Viewable on a PC, at the office or home
+Interactivity through live "chat," threaded discussions and virtual classroom solutions
+Viewer registration and integration with a SCORM-compliant learning management system (LMS)
+Pay-per-view and e-commerce applications that can facilitate cross-selling related materials
+Click here for Streaming and Rich Media samples.
+Webcasting
+While streaming video is a good option for delivering content on demand, webcasting enables a live, TV-like experience via the Internet on your PC.
+Live corporate events like CEO company briefings, new product launches, marketing events investor presentations, and interactive distance learning are popular applications among enterprise users. Consumer content such as sports and news are also frequent applications for webcasting.
+Our full-service approach means you can focus on the quality of your content and be assured that your audience will have an excellent viewing experience. The turn-key services we offer include:
+Content ingestion on location
+Signal backhaul to our broadcast hub
+Transcoding

@@ -1,0 +1,25 @@
+Strong
+AAA
+Superior financial security on an absolute and relative basis. Capacity to meet policyholder obligations is overwhelming under a variety of economic and underwriting conditions.
+AA
+Excellent financial security. Capacity to meet policyholder obligations is strong under a variety of economic and underwriting conditions.
+A
+Good financial security, but capacity to meet policyholder obligations is somewhat susceptible to adverse economic and underwriting conditions.
+BBB
+Adequate financial security, but capacity to meet policyholder obligations is susceptible to adverse economic and underwriting conditions.
+Weak
+BB
+Financial security may be adequate, but capacity to meet policyholder obligations, particularly with respect to long-term or "long-tail" policies, is vulnerable to adverse economic and underwriting conditions.
+B
+Vulnerable financial security. Currently able to meet policyholder obligations, but capacity to meet policyholder obligations is particularly vulnerable to adverse economic and underwriting conditions.
+CCC
+Extremely vulnerable financial security. Continued capacity to meet policyholder obligations is highly questionable unless favorable economic and underwriting conditions prevail.
+NR
+Not Rated. The insurer is not rated by Standard & Poor's.
+R
+Regulatory action. As of the date indicated, the insurer is under supervision of insurance regulators following rehabilitation, receivership, liquidation, or any other action that reflects regulatory concern about the insurer's financial condition. Information on this status is provided by the National Association of Insurance Commissioners and other regulatory bodies. Although believed to be accurate, this information is not guaranteed. The "R" rating does not apply to insurers subject only to non financial actions such as market conduct violations.
+Plus (+) or Minus (-) Sign
+The ratings from "AA" to "B" may be modified by the addition of a plus or minus sign to show relative standing within the major rating categories. Standard & Poor's ratings and other assessments of credit worthiness and financial strength are not a recommendation to purchase or discontinue any policy or contract issues by an insurer or to buy, hold or sell any security issued by an insurer. In addition, neither a rating nor an assessment is a guaranty of an insurer's financial strength.
+ 
+Disclaimer : Not all rates are available in all states. The rates are subject to change without notice.
+ 

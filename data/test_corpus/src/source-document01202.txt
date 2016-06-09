@@ -1,0 +1,25 @@
+7 References
+[] edit Early Pioneer missions
+The earliest missions were attempts to achieve Earth's , simply to show it was feasible and study the . This included the first launch by which was formed from the old . These missions were carried out by the and . escape velocity Moon NASA NACA US Air Force Army
+Pioneer 2
+Most missions here are listed with their most recognised name, and alternate names after in brackets.
+(Thor-Able 1, Pioneer) - orbiter, destroyed (Thor failure 77 seconds after launch) August 17, 1958 Pioneer 0 Lunar
+(Thor-Able 2, Pioneer I) - Lunar orbiter, missed Moon (third stage partial failure) October 11, 1958 Pioneer 1
+(Thor-Able 3, Pioneer II) - Lunar orbiter, reentry (third stage failure) November 8, 1958 Pioneer 2
+(Atlas-Able 4A, Pioneer W), probe lost September 1959 Pioneer P-1
+(Atlas-Able 4, Atlas-Able 4B, Pioneer X) - Lunar probe, lost in launcher failure December 1959 Pioneer P-3
+(Pioneer P-2, Thor-Able 4, Pioneer V) - interplanetary space between Earth and , launched March 11, 1960 Pioneer 5 Venus [2]
+(Atlas-Able 5A, Pioneer Y) - Lunar probe, failed to achieve lunar orbit September 1960 Pioneer P-30
+(Atlas-Able 5B, Pioneer Z) - Lunar probe, lost in upper stage failure December 1960 Pioneer P-31
+[] edit Juno II lunar probes (1958-1959)
+- Lunar flyby, missed Moon due to launcher failure December 1958 Pioneer 3
+- Lunar flyby, achieved Earth , launched March 1959 Pioneer 4 escape velocity
+[] edit Later Pioneer missions (1965-1978)
+Five years after the early Able space probe missions ended, used the Pioneer name for a new series of missions, initially aimed at the inner solar system, before the bold flyby missions to and . While successful, the missions returned much poorer images than the five years later. In 1978, the end of the program saw a return to the inner solar system, with the and , this time using orbital insertion rather than flyby missions. NASA Ames Research Center Jupiter Saturn Voyagers Pioneer Venus Orbiter Multiprobe
+The new missions were numbered from Pioneer 6 ().Alternate names in brackets
+Pioneer 6 (Pioneer A) - launched December 1965
+Pioneer 7 (Pioneer B) - launched August 1966
+Pioneer 8 (Pioneer C) - launched December 1967
+Pioneer 9 (Pioneer D) - launched November 1968 ()defunct. since 1983
+Pioneer E - lost in launcher failure August 1969
+Pioneer 6 and Pioneer 9 are in solar orbits with 0.8 's distance to the Sun. Their orbital periods are therefore slightly shorter than Earth's. Pioneer 7 and Pioneer 8 are in solar orbits with 1.1 's distance to the Sun. Their orbital periods are therefore slightly longer than Earth's. Because they orbit the Sun on either side of the Earth's orbital path, some of them are, from time to time, 180 away from Earth. They can sense parts of the Sun several days before the Sun's rotation reveals it to ground based/earth orbiting observatories. If a powerful solar magnetic storm is born, they can warn Earth in advance. AU

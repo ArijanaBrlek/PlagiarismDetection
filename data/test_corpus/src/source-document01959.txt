@@ -1,0 +1,20 @@
+GPS Tracking & Data Analysis Facility
+In order to support capability for future ESA projects involving GPS, ESOC has developed a GPS Tracking and Data Analysis Facility (GPS-TDAF). The system integrates data analysis, operations support and communications software tools. The system in its is being used in the Operational Data Centre and Analysis Centre activities being carried out for International GPS Service for Geodynamics (IGS). The emphasis is on the use of on-board GPS receivers for orbit determination, including applications which may have very stringent accuracy requirements. actual configuration
+The objectives of the ESA GPS-TDAF can be summarised as follows:
+Establishment of a network of high precision geodetic GPS receivers on ESA ground sites, including communications to ESOC.
+Development of software for fast, automatic transfer of data from the stations followed by decompression, quality control, reformatting, and further routing to global and other external data centres.
+Advanced software for processing GPS data, solving for the orbits of the GPS satellites, station positions and motions, and earth orientation parameters.
+The degradation of the accuracy of some types of GPS measurement by Selective Availability (SA) and Anti-Spoofing (A/S) should be minimised or even eliminated.
+Monitoring of offsets and variations in GPS satellite clocks and ground receiver clocks.
+Active participation in the IGS.
+Ionospheric mapping in near-real time for ESA tracking stations, providing support to all ESA satellites being tracked from these sites, and eliminating the need for complex and inaccurate models of ionospheric propagation corrections in orbit determination. Monitoring of the ionosphere, satellite clocks and satellite and signal health in near-real time implicit in the above will provide the potential of providing measurement corrections of essential interest to users of GPS signals for navigation purposes (vehicles on or near the earth's surface).
+Orbit determination for earth satellites equipped with on-board GPS receivers. Navigation for future science and earth observation missions and In-orbit Infrastructure is envisaged. The TOPEX/Poseidon spacecraft, launched in August 1992, has provided a first test data set with high precision measurements giving radial orbit accuracy at the level of 2 cm (Casotto, Dow, Martin Mur & Romay 1994).
+The central part of the GPS-TDAF, involving the simultaneous computation of multiple orbits and many associated geophysical, geodetic, satellite- and tracking system-specific parameters, has developed out of a more general software facility for handling orbit determination for a wide range of earth satellite applications (Dow, Mart n Mur, Romay Merino, 1994).
+So far, high quality GPS receivers have been installed in six ESA stations:
+(Gran Canaria, Spain) in June 1992 Maspalomas
+(French Guyana) in August 1992 Kourou
+(Sweden) in July 1993 Kiruna
+(Western Australia) in August 1993 Perth
+, near Madrid (Spain) in November 1994 Villafranca
+(Kenya) in December 1995 Malindi
+A survey of these and other stations was made in 1991 by the TH Darmstadt and University of Bern in connection with the GIG'91 Campaign (Rothacher, Becker, et al., 1992).

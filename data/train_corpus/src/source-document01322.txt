@@ -1,0 +1,14 @@
+SWITS is compliant with the following regulations and data submission requirements:
+42 CFR, Part 2
+42 CFR, Part 2 is a section in the Federal Code of Regulations that is designed to "impose restrictions upon the disclosure and use of alcohol and drug abuse patient records which are maintained in connection with the performance of any federally assisted alcohol and drug abuse program." The full text of the regulations can be found at the US Government Printing Office website. SWITS is compliant with 42 CFR, Part 2. 42 CFR, Part 2
+HIPAA
+The Health Insurance Portability & Accountability Act of 1996 (HIPAA) is designed to establish a foundation of Federal protections for the privacy of protected health information. HIPAA was enacted to respond to a growing threat to the privacy of health-related information in an electronic environment. Additional information can be found at the the US Department of Health & Human Services website. SWITS is compliant with HIPAA. HIPAA
+CalOMS
+The California Outcomes Measurement System (CalOMS) is a statewide client-based data collection and outcomes measurement system. CalOMS is designed to allow the Department of Alcohol and Drug Programs (ADP) to effectively manage and improve the provision of alcohol and other drug services at the state, county, and provider levels. Additional information can be found at the ADP website. Sonoma County AODS submits CalOMS data to ADP through the SWITS system. Sonoma County CalOMS forms and manuals can be found . CalOMS here
+Drug MediCal
+Programs that provide Drug MediCal (DMC) services are required to be in compliance with the California Code of Regulations, Title 22, Section 51341.1 and the standards applicable to substance abuse treatment reimbursable through DMC. These regulations address topics such as the structure and documentation of treatment activities. Additional information can be found at the ADP website. Sonoma County AODS monitors compliance with many of these requirements through SWITS, and submits HIPAA-compliant DMC billing through SWITS. DMC
+Licensing & Certification
+Title 9 of the California Code of Regulations requires all 24 hour nonmedical residential AOD adult treatment services to be licensed by the Department of Alcohol and Drug Programs (ADP). In addition, ADP has developed certification standards for all treatment programs in the State of California, which are designed to promote a high standard of care and accountability for AOD treatment programs. Additional information can be found at the ADP website. Sonoma County AODS tracks compliance with a variety of these requirements, including counselor certification, through SWITS. Licensing & Certification
+Support
+If you have not been able to find the answer to your question in the SWITS section of this site, please contact SWITS support by email at: . training materials & guides DHS-WITS-Admin@sonoma-county.org
+ 

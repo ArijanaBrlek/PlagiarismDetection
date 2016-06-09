@@ -1,0 +1,29 @@
+Everest Poker
+"Poker Room for European and Asian High Stakes"
+Due to US legislation, only some poker rooms are open to US players. These rooms are marked with american flag.
+Need Help?
+» Beginners
+Learning to read the cards
+When the community cards are dealt, the table may turn. You must make a decision: should you be in the second round of betting or not? The decision should be based on the reading of both your cards and your opponents’. Your strategy for which hole cards you play are most certainly used by others as well. Think about what possible hands may be created with the first three community cards (the flop).
+The flop - the first three community cards
+If the first three community cards (the flop) don’t fit your hole cards, fold. It could be expensive to chase something if you do not already have a decent hand with the first five cards.
+A pocket pair (paired hole cards) that didn’t give you a set (three-of-a-kind) is not worth much unless all cards in the flop are lower than your pair. The chances of improving your hand are remote.
+An open straight or flush draw after the flop is a good hand. Bet, raise or call.
+A gut-shot straight draw is usually not good enough to bet on. A gut-shot straight draw has four outs, which means that there are four cards in the deck that will give you a straight. A common strategy is to call on the flop if it is cheap to do so, and then fold if you don’t make the straight on the turn.
+The turn - the fourth community card
+When you come to the fourth card (the turn) stakes go up. There are possibilities of winning, or losing, big. If you succeed in raising twice on the turn and then win the pot, you have played perfectly.
+Calling and then raising (check-raise) is a good method if you are first to speak with a good hand. That way, you do not give your opponent the opportunity to read you or your hand.
+A bet or a raise on the turn almost always means that the player has a good hand. If more than two players remain in the pot, it is almost certain that at least one of them has a really good hand, e.g. three-of-a-kind, a straight or a flush.
+Do not bet on the turn with an incomplete hand. Calling is fine, but betting or raising is often incorrect (unless you think you can scare the opponent into folding).
+The river - the fifth community card
+Call a weak hand if you have a strong hand. If you have a hand that was good on the flop, but has not improved on the turn or the river, it is better to start by checking. There is probably no reason to bet, because a weaker hand would fold, but a stronger hand would raise, losing you more money than necessary. It is a typical no-gain-high-risk scenario.
+On the river, there is usually so much money in the pot that it is worth calling a small bet even if you are uncertain about whether you have the best hand.
+Scare-card
+A scare-card is a card on the board that may have created a good hand for another player. Scare-cards reduce the probabilities of your winning.
+Typical scare-cards include:
+- three running cards or cards close together
+- might give somebody a straight
+- two running cards
+- might give somebody two pairs as people often play connectors
+- a two-card flush on the board will significantly reduce the possibility of winning with a straight. One of the four cards you are waiting for, may give somebody else a flush!
+GR Poker Community

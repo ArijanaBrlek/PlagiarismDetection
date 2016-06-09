@@ -1,0 +1,27 @@
+Resources for the Periodic Paralysis Community since 1995
+Emergency Treatment of the Hypokalemic Paralytic Attack
+When the patient has presented to the ER for treatment of a paralytic attack serial measurements of serum K+ and continual electro-cardiographic monitoring are necessary. The serum K+ level is not always an indication of the severity of the patient's situation. Some patients experience serious weakness and cardiac instability with only mild hypokalemia. Respiratory function may deteriorate rapidly and without warning.The patient must not be left unattended. When the patient is paralysed swallowing may be compromised and the gag reflex lost. Place the patient in the Coma position due to the possibility of Aspiration.
+Studies indicate that the resting membrane potential of the muscle fibers in HypoKPP patients is depolarized from 5-15 mV compared to the normal value of -85 mV. When the serum K+ is lowered it depolarizes the muscle fibers further and renders them inexcitable. (1,2 )always
+Laboratory Studies
+During an attack, there is usually, , a measurable fall in levels of serum potassium, but in some patients the K+ level may never fall below normal. Johnsen's series of provocative studies recorded an episode of weakness of 11 hours duration provoked by a 0.3 mmol/l fall in the serum K+, and an episode of total paralysis of 19 hours duration provoked by a one point drop. During the attack there is urinary retention of sodium, potassium, chloride and water. Base your decisions on your patient's strength and cardiac signs, not on serum potassium levels alone. (1,2,3,4,)but not always
+Treatment
+If the patient presents with total paralysis of the extremities but is still able to swallow and breathe adequately, oral sips of KCl solution can be given, 15 to 30 mmol (in children 10 to 15 mmol) in 30 to 60 minute intervals. The release from KCl tablets is too slow. K-Lyte is easier on the stomach than KCl and just as effective.
+In patients using K+ sparing diuretics or with renal function disturbances, serum K+ levels may rise rapidly to abnormally high levels after oral administration of KCl. If no improvement is apparent after four to five oral doses, or if nausea or diarrhea occurs after the oral KCl intake, IV administration of KCl is necessary. This also is preferable in patients with acute attacks of paralysis, arrhythmias, difficulties in swallowing and impaired respiration.
+Using a peripheral vein, the preferred dose for intravenous K+ is 15 mEq (15 mmol) over 15 minutes then 10 mEq/hr (10 mmol/hr) in 500 ml of dilutant. Five percent mannitol is the preferred dilutant; saline (0.9%) may be used, but never glucose. Infusion must be continued until serum K+ is normal and the patient's strength returns.Cardiac function must be continuously monitored during IV administration of potassium.
+Several hours of observation are necessary during which K+ and muscle strength should be measured, because paralysis may return. Many HypoKPP patients are sodium sensitive. Serum K+ may fall if saline solution is used to administer K+ IV. Mannitol is the solution of choice for IV administration of K+. (4,5,6) .
+Cardiac Signs
+Sinus bradycardia and electrocardiographic (ECG) signs of hypokalemia (U waves in leads II, V-2, V-3, and V-4, progressive flattening of T waves and depression of ST segment) may appear when the serum potassium falls below normal. Prolongation of the PR and QT intervals and T-wave flattening are associated with prominent U-waves.
+Mild Hypokalemia
+Johnsen's study of 106 Danish patients with HypoKPP revealed two patients who developed transient diastolic murmurs during paralysis and another who developed a transient, partial a-v block. He also describes patients who developed bradycardia and unspecified arrhythmias during episodes. (2,4,5,7)
+More information.
+References:
+Gamstorp, I: Disorders Characterised by Spontaneous Attacks of Weakness Connected with Changes of Serum Potassium; Genetics of Neuromuscular Disorders, pp 175-195 1989; Alan R. Liss Inc.
+Brooke, M: Introduction to Neuroscience; Lecture Notes AAN 1999
+Ptacek L.J., et al.: Periodic paralysis. In: Fauci AS, et al, eds. Harrison's Principles of Internal Medicine. 14th Ed. NYC, McGraw Hill, 1998
+Schlichtmann, J, Graber, M. University of Iowa Family Practice Handbook, 3rd Edition, Chapter 5, 1999 Hematologic, Electrolyte, and Metabolic Disorders: Potassium
+Swash, Michael; Schwartz, Martin S: Neuromuscular Diseases: A practical approach to diagnosis and management; 2nd ed. London; Springer-Verlagg 1988 The Periodic Paralyses pp 344-348
+Links, Th. P et al; Familial Hypokalemic Periodic Paralysis; Cip-Cegevens Kononklijke Bibliotheek, Den Haag 1992 ISBN 90-9005053-1
+Johnsen, Torsten; Familial Periodic Paralysis with Hypokalaemia, Danish Medical Bulletin, March 1981 Vol. 28 No. 1
+|| || top home contents
+This page was last updated February 2008 Copyright 2001-2008 Periodic Paralysis International Permission is granted for health-care professionals, patients and caregivers to make copies for personal use only, provided that this copyright notice remains intact. Visit the Periodic Paralysis International Newsdesk website at: http://hkpp.com/
+Site Menu

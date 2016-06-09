@@ -1,0 +1,16 @@
+Diversion
+0.59
+is a topographical view of a customer's sites, along with proposed paths for the RadioLinx industrial radio network.Figure C
+is a graph between two sites, showing the line of sight, the Fresnel Zone and terrain, and providing recommended antenna heights for each path.Figure D
+The information above provides the user with recommended antenna height AGL and path profiles of each site from the base location. Make sure antennas are above buildings, trees, foliage and other obstructions. The ProSoft Technology RadioLinx wireless radio uses 2.4 GHz. At this frequency there are line-of-site requirements. If line-of-site is not achieved, signal levels will be degraded. The Fresnel zone (outlined in the following graphs) requires to be free from any obstructions.
+To help in determining the location and height of antennas and repeaters of a RadioLinx Industrial radio network, ProSoft Technology recommends its customers a ProSoft Technology Path Study. Path Studies are priced in tiered fashion based on the number of sites. When a customer purchases ProSoft Technology Industrial radios for their project, the Path Study fees are subsequently credited to the customer's invoice.
+A ProSoft Technology path study yields a substantial amount of useful data in determining the feasibility of a project. ProSoft Technology utilizes 30-meter resolution data to complete a Path Study request as opposed to 3-second data (90 meters), because the former produces far more accurate results on which customers can base decisions. To get started, please provide information about each site using the RadioLinx Path Study Request Form.
+Customers provide the following information:
+The latitude and longitude coordinates of each site in degrees, minutes and seconds. (If the customer does not know the coordinates, this is easily accomplished by using a small, hand-held GPS receiver which can be purchased at a discount warehouse store).
+The known heights and coordinates of objects in the path (i.e. 20-foot building, 65-foot tower or trees).
+Maximum tower height a customer is willing to consider on which to mount antennas.
+If the minimum height provided is not sufficient to achieve a satisfactory link a repeater radio may be required.Note:
+In addition to a written summary, a ProSoft Technology Path Study includes information as shown below:
+Figures & represent site coordinates, their corresponding elevations, applicable tower heights, recommended antenna types at which site the antenna should be aimed, and the distance between the sites in the network.AB
+Any Path Study fees are credited to your RadioLinx radio order. For additional information on the RadioLinx line of wireless industrial communications solutions, please visit www.prosoft-technology.com.
+ProSoft Technology, Inc. Copyright © 2003 - 2009

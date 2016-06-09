@@ -1,0 +1,25 @@
+ 
+Numbers
+Before you take the Math IIC, you should become familiar with some common types of numbers. Understand their properties and you will be well served.
+the set of counting numbers, including zero {0, 1, 2, 3, . . .}.Whole Numbers:
+the set of all whole numbers except zero {1, 2, 3, 4, 5, . . .}.Natural Numbers:
+the set of all positive and negative whole numbers, including zero. Fractions and decimals are not included {. . . , 3, 2, 1, 0, 1, 2, 3, . . .}.Integers:
+the set of all numbers that can be expressed as a quotient of integers. That is, any numbers that can be expressed in the form , where and are integers. The set of rational numbers includes all integers, and all fractions that can be created using integers in the numerator and denominator.Rational Numbers:
+/mnmn
+the set of all numbers that cannot be expressed as a quotient of integers. Examples include , , 1.01001000100001000001. . . . The sets of irrational numbers and rational numbers are mutually exclusive. Any given number must be either rational or irrational; no number can be both.Irrational Numbers:
+every number on the number line. The set of real numbers includes all rational and irrational numbers.Real Numbers:
+numbers that do not appear on the real number line. We explain the ways in which imaginary numbers appear on the Math IIC in the Miscellaneous Math chapter later in this book.Imaginary Numbers:
+On the Math IIC, integers and real numbers will appear far more often than any of the other types.
+Even and Odd Numbers
+Even numbers are those numbers that are divisible by two with no remainder.
+Only integers can be even or odd, meaning decimals and fractions cannot be even or odd. Zero, however, is an integer and divisible by two, so it is even.
+. . . , 6, 4, 2, 0, 2, 4, 6, . . .
+Odd numbers are those numbers not evenly divisible by two.
+. . . , 5, 3, 1, 1, 3, 5, . . .
+The set of even numbers and the set of odd numbers are mutually exclusive.
+A more rigorous definition of even and odd numbers appears below:
+Even numbers are numbers that can be written in the form 2, where is an integer. Odd numbers are numbers that can be written in the form 2 + 1, where is an integer.nnnn
+This definition is nothing more than a technical repetition of the fact that even numbers are divisible by two and odd numbers are not. It may come in handy, though, when you need to represent an even or odd number with a variable.
+Operations of Odd and Even Numbers
+There are a few basic rules regarding the operations of odd and even numbers that you should know well. If you grasp the principles behind the two types of signed numbers, these rules should come easily.
+Addition:

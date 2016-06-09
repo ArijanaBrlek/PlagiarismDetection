@@ -1,0 +1,67 @@
+( and newer) Palm OS Centro
+[] edit Google Maps parameters
+In Google Maps, the URL parameters may be tweaked to offer views and options not normally available through on-screen controls.
+For instance, the maximum zoom level offered is normally 18, but if higher-resolution images are available, changing the parameter, which sets the zoom level, will allow the user to access them, as in or deep in , Africa using the parameter .z this view of elephants this view of people at a well Chad z=23
+A list of Google Maps parameters and their descriptions is available.
+[] edit Development history
+Please update the article to reflect recent events or newly available information, and remove this template when finished.This article or section needs to be updated.
+Google Maps was first announced on the Google Blog on February 8, 2005, and was located at . It originally only supported users of and , but support for and was added on February 25, 2005. Currently (December 15, 2008) Internet Explorer 7.0+, 2.0.0.9+, Safari 3+, Mozilla 1.8+, Chrome 0.2 and Opera 8.02+ are supported. It was in beta for six months before becoming part of Google Local on October 6, 2005. [11] http://maps.google.com/ Internet Explorer Mozilla web browsers Opera Safari Firefox [12]
+This section . Please help into or, if necessary, a .may contain an inappropriate mixture of prose and timeline convert this timeline prose list
+(April 2008)
+In early April 2005, an alternate view was activated to show of the area displayed. Satellite images
+In late April 2005, Google created using Google Maps. Google Ride Finder
+In late June 2005, Google released the . Extensibility and customisation
+In mid July 2005, Google began Google Maps and Google Local services for Japan, including road maps.
+On July 22, 2005, Google released "Hybrid View". Together with this change, the satellite image data was converted from to , which makes for a less distorted image in the latitudes. plate carr e Mercator projection temperate climes
+In July 2005, in honor of the thirty-sixth anniversary of the , was launched. Apollo Moon landing Google Moon
+In September 2005, in the aftermath of , Google Maps quickly updated its satellite imagery of to allow users to view the extent of the flooding in various parts of that city. (Oddly, in March 2007, imagery showing hurricane damage was replaced with images from before the storm; this replacement was not made on , which still uses post-Katrina imagery. Hurricane Katrina New Orleans Google Earth [13]
+As of January 2, 2006, Google Maps features road maps for the United States, Puerto Rico, Canada, the United Kingdom, Japan, and certain cities in the Republic of Ireland. Coverage of the area around was added in time for the . ()2006 -01-02 [update] Turin 2006 Winter Olympics
+On January 23, 2006, Google Maps was updated to use the same satellite image database as . Google Earth
+Google Maps promotional livery on New York City subway cars, Nov. 2008
+On March 12, 2006, was launched, which features a draggable map and satellite imagery of the planet Mars. Google Mars [14]
+In late April 2006, Google Local was merged into the main Google Maps site.
+On April 3, 2006, of the Maps API was released. version 2
+On June 11, 2006, to the API, satisfying what it called the most requested feature for this service. Google added geocoding capabilities
+On June 14, 2006, was officially launched. As a commercial service, it features intranet and advertisement-free implementations. Google Maps for Enterprise
+Beginning in February 2007, and stops are displayed in Google Maps "map view" for parts of , , , , and some other cities. buildings subway New York City Washington, D.C. London San Francisco [15]
+On February 28, 2007, was officially launched to automatically include real-time conditions to the maps of 30 major cities of the United States. Google Traffic info traffic flow
+On May 29, 2007, support was added to the Google Maps API. Google driving directions
+On May 30, 2007, was added. It gives ground level 360 degree view of streets in some major cities in United States.Street View
+On July 31, 2007, for the was announced; Google Maps search results will now output the ; unfortunately, . support hCard microformat hCard microformat the implementation is broken
+On November 27, 2007, "Terrain" view showing basic features was added. The button for "Hybrid" view was removed, and replaced with a "Show labels" checkbox under the "Satellite" button to switch between "Hybrid" and "Satellite" views. topographic
+In April 2008, a button to view recent Saved Locations was added to the right of the search field (must be signed in).
+In May 2008, a "More" button was added alongside the "Map", "Satellite", and "Terrain" buttons, permitting access to geographically-related photos on and articles on . Panoramio Wikipedia
+On May 15, 2008, ported to Flash and ActionScript 3 as a foundation for richer internet applications.
+On August 29, 2008, Google has signed a deal under which will supply the search giant with imagery from a satellite GeoEye [3]
+On October 7, 2008, GeoEye-1 takes its first image which is a Bird's-eye view of Kutztown University in Pennsylvania [4]
+[] edit Google's use of Google Maps
+The main Google Maps site includes a local search feature, finding businesses of a certain category in a geographic area.
+[] edit Google Ditu
+Google Ditu ( lit. "Google Maps") was released to the public on February 9, 2007, and replaced the old Google Bendi ( lit. "Google Local"). This is the Chinese localized version of Google Maps and Google Local services with coverage limited to the Chinese mainland.
+There are some differences in frontier alignments between Google Ditu and Google Maps. On Google Maps, sections of the Chinese border with India, Pakistan and Tajikistan are shown with dotted lines, indicating areas or frontiers in dispute. However, Google Ditu shows the Chinese frontier strictly according to Chinese claims with no "dotted lines" anywhere. For example the area now administered by India called Arunachal Pradesh (referred to as "South Tibet" by Chinese official sources) is shown inside the Chinese frontier by Google Ditu. Google Ditu also shows Taiwan and the surrounding islands as part of China.
+Main article: Google Moon
+Google Moon
+In honor of the 36th anniversary of the moon landing on July 20, 1969, Google took imagery of the , integrated it into the Google Maps interface, and created a tool called . By default this tool, with a reduced set of features, also displays the points of landing of all spacecraft to land on the Moon. It also included an , displaying a design at the highest zoom level, which Google has since removed. A recent collaborative project between and Google is integrating and improving the data that is used for Google Moon. This is the Project. Google Moon was linked from a special commemorative version of the Google logo displayed at the top of the main Google search page for July 20, 2005 () . Apollo 11 public domain Moon Google Moon [16] Apollo easter egg Swiss cheese NASA Ames Research Center Planetary Content [17] UTC webarchive.org
+Main article: Google Mars
+Google Mars
+provides a visible view, like Google Moon, as well as imagery and shaded relief (). Users can toggle between the , visible, and data, in the same manner as switching between map, satellite, and hybrid modes of Google Maps. In collaboration with scientists at , Google has provided the public with data collected from two NASA Mars missions, and . Google Mars imagery infrared elevation elevation infrared NASA Arizona State University Mars Global Surveyor 2001 Mars Odyssey [18]
+NASA has made available a number of desktop client maps for at . Google Earth Mars http://onmars.jpl.nasa.gov/
+More Mars data sets with more recent data are available at Google Maps based interface at provided by http://jmars.asu.edu/maps Arizona State University
+Now, with 5 it is possible to access new improved Google Mars data at a much higher resolution, as well as being able to view the terrain in 3D, and viewing panoramas from various Mars landers in a similar way to Google Street View. Google Earth
+Main article: Google Sky
+Further information might be found on the .Please help by expanding it. improve this section talk page
+[] edit Google Ride Finder
+Google launched an experimental Google Maps-based tool called , tapping into in-car units for a selection of participating and services. The tool displays the current location of all supported vehicles of the participating services in major U.S. cities, including and on a Google Maps street map. Ride Finder GPS taxi limousine Chicago San Francisco
+[] edit Google Transit
+In December 2005, Google launched . This is a web application (listed in ), that plans a trip using public transportation options. Google Transit launched with support for . Information for ; ; ; ; and was added on September 27, 2006, with more added since including adding cities in Canada, Europe, Japan and Australia. The service calculates route, transit time and cost, and can compare the trip to one using a . Google Transit Google Labs Portland, Oregon Eugene, Oregon Honolulu, Hawaii Pittsburgh, Pennsylvania Seattle, Washington Tampa, Florida [19] car
+[] edit Google My Maps
+In April 2007, My Maps was a new feature added to Google's local . My Maps lets users and businesses create their own map by positioning markers, polylines and polygons onto a map. The interface is a straightforward overlay on the map. A set of eighty-four pre-designed markers is available, ranging from bars and restaurants to webcam and earthquake symbols. Polyline and Polygon color, width and opacity are selectable. Maps modified using My Maps can be saved for later viewing and made public (or marked as private), but cannot be printed. Note: this can easily be overcome by using the 'Print Screen' funtion key and simple image editing software such as Paint. search maps
+Each element added to a My Map has an editable tag. This tag can contain text, rich text or HTML. Embeddable video and other content can be included within the HTML tag.
+Upon the launch of My Maps there was no facility to embed the created maps into a webpage or blog. A few independent websites have now produced tools to let users embed maps and add further functionality to their maps. This has been resolved with version 2.78. [20]
+[] edit Google Street View
+Main article: Google Street View
+On May 25, 2007, Google released Street View, a new feature of Google Maps which provides 360 panoramic street-level views of various U.S. cities. On this date, the feature only included five cities, but has since expanded to thousands of locations in the United States, France, Italy, Spain, Australia, New Zealand and Japan.
+In August 2008, was added to the Street View feature with nearly all Australian highways, roads and streets having the feature. In addition in that month was added and the route was added on July 2 of that year. In December 2008, was added to street view. Australia and New Zealand are the only countries to date with almost all roads and highways featured. Australia Japan Tour de France New Zealand
+Google Street View has also gained a significant amount of controversy in the days following its release; privacy concerns have erupted due to the uncensored nature of its panoramic photographs.[] dead link [21] [22]
+[] edit Google Latitude
+Google Latitude is a feature from Google that lets users share their physical locations with other people. This service is based on Google Maps, specifically on mobile devices. There's an iGoogle widget for Desktops and Laptops as well. [23]

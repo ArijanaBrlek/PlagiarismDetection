@@ -1,0 +1,11 @@
+Careers
+Graphical Improvements
+Although the Wii is not the graphical step up the PlayStation 3 and Xbox 360 offer, it is still a vast improvement over the PlayStation 2 and Gamecube consoles. GODS has been updated in a number of areas to take advantage of the increased graphical capabilities of the Wii. These improvements include:
+GODS has been updated to allow for the use of environment mapping in any of our games. By implementing this, GODS is taking full advantage of the Wii hardware and its graphical capabilities.Environment Mapping Implementation
+Alongside environment mapping we have also added bump-mapping to GODS. This is a feature not seen in our previous PS2 and PC games, again taking full advantage of the Wii hardware.Bump Mapping Improvements
+The particle systems available in our games have been rewritten to take better advantage of the Wii hardware. We have seen a major advancement in what we can achieve over our previous PlayStation 2 and PC titles.Particle effects
+New viewport blur effects include:Blurring effects
+Motion Blur Allows the edges of the screen to blur when travelling at high speed.
+Focal Blur (depth-of-field) Simulates camera blur when focusing on a specific area, e.g. during a cut-scene.
+Fullscreen Blur E.g. Blurring background when paused, etc.
+With the Wii hardware and its additional memory we are able to increase the texture resolutions our games can use. The same titles developed with GODS today for the Wii are clearly more graphically pleasing over our earlier PlayStation 2 and PC games through the use of these higher texture resolutions.Improved texture resolutions over older titles

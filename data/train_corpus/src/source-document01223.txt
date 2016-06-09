@@ -1,0 +1,12 @@
+Phone FAQ
+How Mediacom Phone Differs From VoIP Phone Service
+Instead of using the public Internet like some VoIP providers, Mediacom Phone utilizes a safer, private network including Mediacom's broadband network, Sprint's state-of-the-art digital network and the Public Switched Telephone Network (PSTN) to connect calls.
+This guarantees the quality of the network that carries the voice signal and provides a crisp, clear digital voice service.
+Some VoIP providers use the public Internet to connect calls.
+Mediacom Phone Service includes standard 911 service, which connects all callers to emergency services, and in areas where the public safety network supports it, Mediacom Phone offers Enhanced-911 (E911), which reports caller information such as the caller's name, phone number and address automatically at no extra charge. Mediacom automatically registers its customers for 911 and E911 where available.
+Internet-based VoIP providers may or may not provide a 911 or E911 service now required by law.
+Internet-based VoIP providers may also require that their customers activate the 911 feature by registering their service address first before dialing 9-1-1, while Mediacom automatically registers its customers. Several VoIP providers offer full E911 service for an additional charge.
+Compare Mediacom And Traditional Phone Providers
+With Mediacom phone, you pay the same price every month plus tax and applicable fees. No more confusing extras like subscriber line fees that can add up to $6.50 or more each month to your bill, or special rates limiting your talk minutes or the hours or days of the week to make calls. The only other charges that will appear on your bill are for the optional features you select like charges for international calls.
+Compare Mediacom's Bundled Services To Resellers
+Mediacom has invested millions of dollars to build a fiber optic network to deliver broadband services. With Mediacom, you deal with one company with the resources, local service support and expertise to bring you cable TV, Internet and phone service. Plus, you receive one bill for all of your Mediacom services, and you can even monitor your monthly service costs and pay your bill online.

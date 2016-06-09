@@ -1,0 +1,23 @@
+Off Grid or Remote System
+Off Grid or Remote System
+A complete line of Off-Grid products can be found here, at our store
+Monthly Power Utility Bills? Forget them.
+Off-grid systems are generally employed in remote locations without utility grids. It's a good solution in an area where running a line to the local utility grid is prohibitively expensive, or an area where blackouts and brownouts are relatively common. With an off-grid system, your solar energy system would supply all of the power a cabin, home or business would need.
+Off-grid systems completely relieve you from dependency on electrical grids. Off-grid systems typically require a larger up-front investment than grid-tie systems. This is, in large part, due to the greater demands on the system. A grid-tie usually supplements a home's energy demands, reducing the amount of energy required from the utility grid. An off-grid system is responsible for providing all power - appliances, lighting, and the electricity required for other utilities.
+When designing a off-grid system, try to think of the entire picture, down to each light bulb. Standard incandescent lighting is notoriously energy inefficient. You may want to consider fluorescent or LED lighting instead. The folks at Affordable-Solar are there to help - give them a call when you are ready.
+Off-grid systems are generally larger than grid-tie systems. To be fully independent, a system must have a greater array of energy-producing panels, which in turn requires more batteries to store the charge and more equipment to regulate the charge. While requiring more parts will require a large initial investment, in the long-run an off-grid system may save you thousands.
+The main components of an Off-Grid system are:
+Solar Array
+A Solar Array is a group of solar panels which absorb solar energy and convert this to DC power. The number and type of solar panels will determine how much energy you can produce, as will your geographic location.
+PV Combiner Box
+The PV Combiner Box usually includes GFCIs which protect your solar power system from equipment damage caused by power surges and short circuits. You can also shut down your solar power system at a moments notice, allowing for safe maintenance, repair, and inspection.
+Charge Controller
+Your batteries will accept all electrical current running from the solar array, but overcharging can ruin them. Charge controllers ensure batteries don't receive current when they're charged to capacity, protecting your investment.
+DC Breaker Box
+The DC Breaker Box includes a disconnect which will regulate the relationship between the battery bank and the inverter so it can be shut down at a moment's notice to replace, repair, or inspect the batteries safely.
+Battery Bank
+Batteries store the energy you collect through your array. Off-grid systems must collect enough energy to power your home or business until your batteries can be charged again.
+Inverter
+Inverters take DC power and convert it to AC power. Most electrical systems (like that found in your home) run off of AC power.
+Back-up Generator
+A back-up power supply is important to compensate for weather patterns which might otherwise disrupt your array's collection.

@@ -1,0 +1,12 @@
+Everest Poker
+"Poker Room for European and Asian High Stakes"
+Due to US legislation, only some poker rooms are open to US players. These rooms are marked with american flag.
+Need Help?
+Poker Betting Structure
+Limit
+In Limit poker, every bet/raise is made with a fixed amount. The only valid bet/raise is equal to the limit, for example $5 in the first two rounds and $10 in the last two, in $5-$10 Limit Hold’em. There is a cap of four bets/raises per betting round.
+No-Limit
+In No-Limit, there is no upper limit to what a player can bet or raise, besides the player’s own chip stack. However, a bet/raise must be at least equal to the stakes and the latest bet/raise of that round, for example $5 in $5-$5 No-Limit. There is no cap on the number of raises.
+Pot-Limit
+In Pot-Limit, the maximum bet/raise is equal to the present value of the pot, plus the amount needed by the player to call. However, a bet/raise must be at least equal to the stakes and the latest bet/raise of that round, for example $5 in $5-$5 No-Limit. There is no cap on the number of raises.
+GR Poker Community

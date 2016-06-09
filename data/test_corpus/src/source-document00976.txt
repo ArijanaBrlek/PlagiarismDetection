@@ -1,0 +1,60 @@
+>0.50.7
+↓ refers to a decrease in the test result compared to the laboratory reference range.
+* <30 IU/dL is designated as the level for a definitive diagnosis of VWD; some patients with type 1 or type 2 VWD have levels of VWF:RCo and/or VWF:Ag of 3050 IU/dL.
+ The VWF:Ag in the majority of individuals with type 2A, 2B, or 2M VWD is <50 IU/dL.
+** This does not preclude the diagnosis of VWD in patients with VWF:RCo of 3050 IU/dL if there is supporting clinical and/or family evidence for VWD, nor does this preclude the use of agents to increase VWF levels in those who have VWF:RCo of 3050 IU/dL and who may be at risk for bleeding.
+Notes:
+1. Until more laboratories clearly define a reference range, the VWF:RCo/VWF:Ag ratio of <0.50.7 is recommended to distinguish type 1 VWD vs. type 2 VWD variants (A, B, or M). Grade C, level IV
+2. 30 IU/dL is recommended as the "cut-off" level for the definite diagnosis of VWD for the following reasons:
+There is a high frequency of blood type O in the United States, and it is associated with "low" VWF levels;
+Bleeding symptoms are reported by a significant proportion of individuals with no disease; and
+No abnormality in the VWF gene has been identified in many individuals who have mildly to moderately low VWF:RCo levels. Grade C, level IV
+Management of VWD
+Treatment is aimed at cessation of bleeding or prophylaxis for surgical procedures. Strategies include:
+increasing plasma concentration of VWF by releasing endogenous VWF stores through stimulation of endothelial cells with .DDAVP
+by using human plasma-derived, viral-inactivated concentrates.replacing VWF
+usingagents that promote hemostasis and wound healing but do not substantially alter the plasma concentration of VWF.
+These strategies are not mutually exclusive, and patients may receive any one or all three at the same time. The appropriate therapy depends on the type and severity of VWD, the severity of the hemostatic challenge, and the nature of the actual or potential bleeding.
+Note: the following recommendations are graded according to level of evidence. See full guidelines for further explanation and evidence tables. () www.nhlbi.nih.gov/guidelines/vwd
+Testing Prior to Treatment
+Before treatment (except in urgent situations), persons suspected of having VWD should have a laboratory-confirmed diagnosis. (C, IV)
+Persons without a definite diagnosis of VWD but with VWF:RCo levels of 3050 IU/dL and a bleeding history may benefit from treatment or prophylaxis of bleeding in certain clinical situations. (B, III)
+Persons with VWF:RCo >10 IU/dL and FVIII activity >20 IU/dL should undergo a trial of DDAVP while in a nonbleeding state. Persons with levels below these thresholds are less likely to respond usefully to DDAVP, but a DDAVP trial should still be considered. (B, IIa)
+General Management of VWD Patients
+Treatment is aimed at cessation of bleeding or surgical prophylaxis. (C, IV)
+Continued bleeding, despite adequately replaced VWF:RCo and FVIII activity levels, requires evaluation for other causes of bleeding. (C, IV)
+Long-term prophylaxis is rarely required; it is currently under investigation. (C, IV)
+Patients > 2 years of age should be immunized against hepatitis A and B. (C, IV)
+Patients should have the opportunity to talk to a knowledgeable genetic counselor. (C, IV)
+Counsel patients to avoid aspirin, other NSAIDs, and other platelet-inhibiting drugs. (C, IV)
+Restriction of fluids to maintenance levels should be considered in persons receiving DDAVP (especially young children and in surgical settings) to avoid hyponatremia and seizures. (C, IV)
+Treatment for Minor Bleeding and Prophylaxis for Surgery
+Epistaxis and oropharyngeal, soft tissue, or minor bleeding should be treated with intravenous or nasal DDAVP, if supported by results of a DDAVP trial. (B, IIa)
+If elevation of VWF is necessary and response to DDAVP is inadequate, VWF concentrate should be used, with dosing primarily based on VWF:RCo units and secondarily on FVIII units. (C, IV)
+For minor surgery, initial prophylactic treatment should achieve VWF:RCo and FVIII activity levels ≥30 IU/dL and preferably >50 IU/dL, and should be maintained for 1-5 days. (B, III)
+Management of minor bleeding (e.g., epistaxis, simple dental extraction, or menorrhagia) with DDAVP and proper fluid restriction can be performed without monitoring of electrolytes unless Stimate® or DDAVP is used more than three times within 72 hours. (C, IV)
+For persons with mild to moderate VWD, antifibrinolytics combined with DDAVP are generally effective for oral surgery. VWF concentrate should be available for persons who cannot receive DDAVP or who bleed excessively despite this combined therapy. (B, IIb)
+Topical agents, such as fibrin sealant or bovine thrombin, may be useful adjuncts for oral surgery. Careful attention to hemostasis of a tooth extraction socket and to suturing of sockets is also important. (C, IV)
+Treatment of Major Bleeding and Prophylaxis for Surgery
+All treatment plans should be based on objective laboratory determination of response of VWF:RCo and FVIII activity levels to DDAVP or to VWF concentrate infusion. (B, IIb)
+Whenever possible, all major surgeries and bleeding events should be treated in hospitals with a 24-hour/day laboratory and with clinical monitoring by a team including a hematologist and a surgeon skilled in the management of bleeding disorders. (C, IV)
+For severe bleeding (e.g., intracranial, retroperitoneal) or prophylaxis of major surgery, initial target VWF:RCo and FVIII activity levels should be ≥100 IU/dL. Subsequent dosing should maintain VWF:RCo and FVIII levels above a trough of 50 IU/dL for at least 710 days. (B, III)
+To decrease risk of perioperative thrombosis, VWF:RCo levels should not exceed 200 IU/dL, and FVIII activity should not exceed 250 IU/dL. (C, IV)
+For major surgical procedures in selected patients with type 3 VWD or AVWS who are at risk for poor VWF recovery because of inhibitors, a preoperative trial infusion of VWF concentrate with pharmacokinetic laboratory monitoring should be considered. (C, IV)
+Management of Menorrhagia and Hemorrhagic Ovarian Cysts
+Women with menorrhagia or abnormal vaginal bleeding should have a full gynecological evaluation before therapy. (C, IV)
+In the adolescent or adult woman who does not desire pregnancy, but may desire future childbearing, the first choice of therapy for either menorrhagia or to prevent hemorrhagic ovarian cysts should be combined oral contraceptives. (B, III and C, IV, respectively)
+If a woman would otherwise be a suitable candidate for an intrauterine device, the second choice of therapy for menorrhagia should be the levonorgestrel intrauterine system. (B, IIb)
+For the woman who desires pregnancy, DDAVP, antifibrinolytics, or VWF concentrate may be tried to control menorrhagia. (C, IV)
+Dilation and curettage is not usually effective to manage excessive uterine bleeding in women who have VWD. (C, IV)
+Management of Pregnancy and Childbirth
+Women planning for pregnancy should have, before conception, an evaluation by a hematologist and a high-risk obstetrician who are skilled in the management of VWD. (C, IV)
+For women who have type 1, type 2, or type 3 VWD, with FVIII or VWF:RCo levels <50 IU/dL, or a history of severe bleeding:
+refer to a center that has high-risk obstetrics capabilities and with expertise in hemostasis for prenatal care, delivery, termination of pregnancy, or management of miscarriage. (C, IV)
+administer prophylaxis with DDAVP or VWF concentrate before invasive procedures. (C, IV)
+achieve VWF:RCo and FVIII levels of at least 50 IU/dL before delivery and maintain those levels for at least 35 days afterward. (C, IV)
+If VWF:RCo and FVIII levels can be monitored and maintained above 50 IU/dL during labor and delivery, and no other coagulation defects are present, then regional anesthesia may be considered. (C, IV)
+Because coagulation factors return to prepregnancy levels within 1421 days after delivery, health care providers should be in close contact with women during the postpartum period. (C, IV)
+Acquired von Willebrand Syndrome (AVWS)
+AVWS patients who require surgery should be considered for a pharmacokinetic trial of therapy with DDAVP and/or VWF concentrate, with monitoring of VWF:RCo and FVIII levels, to evaluate for possible accelerated clearance of VWF. (C, IV)
+For AVWS patients who bleed excessively despite therapy with DDAVP and VWF concentrate, treatment with high-dose IGIV should be considered, especially in IgG isotype MGUS. (B, IIa)

@@ -1,0 +1,5 @@
+Welcome to CHIC
+News
+Instructions for Updating Health History of dogs with DNA samples banked in the CHIC DNA Repository.
+CHIC is currently in the process of developing an online web-based application to allow owners to record any significant changes in the health history of their dogs that have DNA samples banked.  Until this application is implemented, please email us with any significant health updates.  Please include your name and contact information in the body of the email, as well as what changes have been noted.  We are primarily looking for new disease diagnosis, as an example, a dog that had developed cancer, PRA, or been diagnosed with hip dysplasia would all be updates that should be incorporated into the dog’s record.  Emails should be sent to:  chic@offa.org
+ 

@@ -1,0 +1,10 @@
+MobileVu Display
+Sunlight-Readable and Night Dimming Display
+MobileVu is a full sunlight readable and night dimmable display for the mobile computer user in law enforcement, fire, safety, utility, transportation and medical applications. MobileVu guarantees bright, clear viewing of computer data or video without interfering with voice or radio communications. Mounted high on the dashboard for ease of viewing and optimum driver safety, MobileVu's rugged housing, large screen color display, and sunlight readability make it the optimum solution for in-vehicle viewing. The MobileVu display attaches to the VGA port of any fixed mount or notebook computer. The real-time video option allows for FLIR/video color camera and moving map applications. With MobileVu, viewing computer data in harsh sunlight will never be a problem.
+Key Features
+12.1" (307 mm) color active matrix LCD (1500 nits typical)
+Sunlight readable, night dimming
+Operates over wide environmental ranges
+Wide viewing angle
+Touch screen option, works with a glove
+Full motion video option

@@ -1,0 +1,34 @@
+ 
+Order of Operations
+The order of operations refers to the order in which you must perform the various operations in a given mathematical expression. If operations in an expression could be performed in any random order, a single expression would take on a vast array of values. For example:
+Evaluate the expression
+One student might perform the operations from left to right:
+Another student chooses to add before executing the multiplication or division:
+As you can see, there are a great many possible evaluations of this expression depending on the order in which we perform the required operations. Thats why we have PEMDAS: a catchy acronym for determining the correct order of operations in any expression. PEMDAS stands for:
+arentheses: first, perform the operations in the innermost parentheses. A set of parentheses supercedes any other operation.P
+xponents: before you do any other operation, raise all the required bases to the prescribed exponent. Exponents include square roots and cube roots, since those two operations are the equivalent of raising a base to the and power, respectively.E
+/12
+ultiplication and ivision: perform multiplication and division.MD
+ddition and ubtraction: perform addition and subtraction.AS
+Lets work through a few examples to see how order of operations and PEMDAS work. First, we should find out the proper way to evaluate the expression 3 2 + 6 4. Since nothing is enclosed in parentheses, the first operation we carry out is exponentiation:
+3
+Next, we do all the necessary multiplication and division:
+Lastly, we perform the required addition and subtraction. Our final answer is:
+Heres another example, which is a bit trickier. Try it on your own, and then compare your results to the explanation that follows:
+Evaluate
+First, resolve the operations under the square root, which is symbolized by and is also called a radical.
+But wait, you may be thinking to yourself, I thought we were supposed to do everything within parentheses before performing exponentiation. Expressions under a radical are special exceptions because they are really an expression within parentheses that has been raised to a fractional power. In terms of math, . The radical effectively acts as a large set of parentheses, so the rules of PEMDAS still apply.
+To work out this expression, first execute the operations within the innermost set of parentheses:
+Next perform the required exponentiation:
+Then, multiply:
+Finally, add:
+Now that the operations under the radical have been resolved, we can take the square root.
+One additional note is important for the division step in the order of operations. When the division symbol is replaced by a fraction bar (i.e., the expression includes a fraction), you must evaluate the and the separately you divide the numerator by the denominator. The fraction bar is the equivalent of placing a set of parentheses around the whole numerator and another for the whole denominator. For example, in the fraction
+numeratordenominatorbefore
+you must work out the numerator and denominator before actually dividing:
+Order of Operations and Your Calculator
+There are two ways to deal with the order of operations while using a calculator:
+Work out operations one by one on your calculator while keeping track of the entire equation on paper. This is a slow but accurate process.
+If you have a graphing calculator, you can type the whole expression into your calculator. This method will be faster, but can cause careless errors.
+If you want to type full expressions into your graphing calculator, you must be familiar with how your calculator works. You cant enter fractions and exponents into your calculator the way they appear on paper. Instead, you have to be sure to recognize and preserve the order of operations. So acquaint yourself by practicing with the following expression:
+When you enter this into your calculator, it should look like this:

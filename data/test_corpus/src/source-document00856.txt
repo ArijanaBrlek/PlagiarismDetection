@@ -1,0 +1,25 @@
+| | | | | | | Home About Basics Links Tips Flying Business SightSeeing
+Google Earth Links
+This page is devoted to providing links to important web resources about Google Earth, KML/KMZ, sightseeing GE's satellite/aerial photos, software tools, games, and more. For an even longer list of links, check out OgleEarth's . links page
+Table of Contents
+Google Earth Blog's Tips About Google Earth Files - KML/KMZ
+Documentation on the file format used by Google Earth. It is essentially a schema for geographic information using XML, but adds features used by Google Earth to enhance the experience. By the way, it is "K"ML because Google Earth was derived from a product by a company called Keyhole.
+(FAQ) Common Questions about Google Earth 3D Modeling Tools and Resources
+- learn about and download the free 3D modeling tool, or get the Pro version Google SketchUp
+- a data warehouse for SketchUp models for use in SketchUp and Google Earth, you can share your models here too. 3D Warehouse
+- allows you to see models that have been "placed" in Google Earth. Click on the placemarks to see the model information and download. 3D Warehouse Network Link
+- A German Google Maps Blog GKarten
+- Deutsche Google Earth Hilfe www.ge-hilfe.de
+- Military analysis with GE GE Imagery Intelligence
+- KML blog from Steven Ho in Taiwan GEmVG Blog
+- Events Calendar and Maps Map Channels Events Sightseeing
+Web sites which provide links to interesting places to see within Google Earth or Maps:
+- Deutsches Google Earth Forum KugelErde.de
+- Deutsche Google Earth Community Globezoom.info
+- Professional GIS output (e.g. from ArcGIS) to GE visualizations Arc2Earth
+- Another tool for professional GIS output KMLer
+- Convert large images into regionated KML tiles SuperOverlay
+- Great tool for converting geospatial information into a variety of formats (Google Earth uses this for its GPS capabilities) GPSBabel
+- Friendly web interface with tools for converting geospatial information into maps, images, and Google Earth KML GPSVisualizer
+- OpenGL Extractor - 3D data converted to KML OGLE
+- Converts US addresses to KML Batch Geocode

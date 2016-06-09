@@ -1,0 +1,18 @@
+Jump to: , navigation search
+The U.S. prohibits discrimination on the basis of disability in programs conducted by Federal agencies, in programs receiving Federal financial assistance, in Federal employment, and in the employment practices of Federal contractors. The standards for determining employment discrimination under the Rehabilitation Act are the same as those used in title I of the Americans with Disabilities Act.Rehabilitation Act of 1973 [1]
+There are four key sections of the Act.
+Contents
+[] edit Section 501
+requires affirmative action and nondiscrimination in employment by Federal agencies of the executive branch. To obtain more information or to file a complaint, employees should contact their agency's Equal Employment Opportunity Office. Section 501 [1]
+[] edit Section 503
+requires affirmative action and prohibits employment discrimination by Federal government contractors and subcontractors with contracts of more than $10,000. Section 503 [1]
+[] edit Section 504
+states that "no qualified individual with a disability in the United States shall be excluded from, denied the benefits of, or be subjected to discrimination under" any program or activity that either receives Federal financial assistance or is conducted by any Executive agency or the United States Postal Service. Section 504 [1]
+Each Federal agency has its own set of section 504 regulations that apply to its own programs. Agencies that provide Federal financial assistance also have section 504 regulations covering entities that receive Federal aid. Requirements common to these regulations include reasonable accommodation for employees with disabilities; program accessibility; effective communication with people who have hearing or vision disabilities; and accessible new construction and alterations. Each agency is responsible for enforcing its own regulations. Section 504 may also be enforced through private lawsuits. It is not necessary to file a complaint with a Federal agency or to receive a "right-to-sue" letter before going to court. [1]
+[] edit Section 508
+establishes requirements for electronic and information technology developed, maintained, procured, or used by the Federal government. Section 508 requires Federal electronic and information technology to be accessible to people with disabilities, including employees and members of the public. Section 508 [1]
+An accessible information technology system is one that can be operated in a variety of ways and does not rely on a single sense or ability of the user. For example, a system that provides output only in visual format may not be accessible to people with visual impairments and a system that provides output only in audio format may not be accessible to people who are deaf or hard of hearing. Some individuals with disabilities may need accessibility-related software or peripheral devices in order to use systems that comply with Section 508. [1]
+[] edit References
+Switzer, Jacqueline Vaughn. . Georgetown University Press, 2003.Disabled Rights: American Disability Policy and the Fight for Equality
+OCR Senior Staff Memoranda, Guidance on the Application of Section 504 to Noneducational Programs of Recipients of Federal Financial Assistance, January 3, 1990.
+Lynch, William, "The Application of Title III of the Americans with Disabilities Act to the Internet: Proper E-Planning Prevents Poor E-Performance," 12 CommLaw Conspectus: Journal of Communications Law and Policy 245 (2004).

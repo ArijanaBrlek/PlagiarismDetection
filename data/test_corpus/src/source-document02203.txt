@@ -1,0 +1,21 @@
+Contacts
+Data Intensive Computing
+is capturing, managing, analyzing, and understanding data at volumes and rates that push the frontiers of current technologies. PNNL provides the science, technology, and leadership to deliver new capabilities that help our customers tackle problems once thought impossible.Data Intensive Computing
+The Challenge: Big Data
+The big-data challenge: transform terabytes and petabytes of streaming data into information that enables vital discoveries and timely decisions.
+Technology advances have made data storage relatively inexpensive and bandwidth abundant, resulting in voluminous datasets from modeling and simulation, high-throughput instruments, and system sensors. Such data stores exist in a diverse range of application domains, including scientific research (e.g., bioinformatics, climate change), national security (e.g., cyber security, ports-of-entry), environment (e.g., carbon management, subsurface science) and energy (e.g., power grid management). As technology advances, the list grows.
+The question is:how do you transform terabytes and petabytes of streaming data into information that enables vital discoveries and timely decisions?
+This challenge of extracting valuable knowledge from massive datasets is made all the more daunting by multiple types of data, numerous sources, and various scales -- not to mention the ultimate goal of achieving it in near-real time. To dissect the problem, the science and technology drivers can be grouped into three primary categories:
+managing the explosion of data
+extracting knowledge from massive datasets
+reducing data to facilitate human understanding and response.
+The Answer: Data Intensive Computing
+PNNL's approach to DIC: combine R&D in hybrid hardware architectures, adaptable software architectures, and advanced analytic algorithms to provide end-users with real capabilities that make impossible problems solvable.
+PNNL is aggressively working to solve the big-data challenge throughdata intensive computing.
+Data Intensive Computing (DIC) is concerned with capturing, managing, analyzing, and understanding data at volumes and rates that push the frontiers of current technologies. Addressing the demands of ever-growing data volume and complexity requires epochal advances in software, hardware, and algorithm development. Effective solution technologies must also scale to handle the amplified data rates and simultaneously accelerate timely, effective analysis results.
+PNNL's approach to DIC is focused on three key research areas: hybrid hardware architectures, software architectures, and analytic algorithms.
+Our research in hybrid computing evaluates the use of multithreaded hardware architectures, field-programmable gate arrays, and multi-core processors that drive the analytics closer to the sourceto achieve near-real time data reduction and feature extraction.
+Our software architecture, called Middleware for Data Intensive Computing (MeDICi), incorporates information integration capabilities, a virtualized data center, and a workflow engineto support the development of domain-agnostic solutions.
+Our advanced analytics use novel algorithms to provide real-time analysis and visualization capabilities for exploration and diagnostic discoveryto facilitate human understanding.
+From these three focus areas, we develop and combine new technologies to create capabilities that enable scientific discovery and insight (e.g., remediating the environment), decision support and control (e.g., securing cyber networks), and situational awareness and response (e.g., preventing terrorism).
+Data Intensive Computing

@@ -1,0 +1,20 @@
+.For fusion in , see word formation Compound (linguistics)
+A (also called ) is a type of , distinguished from by its tendency to "squish together" many in a way which can be difficult to segment.fusional languageinflecting language synthetic language agglutinative languages morphemes
+The examples of fusional languages are , , or ; in general, all conservative are fusional. Another notable group of fusional languages is the group. A high degree of fusion is also found in many , such as . canonical Latin Russian German Polish Indo-European languages Semitic languages Sami languages Skolt Sami
+A good illustration of fusionality in language is the Latin word , "good" (masculine). The ending denotes masculine gender, , and singular number. Changing any of these features requires replacement of the suffix with something else.bonus-us nominative case -us
+A feature that distinguishes fusional languages from agglutinating ones is the occurrence of irregular forms: this wouldn't happen in an agglutinating language since the synthetic elements retain a meaning of their own. Fusional languages are generally believed to have descended from agglutinating languages, though there is no linguistic evidence in the form of attested language changes to confirm this view. On the other hand, fusional languages generally tend to lose their inflection over the centuries some languages much more quickly than others . For example, , , and are about as fusional as , but and are nearly . The languages have generally retained their inflection. [1] Slovenian Lithuanian Armenian Proto-Indo-European modern English Afrikaans analytic Slavic
+Another typical feature of fusional languages is their systems of declensions. In German for instance the definite and indefinite articles are declined according to the grammatical gender of the noun and which of the four grammatical cases it falls into; these being nominative, accusative, genitive and dative. The definite article, for example is declined in the following fashion : [2]
+: (masculine) (feminine) (neuter) (plural) Nominative derdiedasdie
+: (masculine) (feminine) (neuter) (plural) Accusative case dendiedasdie
+: (masculine) (feminine) (neuter) (plural) Genitive desderdesder
+: (masculine) (feminine) (neuter) (plural) Dative case demderdemden
+Adjectives are also declined according to the gender and number of the noun they describe, whether it is preceded by a definite article (weak declension), indefinite article (mixed declension) or no article (strong declension).
+Examples:
+(masculine noun, nominative case)Der Hamster
+(masculine noun, genitive case)Des Hamsters
+And adding the adjective "little":klein
+"a little hamster" (mixed declension, nominative case)Ein kleiner Hamster
+"the little hamster" (weak declension, nominative case)Der kleine Hamster
+"I saw the little hamster" (weak declension, accusative case)Ich sah den kleinen Hamster
+"with little hamster" (no article; strong declension, dative case).Mit kleinem Hamster
+English retains remnants of the case system only with regard to personal pronouns (e.g. "you see " accusative case). Germanic me

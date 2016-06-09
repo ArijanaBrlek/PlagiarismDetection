@@ -1,0 +1,17 @@
+leave a comment »
+Ive been using Quicksilver for a few months now, a launch utility for OS X. In many ways, its like a simple command line: you type one or two arguments and a command and Quicksilver goes and does it.
+What makes Quicksilver more palatable to many GUI users is that, unlike, say, the UNIX shell, it is intelligent about figuring out what arguments go with what commands. For example, if you type the name of a PDF file, then the choice of commands you type narrows down to the kinds of commands that work with PDF files. Furthermore, users receive instant feedback after every letter they type, and matching is fuzzy.
+In some ways, Quicksilver follows the tradition of the Lisp Machine and VMS-style command line interfaces, which emphasized feedback and usability. That didnt come without some drawbacks, too, though, since all those user friendly command lines generally require a separate, distinct scripting language that differs from the normal command language. That is, on UNIX, if you can run them command, you can fully script it, but on those other systems, you cant. Still, these kinds of command lines may be a good tradeoff.
+There are also a bunch of things that arent so nice. First, Quicksilver quietly crashes frequently. Rescanning happens only sporadically (rather than using instantaneous updates, which OS X supports). Documentation is disorganized and incomplete. And extensions can change the user interface in unpredictable ways. And writing your own extensions is tricky, although there is no reason it should be.
+Here are some ideas for Quicksilver TNG:
+re-implement, maybe in a high level scripting language like Python
+think about supporting more general command patterns: object verb, verb object, object verb object, verb object object, etc.
+make it easier to extend
+make catalog update instantaneous using file system hooks/triggers
+add window titles, open documents, etc. to the catalogs
+come up with better abstractions: collections of results, etc.
+come up with better ways of chaining commands
+come up with a better way of running long-running commands, maybe putting the into the background
+integrate a little script development GUI
+use some kind declarative language to specify command patterns and have the system detect conflicts and inconsistencies automatically
+Written by extelopedia

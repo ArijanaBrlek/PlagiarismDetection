@@ -1,0 +1,5 @@
+Printable Version
+PV Performance
+As researchers develop new types of photovoltaic (PV) cells and modify existing designs, they want to know electrically. Specifically, have the changes made to the cells led to improved characteristics relating to current, voltage, overall power, and the efficiency in converting the sun's energy into electrical energy? how the cells perform
+In this section, we will review the basics of two primary classes of measurements conducted on solar cells to determine their performance: , and . We will also briefly discuss performance considerations relating to solar and . current-voltage measurements quantum efficiency measurements modules systems
+To learn more about PV physics, see:

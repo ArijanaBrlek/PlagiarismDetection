@@ -1,0 +1,60 @@
+Trazodone
+showPageNumber(0); addLoadEvent(bookmarkHideShow); function bookmarkHideShow() { if ( !window.external || typeof(window.external.AddFavorite) == "undefined" ) { document.getElementById("bookmarkPageSpan").style.display = "none" ; } } function updateLinks() { var str=location.href.replace(/[^\#]*\#/, ""); if ( str.substring(0,5) != "chapt" ) str = 'chapter_0'; var toc = document.getElementById("chapterTOC"); toc.innerHTML = ""; var p=document.createElement("P"); p.setAttribute("onclick", "showPageNumber(0);clickAnchor(event)" ); p.onclick = function() { showPageNumber(0);clickAnchor(event); }; setClass( p, "chapterList" ); var a = document.createElement( "a"); a.style.color = "white"; var c = "#chapter_0".replace(/'/g, "'"); a.setAttribute("href", c ); a.setAttribute("onclick","showPageNumber(0);"); a.onclick = function() { showPageNumber(0);}; a.innerHTML = "What Is Zoloft?"; var cstr = "chapter_0"; p.appendChild( a ); toc.appendChild( p ); var p=document.createElement("P"); p.setAttribute("onclick", "showPageNumber(0);clickAnchor(event)" ); p.onclick = function() { showPageNumber(0);clickAnchor(event); }; setClass( p, "chapterList" ); var a = document.createElement( "a"); a.style.color = "white"; var c = "#chapter_1".replace(/'/g, "'"); a.setAttribute("href", c ); a.setAttribute("onclick","showPageNumber(0);"); a.onclick = function() { showPageNumber(0);}; a.innerHTML = "Who Makes It?"; var cstr = "chapter_1"; p.appendChild( a ); toc.appendChild( p ); var p=document.createElement("P"); p.setAttribute("onclick", "showPageNumber(0);clickAnchor(event)" ); p.onclick = function() { showPageNumber(0);clickAnchor(event); }; setClass( p, "chapterList" ); var a = document.createElement( "a"); a.style.color = "white"; var c = "#chapter_2".replace(/'/g, "'"); a.setAttribute("href", c ); a.setAttribute("onclick","showPageNumber(0);"); a.onclick = function() { showPageNumber(0);}; a.innerHTML = "Uses for Zoloft"; var cstr = "chapter_2"; p.appendChild( a ); toc.appendChild( p ); var p=document.createElement("P"); p.setAttribute("onclick", "showPageNumber(0);clickAnchor(event)" ); p.onclick = function() { showPageNumber(0);clickAnchor(event); }; setClass( p, "chapterList" ); var a = document.createElement( "a"); a.style.color = "white"; var c = "#chapter_3".replace(/'/g, "'"); a.setAttribute("href", c ); a.setAttribute("onclick","showPageNumber(0);"); a.onclick = function() { showPageNumber(0);}; a.innerHTML = "How Does It Work?"; var cstr = "chapter_3"; p.appendChild( a ); toc.appendChild( p ); var p=document.createElement("P"); p.setAttribute("onclick", "showPageNumber(1);clickAnchor(event)" ); p.onclick = function() { showPageNumber(1);clickAnchor(event); }; setClass( p, "chapterList" ); var a = document.createElement( "a"); a.style.color = "white"; var c = "#chapter_4".replace(/'/g, "'"); a.setAttribute("href", c ); a.setAttribute("onclick","showPageNumber(1);"); a.onclick = function() { showPageNumber(1);}; a.innerHTML = "Effects of Zoloft"; var cstr = "chapter_4"; p.appendChild( a ); toc.appendChild( p ); var p=document.createElement("P"); p.setAttribute("onclick", "showPageNumber(1);clickAnchor(event)" ); p.onclick = function() { showPageNumber(1);clickAnchor(event); }; setClass( p, "chapterList" ); var a = document.createElement( "a"); a.style.color = "white"; var c = "#chapter_5".replace(/'/g, "'"); a.setAttribute("href", c ); a.setAttribute("onclick","showPageNumber(1);"); a.onclick = function() { showPageNumber(1);}; a.innerHTML = "When and How to Take It"; var cstr = "chapter_5"; p.appendChild( a ); toc.appendChild( p ); var p=document.createElement("P"); p.setAttribute("onclick", "showPageNumber(2);clickAnchor(event)" ); p.onclick = function() { showPageNumber(2);clickAnchor(event); }; setClass( p, "chapterList" ); var a = document.createElement( "a"); a.style.color = "white"; var c = "#chapter_6".replace(/'/g, "'"); a.setAttribute("href", c ); a.setAttribute("onclick","showPageNumber(2);");
+Zoloft
+Zoloft is commonly used to treat depression, panic disorder, social anxiety disorder, and other conditions. It belongs to a class of drugs called selective serotonin reuptake inhibitors (SSRIs). The medication works by balancing serotonin levels in the brain, which often helps with symptoms of depression and similar conditions. Common side effects of Zoloft include dry mouth, insomnia, and nausea.
+ 
+What Is Zoloft?
+Zoloft ( hydrochloride) is a prescription medication used to treat a number of conditions within the brain.® sertraline
+ 
+Zoloft is manufactured by Pfizer. Several different manufacturers make a generic version.
+ 
+The medication is licensed to treat a number of conditions, including:
+ 
+(Click for more information, including possible uses.) What Is Zoloft Used For? off-label
+ 
+How Does It Work?
+Zoloft is part of a class of drugs called selective serotonin reuptake inhibitors, or  for short. SSRIs act on a specific chemical within the brain known as serotonin. This is one of several chemicals used to send messages from one nerve cell to another.
+SSRIs
+ 
+As a message travels down a nerve, it causes the end of the cell to release serotonin. The serotonin enters the gap between the first nerve cell and the one next to it. When enough reaches the second nerve cell, it activates receptors on the cell and the message continues on its way. The first cell then quickly absorbs any serotonin that remains in the gap between cells. This is called "reuptake."
+ 
+Normally, this process works without any problems. But when the levels of serotonin become unbalanced, it can cause a variety of conditions, including depression and panic disorder. Zoloft helps to block the reuptake of serotonin so that more remains in the space between the brain's nerve cells. This gives the serotonin a better chance of activating the receptors on the next nerve cell.
+ 
+Effects of Zoloft
+Zoloft has been studied in numerous clinical trials for several conditions. Clinical studies have shown the drug to be effective for treating , , , , and in adults. Also, long-term studies showed that people taking it were less likely to have a relapse. depression OCD panic disorder post-traumatic stress disorder social anxiety disorder
+ 
+The medication has been shown to be effective for treating OCD in children as young as six years old. It has not been studied in children or teens for any other use.
+ 
+Zoloft was studied in two clinical trials for premenstrual dysphoric disorder (PMDD). These two studies did not include women on (). One study looked at using the drug every day for PMDD. The second study looked at using it only for the last two weeks of the menstrual cycle. Both studies showed that Zoloft was effective for treating PMDD. oral contraceptives birth control pills
+ 
+When and How to Take It
+Some suggestions on how and when to take Zoloft include the following:
+ 
+The medication comes in tablet and liquid form. You take it by mouth -- usually once a day.
+ 
+Zoloft oral concentrate (the liquid form) must be diluted before each use. Measure the correct amount, then mix it with 4 ounces (half a cup) of water, ginger ale, lemon-lime soda, lemonade, or orange juice. Do not mix the oral concentrate with any other beverages. Also, mix the oral concentrate immediately before taking it -- do not prepare it far ahead of the time you intend to take it.
+ 
+If the medication makes you drowsy, try taking it before bedtime. If it causes , try taking it in the morning. insomnia
+ 
+You can take Zoloft with or without food. If the medication bothers your stomach, try taking it with food.
+ 
+Take Zoloft at the same time each day to maintain an even level in your blood.
+ 
+For the medication to work properly, you must take it as prescribed. Zoloft will not work if you stop taking it.
+ 
+Dosing Information
+The dose of Zoloft your healthcare provider recommends will vary, depending on a number of factors, including:
+ 
+The medical condition being treated
+Other medical conditions you may have
+Other medications you may be taking.
+ 
+As is always the case, do not adjust your dose unless your healthcare provider specifically instructs you to do so.
+ 
+(Click for more information.) Zoloft Dosage
+ 
+Side Effects of Zoloft
+As with any medicine, side effects can occur with Zoloft. However, not everyone who takes the drug will experience side effects. In fact, most people tolerate it well. If side effects occur, in most cases, they are minor and either require no treatment or can easily be treated by you or your healthcare provider. Serious side effects are less common.
+ 
+The most common side effects include:
+ 

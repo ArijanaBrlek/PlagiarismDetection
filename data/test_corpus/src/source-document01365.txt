@@ -1,0 +1,9 @@
+Electronics & Systems
+Electronics Technology Overview
+The development bubble chart represents the range of PNNL capabilities and activities and covers the span from underlying science to the engineering developments required to deliver devices, instruments, and systems. Staff working in the application environment (i.e., delivering engineered solutions) are most commonly exposed to the client´s upcoming sensor needs and interests. At the same time, the existence of an integrated technology development team facilitates the transfer of information to staff working on the development or improvement of appropriate sensing mechanisms and devices.
+Fundamental phenomena and interactions that govern electrical circuit and system operation and designInteraction Mechanisms:
+Interaction Mechanism Capabilities
+Circuits and Devices: Custom circuits, devices, and embedded software to meet specific functional requirements. PNNL project work routinely includes the development of transducers and antennas, analog and digital circuits, controls including hard-wired control circuits and cognitive systems, communication devices, and signal processors.Circuits & Devices:
+Sensors, signal processing, actuators, controls, and software. Specific areas of application include control systems, data acquisition systems, communication systems, user interfaces, laboratory and field instrumentation systems, and remotely operated instrumentation system. System developments in other application areas are performed to meet a client's application specific requirements.Control and Measurement Systems:
+Complete systems including: sensors; measurement devices; electronics; control actuators; mechanical hardware; computer equipment; and software for system control, data acquisition, decision making, and process monitoring.Integrated Systems:
+Sensors & Electronics

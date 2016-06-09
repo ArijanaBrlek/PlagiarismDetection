@@ -1,0 +1,64 @@
+www.usgs.gov
+The () is a scientific agency of the . The of the USGS study the of the , its , and the that threaten it. The organization has four major science disciplines, concerning , , , and . The USGS is a fact-finding research organization with no regulatory responsibility.United States Geological SurveyUSGS United States government scientists landscape United States natural resources natural hazards biology geography geology hydrology
+A bureau of the , it is that department's sole scientific agency. The USGS employs approximately 10,000 people and is headquartered in . The USGS also has major offices in (), and . United States Department of the Interior Reston, Virginia Lakewood, Colorado Denver Federal Center Menlo Park, California
+Contents
+03221000 Scioto River O'Shaughnessy Dam Dublin, Ohio
+The USGS is the primary civilian mapping agency in the United States, and is best known for its 1:24,000 scale, 7.5-minute quadrangle . Their recent program, the , is an attempt to be the ultimate online mapping service for the United States. The USGS also has a vigorous Business Partners program through which they encourage the reselling of their maps so that the public can have quicker, easier access to information. Many commercial sites have capitalized on this program to provide web mapping services in conjunction with the USGS. topographic maps National Map
+The USGS monitors activity worldwide. The (NEIC) in on the campus of the detects the location and magnitude of global earthquakes. The USGS also runs or supports several regional monitoring networks in the U.S. under the umbrella of the (ANSS). The USGS informs authorities, emergency responders, the media, and the public, both domestic and worldwide, about significant earthquakes. It also maintains long-term archives of earthquake data for scientific and engineering research. It also conducts and supports research on long-term . Earthquake Hazards Program earthquake National Earthquake Information Center Golden, Colorado Colorado School of Mines Advanced National Seismic System seismic hazards
+The USGS monitors the at magnetic observatories and distributes data in real time. National Geomagnetism Program magnetic field magnetometer
+The USGS operates the streamgaging network for the United States, with over 7400 . are available online. streamgages Real-time streamflow data
+Since , the has been involved in global, and exploration and . 1962 Astrogeology Research Program lunar planetary mapping
+The USGS also operates the , whose mission is "to serve the nation and its natural resources by providing sound science and technical support, and to disseminate information to promote science-based decisions affecting wildlife and ecosystem health. The NWHC provides information, technical assistance, research, education, and leadership on national and international wildlife health issues." It is the agency primarily responsible for surveillance of wild-animal outbreaks in the United States. National Wildlife Health Center [1] H5N1 avian influenza
+As of , the agency is working to create a by improving the instrumentation monitoring the 169 in U.S. territory and by establishing methods for measuring the relative threats posed at each site. 2005 National Volcano Early Warning System volcanoes
+In collaboration with , the USGS also operates the , a world-class analytical facility for U-(Th)-Pb and trace element analyses of minerals and other earth materials. Stanford University USGS-Stanford Ion Microprobe Laboratory [] citation needed [2] geochronology
+The motto of the USGS is "."Science for a changing world [3]
+The USGS also runs 17 biological research centers in the United States, including the . Patuxent Wildlife Research Center
+Clarence King
+Prompted by a report from the the USGS was created by an act of on , . It was charged with the "classification of the public lands, and examination of the geological structure, mineral resources, and products of the national domain." This task was driven by the need to inventory the vast lands added to the United States by the in 1803. National Academy of Sciences Congress March 3 1879 Louisiana Purchase
+, the first director of USGS, assembled the new organization from disparate regional survey agencies. After a short tenure, King was succeeded in the director's chair by . Clarence King John Wesley Powell
+[] edit List of USGS Directors
+USGS publishes many series of maps and reports, including:
+[] edit Biological Science Report (BSR)
+Record significant scientific interpretations and findings, usually of lasting scientific interest, addressing a wide variety of topics relevant to Biological Resources Discipline (BRD) investigations and research. May include extensive data or theoretical analyses. Reports published by the and later by the U.S. Geological Survey. The report series began in 1995 and continued through 2003. U.S. Biological Survey
+[] edit Bulletin (B)
+Significant data and interpretations of lasting scientific interest but generally narrower in scope than professional papers. Results of resource studies, geologic or topographic studies, and collections of short papers on related topics.
+[] edit Circular (CIR/C)
+A wide variety of topics covered concisely and clearly to provide a synthesis of understanding about processes, geographic areas, issues, or USGS programs. The Circular should be aimed at enhancing knowledge and understanding among general audiences, decision makers, university students, and scientists in related fields.
+[] edit Circum-Pacific Map (CP)
+Multicolor equal-area maps at scales of 1:10,000,000 for the Northwest, Northeast, Southwest, Southeast quadrants of the Pacific and the Arctic and Antarctic regions, and of 1:17,000,000 for the whole Pacific Basin. The series consists of base, geographic, geodynamic, plate-tectonic, geologic, tectonic, mineral-resources, and energy-resources maps, as well as other miscellaneous maps.
+[] edit Coal Investigations (COAL/C-) Map
+Origin, character, and resource potential of coal deposits shown by geologic maps, structure contours, cross sections, columnar sections, and measured coal sections, where appropriate. Text on same sheet or in an accompanying pamphlet.
+[] edit Folios of the Geologic Atlas (GF)
+Quadrangles named from a city, town, or prominent natural feature within the area covered. They include maps showing the topography, geology, underground structure and mineral deposits of the area and several pages of descriptive text and illustrations. May include maps of oil and gas and artesian water. Precursor to Geologic Quadrangles.
+[] edit General Interest Publication (GIP)
+A wide variety of topics covered concisely and clearly in a variety of formats. Focus is on USGS programs, projects, and services and general scientific information of public interest. The series covers a broad range of topics in a variety of media, including pamphlets, postcards, posters, videos, teacher kits, CD/DVDs, bookmarks, and interactive and motion graphics. Previously called "General Interest Publications".
+[] edit Geologic Quadrangle (GQ) Map
+Detailed geologic maps depicting areas of special importance to the solution of geologic problems. May portray bedrock or surficial units, or both. May include brief texts, structure sections, and columnar sections. 71/2- or 15-minute quadrangles printed in multicolor on topographic bases that meet National Map Accuracy standards.
+[] edit Geophysical Investigations (GP) Map
+Chiefly the results of aeromagnetic and (or) gravity surveys shown by contours. Area depicted may range in size from a few square miles to an entire country. Single or multiple sheets.
+[] edit Hydrologic Investigations Atlas (HA)
+A wide range of hydrologic and hydrogeologic data of regional and national interest, such as streamflow, ground water, water quality, and extent of flooding. Various scales. Single or multiple sheets.
+[] edit Land Use and Land Cover (L) Map
+Various categories of land use and cover, both artificial and natural, for use by geographers, land-use planners, and others. Planimetric maps at scales of 1:250,000 or 1:100,000 on a single sheet.
+[] edit Mineral Investigations Resource (MR) Map
+Information on mineral occurrences, mineral resources, mines and prospects, commodities, and target areas of possible resources coal, petroleum, or natural gas. Small scale (1:250,000 or smaller).other than
+[] edit Miscellaneous Field Studies (MF) Map
+Rapidly prepared, low-budget maps in a broad range of presentations in terms of portrayal, completeness, interpretations, draftsmanship, scale, and area coverage. Single or multiple sheets.
+[] edit Miscellaneous Investigations/ Geologic Investigations (I) Series
+High-quality maps and charts of varied subject matter such as bathymetry, geology, hydrogeology, landforms, land-use classification, vegetation, and others including maps of planets, the Moon, and other satellites. Various scales. Topographic or planimetric bases; regular or irregular areas. May include a text printed as an accompanying pamphlet.
+[] edit Oil and Gas Investigations (OC) Chart
+Information about known or possible petroleum resources, presented as logs, correlation diagrams, graphs, and tables, but ordinarily not as maps. Single or multiple sheets. Text printed on same sheet or in an accompanying pamphlet.
+[] edit Oil and Gas Investigations (OM) Map
+Apply particularly to areas of known or possible petroleum resources. Typically include cross sections, columnar sections, structure contours, correlation diagrams, and information on wells drilled for oil and gas. Single or multiple sheets. Text usually on map sheet but sometimes printed as an accompanying pamphlet.
+[] edit Open-File Report (OFR/OF)
+Interpretive information that needs to be released immediately; maps and reports (and their supporting data) that need to be released as supporting documentation because they are referenced, discussed, or interpreted in another information product; preliminary findings (pending a final map or report); interim computer programs and user guides; bibliographies.
+[] edit Professional Paper (PP)
+of the USGS. Comprehensive reports of wide and lasting interest and scientific importance, characterized by thoroughness of study and breadth of scientific or geographic coverage. The series may include collections of related papers addressing different aspects of a single scientific topic, either issued together under one cover or separately as chapters.Premier series
+[] edit Water-Resources Investigations Report (WRIR/WRI)
+Hydrologic information, mainly of local interest, intended for quick release. Book or map format. Varied scales.
+[] edit Water-Supply Paper (WSP)
+Reports on all aspects of hydrology, including quality, recoverability, and use of water resources; statistical reports on streamflow, floods, groundwater levels, and water quality; and collections of short papers on related topics.
+A complete listing of descriptions of USGS Series is available at (accessed 11/25/08) [1]
+[] edit Locating USGS Publications
+USGS publication are available for purchase at . USGS Publications Warehouse
+Many USGS publications are now available online:

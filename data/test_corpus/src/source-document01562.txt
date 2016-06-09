@@ -1,0 +1,12 @@
+ 
+Types of Arrhythmia
+There are four main types of arrhythmia: premature (extra) beats, supraventricular arrhythmias, ventricular arrhythmias, and bradyarrhythmias.
+Premature (Extra) Beats
+Premature beats are the most common type of arrhythmia. They are harmless most of the time and often dont cause any symptoms. When symptoms do occur, they usually feel like a fluttering in the chest or a sensation of a skipped beat. Most of the time, premature beats need no treatment, especially in healthy people.
+Premature beats that occur in the atria are called premature atrial contractions, or PACs. Premature beats that occur in the ventricles are called premature ventricular contractions, or PVCs.
+In most cases, premature beats occur naturally, not due to any heart disease. But certain heart diseases can cause premature beats. They also can happen because of stress, too much exercise, or too much caffeine or nicotine.
+Supraventricular Arrhythmias
+Supraventricular arrhythmias are tachycardias (fast heart rates) that start in the atria or the atrioventricular node (cells located between the atria and the ventricles). Types of supraventricular arrhythmias include atrial fibrillation (AF), atrial flutter, paroxysmal supraventricular tachycardia (PSVT), and Wolff-Parkinson-White (WPW) syndrome.
+Atrial Fibrillation
+AF is the most common type of serious arrhythmia. Its a very fast and irregular contraction of the atria. AF occurs when the hearts electrical signal begins in a different part of the atrium than the sinoatrial (SA) node or when the signal is conducted abnormally. When this happens, the electrical signal doesnt travel through the normal pathways in the atria, but instead may spread throughout the atria in a fast and disorganized manner. This causes the walls of the atria to quiver very fast (fibrillate) instead of beating normally. As a result, the atria arent able to pump blood into the ventricles the way they should.
+The animation below shows atrial fibrillation. Click the "start" button to play the animation. Written and spoken explanations are provided with each frame. Use the buttons in the lower right corner to pause, restart, or replay the animation, or use the scroll bar below the buttons to move through the frames.

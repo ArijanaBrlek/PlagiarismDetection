@@ -1,0 +1,11 @@
+Home Products & Services Training Overview
+Java Accessibility Training
+Java Accessibility Training teaches software development departments to create accessible applications using the Java programming language. There are several aspects of developing applications in Java that present unique accessibility challenges, including implementation of the Java Access Bridge and Java Accessibility API. Java Accessibility Training translates SSB BART Group's first-hand experience creating accessible Java applications into easy to understand and straightforward guidance for your organization's development team. The training includes: Java Accessibility Training is targeted towards developers, project managers, and QA engineers seeking to create and maintain Java applications that are accessible to people with disabilities and compliant with accessibility requirements.
+Review of applicable accessibility standards, including Section 508, Disability Discrimination Act, and other country-specific requirements.
+Design principles for creating accessible Java applications.
+Successful implementation of the Java Accessibility API.
+Analysis of interactions between the Java Access Bridge and Assistive Technology.
+Code-level examples of how to comply with relevant requirements.
+Review of common errors found within Java applications.
+Solutions to known issues in your organization's applications.
+Who Attends Java Accessiblity Training?

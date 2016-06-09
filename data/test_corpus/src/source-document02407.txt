@@ -1,0 +1,9 @@
+Biological Sensors
+Biological Sensor Technology Overview
+The development bubble chart represents the range of PNNL capabilities and activities and covers the span from underlying science to the engineering developments required to deliver devices, instruments, and systems. Staff working in the application environment (i.e., delivering engineered solutions) are most commonly exposed to the client's upcoming sensor needs and interests. At the same time, the existence of an integrated technology development team facilitates the transfer of information to staff working on the development or improvement of appropriate sensing mechanisms and devices.
+Fundamental mechanisms and interactions that allow detection and measurement of nuclear/ionizing radiation (e.g., free carrier generation in materials, optical scintillation, optically active defect creation in detectors).Sensing/Interaction Mechanisms:
+Sensing Mechanism Capabilities
+A device that can detect and measure a specific biological organism. The sensor will rely on one or more sensing mechanisms and produce a signal that indicates the presence and quantity of the biological organism.Sensor Device:
+Types of biological organism sensors developed at PNNL include the following: bioluminescence, optical sensors, mass sensors, electrochemical sensors, etc.
+In addition, PNNL develops unique/specialized sensors for clients when suitable sensors are not available to meet a client's demanding requirements.
+Typically a sensor with associated components (frequently electronics and user input/output devices) that can convert the sensor's raw signal to usable information on a biological organism (e.g., E. coli, botulism). These may be stand-alone instruments or a sensor module for incorporation in a more comprehensive system.Sensor System:

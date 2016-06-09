@@ -1,0 +1,8 @@
+nuclear radiation sensors
+(macro properties of materials and objects, for example, object size and shape, nondestructive material/component evaluation, radar cross-section, geographic characterization with remote sensing, mechanical system operational diagnostics) macro property measurement
+PNNL and control capabilities enable the integration of sensors, power, signal processing and conditioning, I/O, and user interface functions to provide deliverables ranging from subsystems to turn-key instruments and equipment systems. Capabilities described on the website support the development of control systems, micro-processor-based embedded systems, data acquisition systems, communication systems, and fully integrated systems for measurement and process control. electronic
+More than 305 PNNL staff have declared an affiliation with the Sensors and Electronics Technical Network. Of these, about 110 have selected the network as their primary affiliation (i.e., it best represents their capabilities and activities) while another 195 PNNL staff have declared affiliate membership in this technical network, as a significant portion of their capabilities and activities are represented by the network scope.
+The purpose of this website is to provide you with an efficient method to familiarize yourself with the PNNL Sensors and Electronics capabilities. Selected project examples are included to illustrate how these capabilities have been employed to meet a range of government and industry client needs.
+A video clip introducing some Sensors and Electronics (formerly called Sensors and Controls) capabilities is available as part of the . PNNL Video Tour
+We trust that you will find this website informative and helpful.
+Sensors & Electronics

@@ -1,0 +1,48 @@
+Generating Business
+DJ Equipment
+Now let's forge ahead into the mobile DJ entertainment field. You must be anxious to get started. First, you will need to become familiar with the gear that you will be working with. That leads us to the topic of...
+REQUIRED EQUIPMENT AND IT'S ASSEMBLY
+The first step that anyone must take in becoming a successful mobile DJ entertainer is knowing how to properly set up a mobile sound system. Therefore, let's cover what an average system will consist of.
+AUDIO EQUIPTMENT
+audio mixer (4 channel minimum)
+2 full range speakers
+2 compact disc players or 1 pitch controlled cd mixing unit.
+1 tape deck
+Cables
+This will vary, depending on what is included in your individual system.
+The following is a good wire package to have. It will cover you in most cases.
+6 25' 1/4"-1/4" heavy duty speaker wires (If your power amplifier accepts banana connections, you may want to have 2 banana to 1/4" wires also).
+4 1/4"-1/4" wire connectors.
+RCA Male to 1/4" audio wires. (6 ft. mixer to amp)
+1/4"-1/4" shielded wires (3 ft. wireless to mixer)
+RCA male to RCA male stereo wires (cd/cassette to mixer)
+2 sets of quality headphones
+six outlet surge protector power strips
+outlet adaptors (3 prong to 2 prong)
+25' extension cords
+2 back up 9 volt batteries for microphone
+2 rolls of quality duct tape (for taping wires and repairs)
+1 small tool kit and flash light
+back up fuses for every piece of equipment that requires fuses
+needles, head shell, and cartridge (if you are using turntables)
+All equipment should always be properly cased and insured. It does not make sense for you to spend good money on your equipment only to have it stolen or break down prematurely because you didn't protect it.NOTE:
+MUSIC SOURCES
+ 
+Cdj may actually be a more realistic term then dj in today's day and age. The sound from a cd is digital. The sound from a record or cassette is analog. Don't get caught up in the linguistics, just be aware that digital is far superior. This fact alone makes it a necessity for you to use cds in your mobile set up.CD Players-
+Other advantages of using a cd format are:
+Todays cd players for mobile entertainers are different then those of yesterday. Today, many players are pitch controlled. You can mix music together, just as djs have for years on turntables. The technique may be somewhat different, but the concept is the same. By slowing down or speeding up a song, you will be able to match it in tempo to another song and blend them together seamlessly. This new feature makes it possible for anyone to use a sole cd format extremely easy and effective.
+Cds are much smaller and lighter. Also, cd players are smaller and lighter then turntablesSIZE-
+Although they will scratch, cds tend to take a little more abuse then records before becoming damaged.TOUGHNESS-
+Cds are much easier to work with. The cd player will find the beginning of the song for you.SIMPLICITY-
+In spite of the new pitch controlled cd players, turn tables are still the favorite source of beat to beat music mixing for several djs. Turn tables offer a hands on aspect to mixing that cds have not been able to duplicate. With vinyl records and turn tables, you will also be able to "cut" and "scratch." While these added features may be fun and amusing, they are not vital. If turn tables can help your performance, by all means, use them. Do whatever makes your job easier and more profitable.TURN TABLES
+A cassette deck is a necessity for any mobile entertainer. Though it's an analog sound, a cassette deck is an extremely reliable back up system. Should you experience difficulty with your cd players or turn tables, pop in a pre mixed cassette and fix your problem.CASSETTE DECKS
+Use cassettes as a last result. They are not nearly as pleasant sounding as cds.
+A dat player is an excellent alternative to a cassette player. It's sound is digital (as long as what is being recorded on it is a digital sound). Because of this fact, dat players are perfect for making back up copies of all of your cds.DAT PLAYERS
+This brand new piece of break through technology is something that can make the lives of all mobile entertainers much simpler. A mini disc player (or recorder) can fit in your hand, it has a digital sound, and it is easy to use.MINI DISC PLAYERS
+The discs that fit inside of it are smaller then the size of the palm of your hand. These discs can hold well over an hours worth of music and are less expensive then most cds. Probably the minidisc's greatest advantage is it's resistance to skipping. It will not skip. This makes the ideal music format, especially on boats, or facilities with a very shakey floor.
+An audio mixer will consist of three parts; a mixer, a preamplifier, and a cueing system. Let's cover the parts individually:AUDIO MIXER
+MIXER
+The mixer section provides the means for individually controlling the volume of each music source that you are using in your mobile set up. As long as it is plugged into an input in the back of the audio mixer, it's volume can be controlled by one of the channel faders.
+The cueing system will consist of a headphone volume, channel selects, and other luxuries, depending on what type and model you use. These features will allow you to hear the next song that you are about to play, in your headphones, without the sound coming through the speakers. It let's you find the proper spot in the song that you want to start it from. And with pitch controlled cd players, or turn tables, you will use the cueing controls to beat for beat mix.CUEING SYSTEM
+To understand what the preamplifier section does, you must first understand that the sound signal from a record is very low in comparison to that of a line level source. That is why you will have phono inputs on the back of your audio mixer. These inputs are only for turn tables. The sound signal from a line level source such as a tape deck, mini disc player, cd player, etc. is much higher. These pieces of equiptment will be plugged into any available line level input on the back of your audio mixer.PHONE LEVEL AND LINE LEVEL INPUTS
+Turn tables with magnetic cartridges require a preamplifier which is built into the phono inputs of an audio mixer/preamplifier. The preamplifer amplifies the low signal so that it can match that of a higher line level output signal.PREAMPLIFIER

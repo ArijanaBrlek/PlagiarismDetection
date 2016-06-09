@@ -1,0 +1,51 @@
+McGraw-Hill Encyclopedia of Science & Technology online. AccessScience
+Provides full text for more than 4,000 scholarly publications. Academic Search Premier
+Background information and various positions on issues in bioethics. Bioethics Resources on the Web
+Produced by BIOSIS, this a free web site offering resources for the life sciences information community.  (formerly Internet Resource Guide for Zoology). BiologyBrowser
+Digital version of the Encyclopaedia Britannica. Britannica Online
+Business periodicals in the areas of management, economics, finance, marketing, and accounting. Business Source Premier
+National Cancer Institute's guide to publications, funding sources, clinical trials and much more. Cancer.gov
+A searchable database of 360,000+ chemical substances. ChemIDplus
+(Computer Retrieval of Information on Scientific Projects) is a searchabledatabase of federally funded biomedical research projects. CRISP
+Comprehensive coverage of molecular biology methods. Current Protocols in Molecular Biology
+Directory of Information Resources Online, from the National Libraryof Medicine (NLM) DIRLINE
+Provides access to full-text and bibliographic records of Department of Energy (DOE)  research and development reports in physics, chemistry, materials, biology, environmental sciences, energy technologies, engineering, computer and information science, renewable energy, and other topics. DOE's Information Bridge
+The Electronic Data Gathering, Analysis, and Retrieval system, performs automated collection, validation, indexing, acceptance, and forwarding of submissions by companies and others who are required by law to file forms with the U.S. Securities and Exchange Commission (SEC). EDGAR
+  cross database searchSearches 20 NLM database including PubMed ENTREZ
+The US Government's Official Web Portal for all government transactions, services, and information. FIRSTGOV
+Genetic sequence database that is an annotated collection of all publiclyavailable DNA sequences. GenBank
+A toxicology data file produced by the National Library of Medicine (NLM) as part of the Toxicology Data Network (TOXNET). Users can search by chemical or other name, chemical name fragment, Chemical Abstracts Service Registry Number (RN), and/or subject terms. GENE-TOX
+The National Library of Medicine's web site about genetic conditions and the genes responsible for those conditions. Google Genetics Home Reference
+(JAX only)10,000 funding opportunities provided by more than 4,000 sponsoring organizations. GrantSelect
+A relational database of hazardous chemicals and occupational diseases. Haz-Map
+A database of safety information on more than 4,000 common household products. Household Products Database
+Browse tables of contents and access Abstract records of IEEE transactions, journals, magazines, conference proceedings and standards. IEEE Xplore
+Journal performance metrics, including impact factors. ISI Journal Citation Reports
+Library Reprint Collection - a database of our paper-based reprint collection. Staff Bibliography - a database of papers published by the Staff of The Jackson Laboratory. Subject Strain Bibliography/Pre-1985 - a database of nearly 75,000, pre-1985 bibliographic records distributed as a supplement to the Mouse News Letter. Summer Student Reports - a database of research reports written by Summer Students for their Sponsors Jackson Laboratory Library Databases
+Journal performance metrics, including impact factors. Journal Citation Reports (ISI)
+InfoTracResources on authors, fiction, nonfiction, poetry, drama, history, journalism and much more. Literature Resource Center
+Index to and full text coverage of four Maine newspapers. Comprehensive coverage of the Bangor Daily News (12/3/92-present) and the Portland Press Herald (10/30/95-present). Selected business coverage of the Central Maine Morning Sentinel (8/12/93-8/27/97) and Maine Times (2/4/95-present). Maine Newstand
+Thousands of magazines, newspapers, and reference books are available anywhere in the State of Maine through the online resources of MARVEL! Maine's Virtual Library. MARVEL
+From NIH and the National Library of Medicine via MedlinePlus. Merriam Webster Medical Dictionary
+MLA User's Guide to Finding and Evaluating Health Information on the Web
+Summary and links from the Database Issue of Nucleic Acids Research. Molecular Biology Database Collection
+(MGI)MGI provides integrated access to data on the genetics, genomics and the biology of the laboratory mouse. Mouse Genome Informatics
+(NCBI)NCBI hosts the Entrez search service for searching a number of databases including Genbank, OMIM, and other specialized databases National Center for Biotechnology Information
+Provides high quality, evidence-based information about complementary and alternative therapies. Natural Standard
+This database contains the full text of thousands of e-books in all subject areas. NetLibrary
+"One-stop shopping" for an increasing number of the information resources of the National Library of Medicine (NLM).  A single interface that searches in multiple retrieval systems, including PubMed, Toxline Special, Locator Plus, DIRLINE, OMIM and other specialized databases. NLM Gateway
+Provides enhanced subject access to over 100,000 fiction titles.Occupational Outlook Handbook NoveList
+(US Dept Labor)A nationally recognized source of career information, designed to provide valuable assistance to individuals making decisions about their future work lives.  Revised every two years, the Handbook describes what workers do on the job, working conditions, the training and education needed, earnings, and expected job prospects in a wide range of occupations. Occupational Outlook Handbook
+Your connection to the World's Reproductive Health Literature Popline
+The Internet's oldest producer of FREE electronic books.  Most of the Project Gutenberg eBooks are older literary works that are in the public domain in the United States. Project Gutenberg
+Full text of more than 500 U.S. and international news sources. Includes The New York Times, Wall Street Journal, Boston Globe, and the Times of London. Proquest Newspapers
+Provides information on the biological activities of small molecules. PubChem
+A service of the National Library of Medicine, includes over 14 million citations for biomedical articles back to the 1950's. These citations are from MEDLINE and additional life science journals. PubMed includes links to many sites providing full text articles and other related resources. PubMed
+Scientific and technical information manager. QUOSA
+A gateway to authoritative selected science information provided by U.S. Government agencies, including research and development results. Science.gov
+The world's largest electronic collection of science, technology and medicine full text and bibliographic information. ScienceDirect
+A multidisciplinary navigational tool that contains records from more than 14,000 journals going back to the mid 1960s, offering newly-linked citations across the widest body of scientific abstracts available in one place. Scopus
+(U.S. Census Bureau) A collection of statistics on social and economic conditions in the United States. Statistical Abstract of the United States
+An official source of United States Federal Legislative information, producedby the Library of Congress. Thomas
+A comprehensive online resource for finding companies and products manufactured in North America Thomas Register
+A cluster of databases on toxicology, hazardous chemicals, and related areas. Toxnet

@@ -1,0 +1,99 @@
+Introduction
+This user guide describes Google Earth Version 4.3 and later.
+Welcome to Google Earth! Once you and install Google Earth, your computer becomes a window to anywhere, allowing you to view high-resolution aerial and satellite imagery, photos, elevation terrain, road and street labels, business listings, and more. See . download Five Cool, Easy Things You Can Do in Google Earth
+Getting to Know Google Earth
+The following diagram describes some of the features available in the main window of Google Earth:
+- Use this to and . may display additional tabs here.Search panel find places and directions manage search results Google Earth EC
+- Use this for an of the Earth.Overview map additional perspective
+- Click this to conceal or the display the side bar (Search, Places and Layers panels).Hide/Show sidebar
+- Click this to email a or .Email view image
+- Click this to print the current view of the Earth.Print
+- Click this to show the current view in Google Maps in your web browser.Show in Google Maps
+- Use these to zoom, look and move around ().Navigation controls see below
+- Use this to .Places panel locate, save, organize and revisit placemarks
+- Click this to import exciting content from theAdd Content KML Gallery
+- View the globe and its terrain in this window.3D Viewer
+- View coordinate, elevation, imagery date and streaming status here.Status bar
+Five Cool, Easy Things You Can Do in Google Earth
+Want to jump in and start having fun with Google Earth? Try any of the the following:
+- Click . and click the button. In the search results (Places panel), double click the location. Google Earth flies you to this location. Search buttonView an image of your home, school or any place on Earth Fly To Enter the location in the input box Search
+- In the Places panel, check the folder and click the button:Go on a tour of the worldSightseeingPlay Tour
+- See and .Get driving directions from one place to another and fly (follow) the route Getting Directions Touring the Route
+- In the Layers panel, check . Interesting placemarks and other features appear in the 3D viewer. Double click these points of interest to view and explore. See for more information.View other cool locations and features created by other Google Earth usersCommunity Showcase Using Points of Interest (POIs)
+- This is more fun with hilly or mountainous terrain, such as the Grand Canyon. Go to a location (see ). When the view shows the location, use the zoom slider to tilt the terrain. See and for more information.View 3D terrain of a place number 1 Using the Navigational Controls Tilting and Viewing Hilly Terrain
+New Features in Version 4.3
+This version of Google Earth has a number of exciting new features, including:
+- Look around, move and zoom into any location Navigation controls
+- View animated shadows as they move across the landscape Sun and shadows
+- View hundreds of photo-realistic new buildings in many of the world's cities 3D buildings
+Flash videos in placemark balloons (Windows and Macintosh)
+Installing Google Earth
+For information about installing Google Earth, visit the . Google Earth Help Center
+System Requirements
+To use Google Earth on a Windows PC, you must have at least the following:
+Operating System: Windows 2000, Windows XP, Windows Vista
+CPU: 500Mhz, Pentium 3
+System Memory (RAM): 256MB minimum, 512MB recommended
+Hard Disk: 400MB free space
+Network Speed: 128 Kbits/sec
+Graphics Card: 3D-capable with 16MB of VRAM
+Screen: 1024x768, "16-bit High Color" screen
+DirectX 9 (to run in Direct X mode)
+For better performance, see . Recommended Configuration
+To use Google Earth on a Mac, you must have at least the following:
+Operating System: Mac OS X 10.4 or later
+CPU: G4 CPU, 1GHz or faster
+System Memory (RAM): 256MB minimum, 512MB recommended
+Hard Disk: 400MB free space
+Network Speed: 128 Kbits/sec
+Graphics Card: 3D-capable with 32MB of VRAM
+Screen: 1024x768, "Thousands of Colors"
+For better performance, see Recommended Configuration
+Regarding Linux, Google Earth has been tested on Ubuntu version 6.06, but certainly works on others. Hardware requirements include:
+CPU: 500Mhz, Pentium 3
+System Memory (RAM): 256MB RAM
+Hard Disk: 500MB free space
+Network Speed: 128 Kbits/sec
+Graphics Card: 3D-capable with 16MB of VRAM
+Screen: 1024x768, "16-bit High Color" screen"
+Please make sure your system has properly-configured OpenGL drivers. If Google Earth appears to be slow and unresponsive, it is likely that your system needs different video drivers.
+Changing Languages
+You can change the language displayed in Google Earth. To do this in Windows or Linux:
+Click > . Click the tab.ToolsOptionsGeneral
+Under Language settings, choose the appropriate language of your choice.  corresponds to the language used by the operating system of your computer.System Default
+To change your language on the Mac:
+Exit Google Earth.
+Click on the Apple symbol in the upper left-hand side of your screen.
+Select .System Preferences
+Drag the supported language (see below) of your choice to the top of the list.
+Re-launch Google Earth.
+Google Earth Version 4.3 supports the following languages:
+ 
+Traditional Chinese
+Additional Support
+In addition to this user guide, Google offers a number of resources that can help you use and enjoy Google Earth. These include:
+: These provide hands-on lessons using Google Earth. Tutorials
+: View a list of answers to frequently asked questions (FAQs) about Google Earth. FAQs
+: Use the Help Center at any time to find additional information. Google Earth Help Center
+: Join Google Earth users as they share questions and information with one another. Google Earth Help Groups
+: Learn from other Google Earth users by asking questions and sharing answers on the Google Earth Community forums. Google Earth Community
+: This blog describes how you can use some of the interesting features of Google Earth. Using Google Earth
+Selecting a Server
+- This section is relevant to and users.Note Google Earth Pro EC
+When you first start Google Earth EC, the dialog box appears. This enables you to choose the appropriate server settings. Settings in this dialog box include:Select Server
+: Choose or enter the address for the appropriate server. For more information, contact your administrator.Server
+: The appropriate port for this server. For more information, contact your administrator.Port
+: Check this to automatically login in this server when you start Google Earth. Subsequently, this dialog box does not appear. To make it appear again when you start Google Earth, click > .Always login to this serverFileDisable auto-login
+: Check this if your work environment requires a secure login to this server. For more information, contact your administrator.Enable secure login
+To add a database (server) that you can log into in Google Earth EC, click > . To log out of a server in Google Earth Pro or EC, choose > . To log in to a server, choose > and choose the settings described above.FileAdd DatabaseFileServer Log OutFileServer Login
+- When you add another database (click > ), Google Earth logs into new database and maintains a connection to the existing database. Using this method, you can view data from up to eight databases simultaneously.TipFileAdd Database
+Deactivating Google Earth Plus, Pro or EC
+If you have Google Earth Plus, Pro or EC installed, you can deactivate this software. When you deactivate Google Earth Plus, the free version of the product replaces Google Earth Plus. When you deactivate Google Earth Pro or EC, the license is removed so you can use the Pro or EC license on another computer.
+To deactivate Google Earth Plus, Pro or EC, click > .HelpDeactivate Google Earth Plus/Pro/EC license
+- When the Google Earth Pro/EC login and password appear, write these down so you can use them later to activate the software on this or another computer.Tip
+Adding Content
+You can view fascinating content from the such as 3D models of space satellites, a biography of Bob Marley, a grand prix racing tour, Jane Austen's life and works and much more. To view such content: KML Gallery
+In the Places panel, click . A browser window opens and displays the KML Gallery.Add Content
+Click beside any content that interests you.Open in Google Earth
+- The Add Content button only appears in Google Earth version 4.2 and later. However, you can access the aforementioned content in older versions by going to the directly in your web browser.Note KML Gallery
+Navigating in Google Earth

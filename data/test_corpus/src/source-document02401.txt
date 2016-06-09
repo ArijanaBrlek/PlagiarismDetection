@@ -1,0 +1,11 @@
+GIS Resources on the Web
+Here is a list of useful web starting points concerning learning GIS, GIS applications, and sources of GIS data. This list is by no means comprehensive.
+Learning GIS
+A decent place to start. A USGS GIS primer
+from the University of Edinburgh Geography Dept. GIS Dictionary
+from the GIS-L and comp.info.systems.gis news groups. Frequently asked Questions
+GIS Publications
+(A divisiom of the Department of Environmental Protection.) Massachusetss Geographic Information System
+The clearinghouse for USGS digital data. Many resources available over the net for free! The EROS Data Center
+Lots of intertesting natural resources data. U.S.D.A. Natural Resource Conservation Service Data Center
+By Bruce Gittings of the University of Edinburgh. Actually you have to first go through the Edinburgh University GIS Home page which itself is quite interesting! Digital Elevation Data Catalog

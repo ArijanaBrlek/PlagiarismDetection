@@ -1,0 +1,21 @@
+27.1 To draw a block diagram of an AM transmitter. (COM)
+Explain to students and discuss the purpose of each section of a transmitter.
+27.2 To draw a block diagram of an AM receiver. (COM)
+Discuss the action of an AM waveform and the action of the receiver.
+27.3 To list the characteristics of the AM waveform.
+Investigate and list the characteristics of the wave. Have students identify advantages and disadvantages of AM communication.
+ 
+27.4 To draw a block diagram of an FM transmitter. (COM)
+Discuss the purpose of each section.
+ 
+27.5 To draw a block diagram of an FM receiver.
+Provide an explanation of the purpose of each section.
+ 
+27.6 To list the characteristics of the FM waveform.
+Discuss the action of an FM waveform.
+ 
+27.7 To list two advantages and two disadvantages of FM communication. (COM, CCT)
+Have the students investigate the characteristics of the wave. Determine the advantages and disadvantages of FM communication.
+ 
+Module 27B: Communications, Antennas (Optional)
+10 - 15 hoursSuggested time:

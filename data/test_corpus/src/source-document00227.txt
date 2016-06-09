@@ -1,0 +1,16 @@
+:::
+Control of Golden Apple Snail (Pomacea Canaliculata) by Tillage and Crop Rotation Techniques
+The golden apple snail (GAS) (), an exotic snail which originated in South America, is a serious pest of rice and other paddy crops in Asia. Rotary tillage and crop rotation are effective and environment- friendly ways to reduce snail density before growing paddy crops.
+National Agricultural Research Center for Kyushu Okinawa Region Nishigoshi, Kumamoto 861-1192, Japan Tel: (81 96) 242 7732 Fax: (81 96) 249-1002, 2004-09-01
+Effectiveness of the Technology
+Tillage
+Tillage and soil puddling crush snails. The effect varies depending on the snail size and soil hardness. Tillage has greater effects on larger snails. Ten to 40% of GAS smaller than 20 mm are killed by tillage, while 40-90% mortalities are attained with GAS bigger than 20 mm. GAS mortalities are 14-20% higher when soil is compacted (hard) after rice harvest () than when soil is friable (soft) after the harvest of wheat (winter crop with no irrigation). Deep cultivation is not necessary because 80% of GAS are found within 6 cm depth of soil. Higher mortalities are attained by intensive tillage, where a field with compacted soil is tilled shallow with a faster cultivator rotation, resulting in smaller cultivation pitch. Puddling using a paddy harrow is also effective. A field experiment revealed that when the average GAS size was 21 mm, GAS density was reduced by 40% after puddling. Thus, tillage and puddling are good methods for decreasing GAS density before growing of paddy crops. Fig. 2
+Crop Rotation
+Crop rotation is a practical way to significantly reduce GAS density in a paddy field in Japan. Rice-soybean rotation as a summer crop is common in south Japan (). After growing soybean in the previous summer, GAS densities in paddy fields are always very low before rice planting, although GAS are usually not eradicated. No paddy fields after soybean have been found above the tentative control threshold in direct-sown rice (0.5 GAS/m2). Thus, without extra control measures, farmers carry out direct seeding of rice as well as transplanting where seedlings are more tolerable than sprouts. Besides soybean, rotation with other upland crops or vegetables is also effective. Extremely low GAS density before growing paddy crops is attained by tillage and desiccation during upland crop cultivation and low temperature during winter in temperate countries. In the tropics, climatic conditions and crop cycles are different, thus, the effects of crop rotation should be evaluated in such areas. Fig. 3
+Precaution
+In areas where GAS invade fields through waterways, prevention of GAS entry is necessary after attainment of low GAS density. In particular, in rice direct-seeding, even a small number of GAS causes serious damage. Just setting a nylon net at the water inlet solves the problem (). A 6-mm or a 10-mm mesh net in direct-seeding or in transplanting, respectively, are suitable as GAS trap to prevent entry and water permeability. Fig. 4
+Index of Images
+Figure 1 Golden Apple Snail Spawning an Egg-Mass
+Figure 2 Tillage Is More Effective When Soil Is Compacted after Rice Harvest.
+Figure 3 Soybean Is the Most Common Crop for Rotation of Rice.
+Figure 4 Two Types of Nylon Nets Set in Water Inlets in Paddy Fields

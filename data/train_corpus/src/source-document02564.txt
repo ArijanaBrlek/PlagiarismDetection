@@ -1,0 +1,24 @@
+ 
+Sorting can be set up in many different ways.
+It can be manual, automatic or, and it is what we do suggest, a mixture of the two.
+A lot depends about the scrap you're dealing with and the kind of system it is afterworlds.
+For example, in a LDPE film washing line a piece of wood is extremely dangerous, because it will go all the way together with PE making the guy working on extruder filter very busy indeed.
+If the same piece of wood goes into a PET washing line, nobody cares because it will be floating while PET sinks, therefore separation is very easy.
+This means the same contaminant can be a nightmare for one application and nothing for another one.
+To make a good example of what we're talking about, we'll take in consideration a PET bottles washing line where sorting must be very effective.
+Let's talk about manual sorting first.
+The simplest, and less effective way of sorting is the "negative sorting"
+It means a conveyor belt where people pick up whatever is not a PET bottle just by visual recognition.
+Unfortunately, this way of sorting is not very effective first because PVC bottles look if not identical, very similar to PET bottles and second because people get bored with this kind of job and after a little while, pay little attention on what they're doing.
+(this is the difference between theory and practice)
+The alternative is "positive sorting" meaning people standing beside a conveyor belt pick up each and every plastic bottle and toss it on another conveyor going to granulator; this way personnel is somehow obliged to pay a lot more attention on what they're doing and sorting is much more accurate.
+There are some more aids to increase the efficiency of manual sorting.
+Polarized light and UV light are the most common.
+Automatic sorting uses NIR rays detection and/or X-ray detectors.
+First one has the advantage to recognize all different plastics (PS-PA-PVC etc.) while X-ray detectors can scan, and remove, only PVC.
+Keeping in mind most of manufacturer of NIR detectors guarantee about 96% separation, according with the initial level of contamination, you should install one, two or whatever number of pieces to get at the end a residual contamination of less than 30 PP total.
+And this kind of device is pretty expensive.
+An X-ray detector can guarantee 99% PVC separation but careless about other plastics.
+So, the best deal for automatic separation will be one NIR and one X-ray detector combined together and you'll be on the safe side.
+Now, if you combine some manual sorting (it can also be a final inspection after automatic separation) and some automatic you're done.
+        

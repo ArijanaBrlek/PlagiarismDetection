@@ -1,0 +1,14 @@
+Hancock
+Type:
+Castine School Department is a "Local school district component of a supervisory union sharing a superintendent and administrative services with other local school districts".
+Boundary:
+Castine School Department's boundaries have had "no change since last report".
+Charter:
+All schools associated with Castine School Department are "non-charter schools".
+Metro Status:
+Core Based Statistical Area is equal to 70,300 or higher and does not have an associated type code.
+Combined Statistical Area:
+Castine School Department is not associated with "a recognized combined statistical area".
+Service Area:
+Castine School Department does not serve a Core Based Statistical Area.
+Assigned Agency ID: NCES

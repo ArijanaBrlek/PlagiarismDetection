@@ -1,0 +1,8 @@
+  Eagle® Owner's Manuals available online for viewing, printing and downloading. Manuals
+  Eagle® Product Catalog in full-color, high-quality Adobe® PDF format for viewing and download. Catalogs
+  Get the latest features for your Eagle® products with these free product updates. Product Software Updates
+  Test an Eagle product from home on your PC with a product emulator that virtually simulates the real units. Product Emulators
+  Waypoint and route planning software that allows you to download and upload information between your unit and a PC. For use with the FishElite®, FishStrike®, IntelliMap®, SeaChamp® and SeaCharter®. GPS Data Manager (GDM)
+  A highly customizable PC-based software application that plays back any sonar log file recorded with a FishElite®, FishStrike®, SeaChamp® or SeaCharter® product. Sonar Log Viewer (SLV)
+  MMC/SD Card Reader Drivers for use with Windows 98. If your computer is running Windows ME/2000/XP, a plug-and-play driver for an MMC card reader is already installed on your computer. Drivers and Firmware
+Note:

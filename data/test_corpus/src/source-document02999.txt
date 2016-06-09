@@ -1,0 +1,213 @@
+Obsessions as defined by 1,2,3, and 4:             
+                 
+1.Recurrent and persistent thoughts, impulses, or images that are experienced, at                  
+some time during the disturbance, as intrusive and inappropriate and thatcause anxiety or distress.  
+ 
+2.The thoughts, impulses, or images are not simply excessive worries about real-                  
+life problems.    
+3.The person attempts to ignore or suppress such thoughts, impulses, or images,                  
+or to neutralize them with some other thought or action.    
+ 
+4.The person recognizes that the obsessional thought, impulses, or images are a                  
+product of his/her own mind.    
+Compulsions as defined by 1 and 2:             
+ 
+1.Repetitive behaviors or mental acts that the person feels driven to perform in                  
+response to an obsession, or according to rules that must be applied rigidly.    
+ 
+2.The behaviors or mental acts are aimed at preventing or reducing distress or                  
+preventing some dreaded event or situation; however, these behaviors or mental acts either are not connected in a realistic way with what they are designed to neutralize or prevent or are clearly excessive.
+ 
+B.At some point the person has recognized the compulsions are excessive or         
+unreasonable. (Does not apply to children)     
+ 
+C.The obsessions or compulsions cause marked distress, are time consuming (>1 hr/d) ,         
+or significantly interfere with the person normal routine, occupational (or academic) functioning, or usual social activities or relationships.
+ 
+D.If another Axis I disorder is present, the content of the obsessions or compulsions is         
+not restricted to it.     
+E.The disturbance is not due to the direct physiological effects of a substance or a         
+general medical condition.     
+IV.Treatment 
+ 
+Multiple structured test have been developed to aid in the diagnosis and assessment of severity of OCD and other anxiety disorders:span style="font:7.0pt "Times New Roman"">      2,5,23
+ 
+- used to establish the diagnosis of OCD by ascertaining current and past obsessions and compulsions (10 item, 40 point scale).Also the Child Yale-Brown Obsessive Compulsive Scale (CY-BOCS).o     Yale-Brown Obsessive Compulsive Scale (Y-BOCS) 
+ 
+- provides a global measure of symptom severity (scale of 1-15).o     The National Institute of Mental Health Global Obsessive Compulsive Scale (NIMH-GOCS)
+ 
+- self report measure useful for the assessment of anxiety in 8-19 year olds.o     Multidimensional Anxiety Scale for Children (MASC)
+ 
+- 53 item self report measure that assesses family functioning across 6 dimensions (higher scores indicate less healthy family functioning).o     Family Assessment Device (FAD)
+ 
+- assesses the general adjustment of the patient (Scale of 0-10 with 0 being the worse score).o     Clinical Global Improvement Scale (CGIS)
+ 
+- 27 items assessing symptoms of depression (score 0-54, higher scores indicate increasing severity).o     Childrens Depression Inventory (CDI)
+A.Pharmocotherapy         
+ 
+Currently 5 Serotonin Re-uptake Inhibitors (SRIs) are approved by the FDA for treatment of adult OCD:clomipramine, fluvoxamine, fluoxetine, sertraline, and paroxetine.Only 3 of these are currently FDA approved for treatment of childhood OCD:clomipramine, fluvoxamine, and sertraline.span style="font:7.0pt "Times New Roman"">         2,11
+ 
+Drug trials done in the 1980s and 1990s showed that clomipramine hydrochloride was effective for the treatment of OCD in adults and children.span style="font:7.0pt "Times New Roman"">      1,2,5,11,12
+.
+Research has demonstrated that the SSRI are equally effective to clomipramine with few adverse effects such that SSRIs have become the drug of choice in treatment of childhood and adolescent OCD.span style="font:7.0pt "Times New Roman"">      1,2,5,11,12
+ 
+1.Clomipramine (CMI) 13
+ 
+Design was an 8 week, multicenter, double-blind, placebo-controlled, randomized study with 60 subjects ages 10-17 meeting DSM III criteria for OCD, and OCD for > 1 year.span style="font:7.0pt "Times New Roman"">      
+ 
+Patients received either Clomipramine Hydrochloride to maximum dose of 200 mg or 3mg/kg (whichever was less) or placebo.span style="font:7.0pt "Times New Roman"">      
+ 
+The primary outcome measure used to assess improvement was the CY-BOCS.Secondary measures were the NIMH-GOCS, a physician global assessment (scale of 1-7 with 1 being much improved over course of treatment), and a patient self-rating scale.span style="font:7.0pt "Times New Roman"">       
+ 
+Results - The trial demonstrated significant improvement of CY-BOCS scores in the CMI treatment group compared to the placebo group at weeks 3 and 5-8.The CMI group showed mean reduction in CY-BOCS scores of 37% compared to 8% in the placebo group.NIMH-GOCS scores showed a statistical difference at weeks 2-8 with CMI showing a 34% reduction versus placebo with a 6% reduction.The physician assessment showed 60% of the CMI patients as very much or much improved versus 10-17% among placebo patients.Self-ratings demonstrated 53% of the CMI patients felt they were much improved compared to 8% in the placebo group.span style="font:7.0pt "Times New Roman"">          
+ 
+Conclusions Clomipramine appears to be a safe and effective drug for treatment of childhood OCD at least in the short runspan style="font:7.0pt "Times New Roman"">      
+ 
+2.Fluvoxamine 14
+ 
+Design was a 10 week, multicenter, double-blind, placebo-controlled, randomized study with 120 subjects aged 8-17 who met DSM-III-R criteria for OCD.span style="font:7.0pt "Times New Roman"">      
+Patient received either fluvoxamine 50-200 mg/d or placebo.span style="font:7.0pt "Times New Roman"">      
+ 
+The primary outcome measure used to assess improvement was the CY-BOCS.Secondary measures were the NIMH-GOCS as well as the CGIS completed by the clinician, parent, and subject.span style="font:7.0pt "Times New Roman"">       
+ 
+Results - The trial demonstrated significant improvement of CY-BOCS scores in the fluvoxamine treatment group compared to the placebo group at weeks 1,2,3,4,6, and 10.Significant differences were also seen on all secondary outcome measures.span style="font:7.0pt "Times New Roman"">       
+ 
+The fluvoxamine group reached maximum improvement at the end of 3 weeks.span style="font:7.0pt "Times New Roman"">      
+ 
+Conclusions - Fluvoxamine is effective for short term treatment of childhood OCD.It has a rapid onset of action and is well tolerated.span style="font:7.0pt "Times New Roman"">       
+ 
+3.Sertraline 15
+ 
+Design was a 12 week, double-blind, placebo-controlled, randomized study with 187 subjects (107 between the ages of 6-12 and 80 between 13-17 years old).span style="font:7.0pt "Times New Roman"">      
+ 
+Patient received either Sertraline (titrated over 4 weeks up to 200 mg/d or maximum tolerated dose) or placebo.span style="font:7.0pt "Times New Roman"">      
+ 
+The outcome measures used to assess improvement were the CY-BOCS, the NIMH-GOCS, and the CGI-S/CGI-I.span style="font:7.0pt "Times New Roman"">      
+ 
+Results - The trial demonstrated significant improvement of CY-BOCS scores by week 1, CGI-S/CGI-I scales by week 6, and the NIMH-GOCS scale by 10 weeks in the sertraline treatment groupcompared to the placebo group.span style="font:7.0pt "Times New Roman"">        
+ 
+Conclusions - Sertraline appears to be safe and effective for short term treatment of childhood OCD.Although rapid results were seen in CY-BOCS scores, it took several weeks to see significant effects in the other scales so patients should be advised to expect a slow response to this drug.span style="font:7.0pt "Times New Roman"">       
+ 
+4.Trials assessing several other non-FDA approved drugs for primary or adjunctive treatment of childhood and adolescent OCD have been conducted.The research demonstrates that several of the drugs appear to be both effective and well tolerated.Trials conducted include Fluoxetine, Citalopram, Venlafaxine, and Clonazepam to name a few.   11,17,18,19
+ 
+B.Cognitive-Behavioral Therapy (CBT)/Cognitive-Behavioral Family Therapy (CBFT)         
+ 
+The OCD Expert Consensus Guidelines (1997) for treating childhood OCD recommend CBT as the first-line treatment of choice for all prepubertal children and for adolescents with mild or moderate OCD.span style="font:7.0pt "Times New Roman"">      20
+ 
+1.CBF of Childhood OCD:A Controlled Trial                   21
+ 
+Design was a 14 week, randomized study of 72 children and adolescents from ages 7-17 who met DSM IV criteria for OCD.span style="font:7.0pt "Times New Roman"">      
+ 
+Patients were assigned to 1 of 3 groups:individual CBFT, group CBFT, or a waitlist control group.span style="font:7.0pt "Times New Roman"">       
+ 
+Treatment involved 14 weekly sessions and 2 booster sessions at 1 month and 3 months post treatment.Sessions included individual or group CBFT (50 min), parent skills training (30 min), and family progress review (10 min).span style="font:7.0pt "Times New Roman"">       
+ 
+The components of the program were 1) psycho education, anxiety management, and cognitive therapy; 2) intensive exposure/response prevention; and 3) maintenance of gains, including resiliency building and relapse prevention.span style="font:7.0pt "Times New Roman"">      
+ 
+The primary outcome measures used to assess improvement were the CY-BOCS andthe NIMH-GOCS.Secondary measures were assessed using CDI, FAD, and MASC.span style="font:7.0pt "Times New Roman"">        
+ 
+Children were assessed pre and post treatment, and at 3 and 6 month follow-ups.span style="font:7.0pt "Times New Roman"">      
+ 
+Results - The trial demonstrated significant improvement in the individual and group CBFT scores.The individual CBFT showed a 65% reduction between pre and post treatment CY-BOCS scores compared to 61% in the group CBFT.Individual NIMH-GOCS scores decreased 60% compared to 63% in the group CBFT.There was no significant difference in improvement ratings between these two groups.There were no significant changes across measures in the control group.span style="font:7.0pt "Times New Roman"">          
+ 
+Treatment gains were maintained up to 6 months of follow-up.span style="font:7.0pt "Times New Roman"">      
+ 
+Conclusions - Group CBFT appears to be as effective in reducing OCD symptoms as individual treatment and may be an attractive alternative .Findings support the efficacy and durability of CBFT in treating childhood OCD.span style="font:7.0pt "Times New Roman"">       
+ 
+Similar finding were demonstrated in a smaller, 14 week CBFT study conducted by Waters, Barrett, and March.span style="font:7.0pt "Times New Roman"">      22
+ 
+2.Combination of Behavior Therapy (BT) with fluvoxamine vs. BT plus placebo 23
+ 
+Design was a 10 week, double-blind, randomized study of 49 adult patients who met DSM III-R criteria for OCD and had a Y-BOCS score >16.span style="font:7.0pt "Times New Roman"">      
+ 
+Patients were assigned to 1 of 2 groups:BT plus fluvoxamine to a maximum dose of 300 mg/day or BT plus placebo.span style="font:7.0pt "Times New Roman"">       
+ 
+BT included exposure with response prevention, cognitive restructuring, and development of alternative behaviors.span style="font:7.0pt "Times New Roman"">      
+ 
+The several scales were used to assess improvement in symptomatology and functioning, but the primary outcome measures used were the Y-BOCS andthe NIMH-GOCS.span style="font:7.0pt "Times New Roman"">        
+ 
+Results - Both groups showed highly significant symptom reduction after treatment.The BT plus fluvoxamine group demonstrated a 15.5 point reduction in Y-BCOS scores compared to 12.5 in the BT plus placebo group.There were no significant differences between the groups concerning compulsions.However, obsessions were significantly more reduced in the fluvoxamine/BT group compared to the placebo/BT group.span style="font:7.0pt "Times New Roman"">         
+ 
+Conclusions - When compulsions dominate the clinical picture, BT alone appears to be sufficient to effectively treat the patient.If the patient suffers predominantly from obsession, the addition of an SSRI may improve treatment outcome.span style="font:7.0pt "Times New Roman"">       
+ 
+Another study reviewed CBT as an adjunctive therapy to SRIs in patients who remained symptomatic despite therapeutic drug levels.Similar results to the above were obtained in that there was a significant reduction in OCD symptoms (49% mean decrease in Y-BOCS scores) with the addition of CBT.span style="font:7.0pt "Times New Roman"">       24
+ 
+3.CBT and Medication in the Treatment of OCD:A controlled Study  25
+ 
+Design was a 5 month, partially randomized study of 29 adult patients who met DSM III-R criteria for OCD.span style="font:7.0pt "Times New Roman"">      
+ 
+Patients were assigned to 1 of 4 groups:medicine and CBT simultaneously, CBT only, medication while on a wait-list for CBT, and no treatment while on a wait-list for CBT.span style="font:7.0pt "Times New Roman"">       
+ 
+The primary outcome measure used was the Y-BOCS.span style="font:7.0pt "Times New Roman"">        
+Results - Multivariate analysis revealed that Y-BOCS scores significantly improved in all groups except the nontreament wait-list control group.The patients in the 2 active treatment groups receiving CBT showed reduced strength in their obsessional beliefs.The subsequent administration of CBT to those groups on the wait-list also decreased the strength of their primary obsessional beliefs and beliefs about the consequences of no performing the rituals.span style="font:7.0pt "Times New Roman"">        
+ 
+Conclusions - The results suggest that either CBT or medication alone is more effective than no treatment.The combination of CBT and medication seems to potentiate treatment efficacy.It was also found to be more clinically beneficial to introduce CBT after a period of medication rather than start both therapies simultaneously.span style="font:7.0pt "Times New Roman"">        
+ 
+C.Neurosurgery and other treatment options for refractory OCD 
+ 
+Despite lack of data from controlled trials, several types of operations for severe, treatment-refractory OCD are performed around the world:anterior cingulotomy, anterior capsulotomy, subcaudate tractotomy, and limbic leucotomy.All, have the common objective of severing connections between dorsolateral and the orbitomedial areas of the frontal lobes and limbic and thalamic structures using radio frequency-heated electrodes or gamma knife techniques.span style="font:7.0pt "Times New Roman"">        1,5,26
+ 
+Preliminary data from uncontrolled trials suggest that deep brain stimulation involving surgically implanted electrodes has efficacy in OCD.span style="font:7.0pt "Times New Roman"">      1,5
+ 
+In one preliminary study, transcranial magnetic stimulation, whereby pulses of magnetic energy are intermittently administered to surface regions of the brain through the skull, appeared to be effective.span style="font:7.0pt "Times New Roman"">      1,5,7
+ 
+1.Cingulotomy for Treatment-Refractory OCD 26
+ 
+Prospective long-term follow-up (mean follow-up of 32 months) of 44 patients who received cingulotomy for treatment refractory OCD.Patients must have met DSM III-R criteria for OCD, had severe symptoms and functional impairment, and have failed a specific and rigorous regimen of medication and behavior therapy trials.span style="font:7.0pt "Times New Roman"">       
+ 
+The primary outcome measure used to assess improvement was the Y-BOCS.The criteria used to determine substantial benefit (treatment response) from the procedure was a 35% or greater improvement in the Y-BOCS score.span style="font:7.0pt "Times New Roman"">        
+ 
+Results - At mean follow-up of 32 months after one or more cingulotomies, 32% met criteria for treatment response and 14% were partial responders.Few adverse effects were reported.span style="font:7.0pt "Times New Roman"">       
+Conclusions - 45% of patients previously unresponsive to medication and behavioral therapy for OCD were at least partly improved after cingulotomy.Thus, cingulotomy remains a viable treatment option for patient with sever treatment-refractory OCD.  
+ 
+Although significant advances have been made in the treatment of OCD in both adults and children over the last 2 decades, continued studies are necessary to determine which treatment modalities are the safest and most efficacious in the treatment of this chronic condition.This is especially true for childhood and adolescent OCD. 
+ 
+ 1.Jenike, MA.Obsessive-Compulsive Disorder.NEJM 2004; 350: 259-265.   
+ 2.Snider LA, Swedo, SE.Pediatric Obsessive-Compulsive Disorder.JAMA 1998; 284(24):   
+3104-3106.    
+ 3.Penn State College of Medicine Psychiatry Handbook. 
+ 4.Presta S, Marazziti D, Dellsso L, Pfanner C, Pfanner P, Marcheschi M, Masi G, Muratori 
+F, Mucci M, Millepiedi S, Cassano GB.Obsessive-Compulsive Disorder in Childhood and Adolescence.Psychopathology 2003; 36(2): 55-64.  
+ 5.Pato MT, Phillips KA.Iological, Pharmacological, and Somatic Treatments for Obsessive-  
+Compulsive Disorder.Brief Treatment and Crisis Intervention 2003; 3(2): 275-289.     
+ 6.Saxena S, Brody AL, Schwartz JM, and Baxter LR.Neuroimaging and Frontal-subcortical  
+Circuity in Obsessive-Compulsive Disorder.British Journal of Psychiatry Supplement 1998; 173: 26-37. 
+ 7.Greenberg BD, George MS, Martin JD, Benjamin J, Schlaepfer TE, Altemus M, Wassermann 
+EM, Post RM, Murphy DL.Effect of Prefrontal Repetitive Transcranial Magnetic Stimulation in Obsessive-Compulsive Disorder:A Preliminary Study.The American Journal of Psychiatry 1997; 154(6): 867-869.   
+ 8.Giedd J, et Al:MRI Assessment of Children with Obsessive-Compulsive Disorder or Tics  
+Associated with Streptococcal Infection.American Journal of Psychiatry 2000; 157:281-283.     
+ 9.Miller DL, Laxer RM.Pediatric Autoimmune Neuropsychiatric Disorders Associated with  
+Streptococcal Infection.Pediatric Rheumatology Online Journal.     
+ 10.Perlmutter SJ, Leitman SF, Garvey MA, et al.Therapeutic Plasma Exchange and Intravenous  
+Immunoglobulin for Obsessive-Compulsive Disorder and Tic Disorder in Childhood.Lancet 1999; 354: 1153-1158. 
+ 11.Kaplan A, Hollander E.A Review of Pharmacologic Treatments for Obsessive-Compulsive  
+Disorder.Psychiatric Services 2003; 54(8): 1111-1118.       
+ 12.Jenike MA.Obsessive-Compulsive Disorder:Efficacy of Specific Treatment as Assessed by   
+Controlled Trials.Psychopharmacology Bulletin 1993; 29: 487-499.       
+ 13.DeVeaugh-Geiss J, Moroz G, et al.Clomipramine Hydrochloride in Childhood and Adolescent  
+Obsessive-Compulsive Disorder:A Multicenter Trial.Journal of the American Academy of Child and Adolescent Psychiatry 1992; 31(1): 45  
+ 14.Riddle MA, Reeve EA, Yaryura JA, et al.Fluvoxamine for Children and Adolescents with  
+Obsessive-Compulsive Disorder:A Randomized, Controlled, Multicenter Trial.Journal of the American Academy of Child and Adolescent Psychiatry 2001; 40(2): 222-229.  
+ 15.March JS, Beiderman J, Wolkow R, et al.Sertraline in Children and Adolescents with  
+Obsessive-Compulsive Disorder.JAMA 1998; 280(20): 1752-1756.       
+ 16.American Academy of Child and Adolescent Psychiatry Website: Obsessive-Compulsive 
+ 17.Mukaddes NM, Abali O, Kaynak M.Citalopram Treatment of Children and Adolescents with  
+Obsessive-Compulsive Disorder:A Preliminary Report.Psychiatry and Clinical Neurosciences 2003; 57: 405-408.  
+ 18.Liebowitz MR, Turner SM, Piacentini J, Beidel DC, et al.Fluoxetine in Children and Adolescents with Obsessive-Compulsive Disoreder:A Placebo Controlled Trial.Journal of the American Academy of Child and Adolescent Psychiatry 2002; 41(2): 1431    
+ 19.Leonard HL, Topol D, Bukstein O, et al.Clonazepam as an Augmenting Agent in the  
+Treatment of Childhood-Onset Obsessive-Compulsive Disorder.Journal of the AmericanAcademy of Child and Adolescent Psychiatry 1994; 33(6): 792-794.  
+ 20.The Expert Consensus Panel for Obsessive-Compulsive Disorder.Treatment of Obsessive  
+Compulsive Disorder.Journal of Clinical Psychiatry 1997; 58(4): 2-72.       
+ 21.Barrett P, Healy-Farrell L, March JS.Cognitive-Behavioral Family Treatment of Childhood  
+Obsessive-Compulsive Disorder:A Controlled Trial.Journal of the American Academy of Child and Adolescent Psychiatry 2004; 43(1): 46-62.  
+ 22.Waters TL, Barrett PM, March JS.Cognitive-Behavioral Family Treatment of Childhood  
+Obsessive-Compulsive Disorder:Preliminary Findings.American Journal of Psychotherapy 2001; 55(3): 372-387.  
+ 23.Hohagen F, Winkelmann G, Rasche-Rauchle H, et al.Combination of Behavior Therapy with  
+Fluvoxamine in Comparison with Behavior Therapy and Placebo:Results of a Multicenter Study.British Journal of Psychiatry 1998; 173(35): 71-78.  
+ 24.Simpson HB, Gorfinkle KS, Liebowitz MR.Cognitive-Behavioral Therapy as an Adjunct to  
+Serotonin Reuptake Inhibitors in Obsessive-Compulsive Disorder:An Open Trial.Journal of Clinical Psychiatry 1999; 60(9): 584-590.  
+ 25.Oonnor K, Todorov C, Robillard S, et al.Cognitive-Behavior Therapy and Medication in the  
+Treatment of Obsessive-Compulsive Disorder:A Controlled Study.Canadian Journal of Psychiatry 1999; 44: 64-71.  
+ 26.Dougherty DD, Baer L, Cosgrove GR, et al.Prospective Long-Term Follow-up of 44 Patients  
+Who Received Cingulotomy for Treatment-Refractory Obsessive-Compulsive Disorder.The American Journal of Psychiatry 2002; 159(2): 269-275. 
+  

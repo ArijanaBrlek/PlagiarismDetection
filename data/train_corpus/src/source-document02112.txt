@@ -1,0 +1,13 @@
+Section: Overview
+Diagnostic tests are needed to diagnose heat stroke and assess the extent of vital organ dysfunction, including:Diagnosis
+A complete medical history and thorough physical examination, including rectal temperature.
+A complete blood count (CBC or hemogram) to assess the severity of dehydration and cardiovascular stress.
+Tests of coagulation including: activated coagulation time (ACT); prothrombin time (OSPT); partial thromboplastin time (APTT); serum fibrinogen concentration; platelet count; and fibrin degradation products (FDPs) to identify the presence of disseminated intravascular coagulation (DIC) a life-threatening body-wide failure of blood clotting that is often a complication of heat stroke. The presence of breakdown products of fibrin (called fibrin degradation products) can serve as an important clue to the presence of DIC.
+Serum biochemistry tests to check blood glucose concentration, assess the extent of damage to vital organs, such as muscles, kidneys and liver, and to evaluate the electrolyte and acid base status. Intensity of treatment depends upon the cause and severity of the heat illness.
+Treatment
+Mildly increased temperature (less than 105 F) may only require rest, a fan to increase air circulation, fresh water to drink and careful observation.
+Temperatures of 105 to 107 F should be hospitalized on intravenous fluids and other medications.
+Markedly increased temperature (greater than 107 F) must be treated more aggressively. Cooling can be promoted externally by immersion in cool water, or internally by administering a cool water enema.
+Underlying aggravating conditions, such as upper airway obstructive diseases, heart disease, pulmonary disease and dehydration may be treated with appropriate medications, supplemental oxygen or fluid therapy.
+Treatment with cortisone-like drugs such as short-acting forms of dexamethasone or may be recommended. The need for additional treatments depends on the severity of heat stroke and secondary complications that may arise. Complications of heat stroke may include: prednisone
+Disseminated intravascular coagulation (DIC)

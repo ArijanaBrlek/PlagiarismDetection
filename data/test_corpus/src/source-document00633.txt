@@ -1,0 +1,16 @@
+Wireless Industry Continues Efforts to Boost Networks in Preparation for Presidential Inauguration
+January 16, 2009
+As the 2009 Presidential Inauguration quickly approaches, wireless companies are continuing their ongoing efforts to enhance, increase and optimize their network capacities in and around Washington, D.C. to accommodate the expected surge in demand. WASHINGTON, DC
+For months, wireless carriers have been working hard to prepare for what could be an unprecedented Inauguration week, said Steve Largent, President and CEO of CTIA-The Wireless Association .  Companies are going to extraordinary lengths investing significant amounts of time and money, and are doing everything within their power to boost network capacities in Washington, D.C. for this historic event.
+In anticipation of record-breaking crowds and huge spikes in wireless traffic, carrier companies are deploying additional technicians to monitor their networks and work with all government agencies involved in the Inauguration events, and they are taking all available steps to address capacity issues.  Some of these steps include:
+Adding new radio channels to augment existing cell sites.
+Provisioning additional portable sites, such as COWS (Cells on Wheels) and COLTS (Cells on Light Trucks) to increase network capacity.
+Expanding backhaul capacity and connections with the Public Switched Telephone Network (PSTN) to ensure maximum capacity for wireless users within the physical limits of spectrum and the sites available to carriers.  
+Enhancing in-building wireless coverage at key locations throughout Washington, D.C. 
+Despite all the industrys efforts to increase network capacity, its really important for the public to understand that unusually large crowds can generate congestion and communications delays, Largent continued.  Think of a wireless network like a highway.  Even though were building more lanes, if millions of people jump on the road at the same time, there could be a traffic jam.  For this reason, we want to remind Inaugural event attendees to do their part in decreasing network demand by texting instead of placing voice calls, and holding off on sending cell phone pictures or video until after the events are over.    
+Below are several helpful tips for visitors to the nations capital to implement throughout next weeks Inaugural activities:
+Text, Dont Talk.  Text messages and e-mails can get through wireless networks when it is too congested to make voice calls.
+Snap and Save, Send Later.  Sending cell phone photos and video require large amounts of bandwidth on mobile networks.  Feel free to snap photos with your cell phone, but wait until leaving the Inaugural events to send them to friends and family. 
+Have a Back-Up Plan.  Establish a rendezvous place and time to connect with your party, or try moving to an area where there is less congestion.
+###
+CTIA is the international association for the wireless telecommunications industry, representing carriers, manufacturers and wireless Internet providers.

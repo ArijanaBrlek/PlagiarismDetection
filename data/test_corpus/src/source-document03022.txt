@@ -1,0 +1,4 @@
+Print this page
+Overview
+The Nile Basin countries have a large number of water professionals who built their capacities through a long process of education, training and working in the water sector. In this component, long list of water professionals form the Nile basin countries is classified according to their area of expertise. In this component of the contact management system user can easily navigate and/or search the available water professionals in each area of expertise. In the tree view user can identify persons according to the area of expertise. While in the grid view user can search by database for a specific need.
+ 

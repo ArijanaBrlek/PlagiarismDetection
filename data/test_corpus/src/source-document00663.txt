@@ -1,0 +1,11 @@
+[] edit Function
+VLDL transports endogenous triglycerides, phospholipids, cholesterol and cholesteryl esters. It functions as the body's internal transport mechanism for lipids.
+[] edit Changes during circulation
+Nascent VLDL circulates in blood and picks up and donated from (HDL). At this point, the nascent VLDL becomes a mature VLDL. Once in circulation, the VLDL will come in contact with (LPL) in the capillary beds in the body (adipose, cardiac, and skeletal muscle). The LPL will remove triglycerides from the VLDL for storage or energy production. apolipoprotein C-II apolipoprotein E High-Density Lipoprotein lipoprotein lipase
+The VLDL now meets back up with HDL where apoC-II is transferred back to the HDL (but keeps apoE). In addition to this, the HDL transfers cholesteryl esters to the VLDL in exchange for phospholipids and triglycerides (via ). cholesteryl ester transfer protein
+As more and more triglycerides are removed from the VLDL because of the action of the LPL enzyme, the composition of the molecule changes, and it becomes intermediate density lipoprotein (IDL).
+50% of IDL are recognized by receptors in the liver cells (because of the and apoE they contain) and are . apoB-100 endocytosed
+The other 50% of IDL lose their apoE. When their cholesterol content becomes greater than the triglyceride content, they become low-density lipoprotein (LDL), with the primary apolipoprotein being apoB-100. The LDL is taken into a cell via the LDL receptor (endocytosis) where the contents are either stored, used for cell membrane structure, or converted into other products (steroid hormones or bile acids).
+[] edit VLDL and disease
+VLDL levels have been correlated with accelerated rates of , and are elevated in a number of diseases and metabolic states. atherosclerosis
+The uniqueness of this correlation is disputed by Harchaoui and Boekholdt http://www.medscape.com/viewarticle/551425

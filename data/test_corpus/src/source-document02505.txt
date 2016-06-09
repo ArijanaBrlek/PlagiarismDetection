@@ -1,0 +1,30 @@
+This package provides all the cables for tuning certain RCA DirecTV receivers over a serial connection using Beyond TV.
+RJ6-DB9 Serial Cable
+Video Cable
+$20.00
+This USB device creates a wireless, infrared connection between your cable or satellite box and the PC running Beyond TV. (Includes audio and video cable.) IR Blaster (USB-UIRT) Cable Pack
+$49.99
+This USB device creates a wireless, infrared connection between your cable or satellite box and the PC running Beyond TV. (Includes audio/video cables, and blink emitter.) IR Blaster (USB-UIRT) Cable Pack with Blink Emitter Add-on
+$64.99
+This mini emitter contains a tiny infrared light-emitting diode housed in a miniature, deep purple, injection molded plastic shell. Use this device with the to control your set-top-box or satellite receiver from Beyond TV. Xantech Blink Emitter (6 feet)
+USB-UIRT IR Blaster
+$19.99
+Connect your PC and TV together with this HDMI to DVI gold plated cable. HDMI to DVI Gold Digital Video Cable - 6 ft
+HDMI-DVI Cable (6 ft)
+$19.95
+DVI cable transmits digital from HTPC Video (DVI out) to HDTV DVI-in with no conversion from digital to analog back to digital. The result is an exceptional high definition picture. DVI to DVI Cable - 6 ft
+$19.95
+Add an additional audio/video input to certain model WinTV-PVR's. Hauppauge A/V Cable Set
+$14.95
+Splitters - Split and amplify your cable signal with the cable splitters that we offer.
+Prevent signal loss due to daisy-chaining and use of low-quality splitters by using Channel Vision's 4-way 8dB power injected amplified splitter. Channel Vision 4-Way Amplified Splitter
+$49.99
+Ensure minimal television signal loss when splitting your cables with Channel Vision's Amplified RF Splitter (2 in / 8 out). Model: C-0330. This device will work great in your home multi-tuner PVR setup! Channel Vision 8-Way Bi-Directional Amplified Splitter
+$129.99
+Media Extenders
+Use the MediaMVP to link your Beyond TV PC and your TV over a home network. Watch recordings, listen to digital audio and view your digital photos all on your TV! Check out this that explains how the Hauppauge Media MVP can be used with Beyond TV. Hauppauge MediaMVP
+blog post
+ $84.99$99.99
+Use the Wireless MediaMVPas the link between your BeyondTV PC and your TV over either a wireless 802.11G or wired 10/100 Mbit Ethernet network. Listen to digital audio, watch recordings and view your digital photos all on your TV! Check out this that explains how the Hauppauge Media MVP can be used with Beyond TV. Hauppauge Wireless MediaMVP
+blog post
+ $125.00$149.00

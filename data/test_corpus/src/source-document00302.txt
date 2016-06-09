@@ -1,0 +1,7 @@
+resolve . . acceptable
+Explanation
+One way to answer a sentence completion question with two words missing is to focus first on just one of the two blanks. If one of the words in an answer choice is logically wrong, then you can eliminate the entire choice from consideration.
+Look at the first blank in the example above. Would it make sense to say that "negotiators" who have "proposed a compromise" were hoping to or the "dispute"? No, so neither (A) nor (D) can be the correct answer.enforceextend
+Now you can focus on the second blank. Would the "negotiators" have proposed a compromise that they believed would be or to "both labor and management"? No, so (B) and (C) can be eliminated, and only choice (E) remains.divisiveunattractive
+Always check your answer by reading the entire sentence with your choice filled in. Does it make sense to say "Hoping to the dispute, the negotiators proposed a compromise that they felt would be to both labor and management"? Yes.resolveacceptable
+Correct answer: (E)

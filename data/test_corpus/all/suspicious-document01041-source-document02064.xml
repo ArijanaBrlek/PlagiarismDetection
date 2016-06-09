@@ -1,0 +1,3 @@
+<document reference="suspicious-document01041.txt">
+<feature language_0="en" language_1="de" language_2="en" name="plagiarism" source_length="840" source_offset="2661" source_reference="source-document02064.txt" this_length="826" this_offset="2688" translator_1="MyMemory" translator_2="Google" type="translation-chain" />
+</document>

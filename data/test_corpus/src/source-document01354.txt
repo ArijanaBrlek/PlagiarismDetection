@@ -1,0 +1,24 @@
+Plants
+The above links lead into taxonomical tree structure, which may be hard to navigate, until you are familiar with it. The other way to navigate directly deep into the taxonomic tree structure is through the "warp page", which collects all the automaticly generated indexes into single page. The enables quick access to:warp page
+Photograps
+The fastest way to see what images are available is the . This is a top level list containing references to actual photo lists. life-English-Photolist
+The images are copyright to photographers as indicated. They are public domain. To use them outside this structure, contact the photographer in question and ask.NOT
+As it will be totally impossible for me to get all pictures myself, I will gladly accept images of life forms from anywhere in the world to be placed into the structure. If you have pictures, which are accompanied with species name, location, approximate date and photographer, and which you are willing have displayed under my structure, contact me for details. But read the for a brief basics on terms of usage. "license"
+There is a page set from the thumbnails of the photographs from each person that has contributed more than few photographs to this site. The of these "album pages" contains contains the links to the thumbnail pages (in rather random order). table of contents
+Common names
+Separate alphabetical indexes are generated for Finnish and English common names. For English example, see . And for a Finnish example, see . These indexes include only species from which a common name is entered into the system. names indexed under R names indexed under R
+Also, as with photographs, there are lists containing all common names recorded in this structure for or . Finnish English However, note that the great majority of the taxa do not have a common name listed.
+The structure includes occasional common name with other languages than English or Finnish, and similar indexes could be generated from them, but is not currently done. Too few species would have entry.
+Scientific names
+Similar alphabetical indexes are generated from the scientific names, for example . As with common names indexes, the links in indexes take you directly into the corresponding location in the taxonomical tree structure. R
+There is also a plain scientific names for all taxa (otherwise it is similar to the previously mentioned common name lists). list of lists
+Checklists
+The checklists are lists that include only the species recorded from Finland. These lists are not complete for every group. The most accurate one is the list. Again, there is also a for accessing all Finnish checklists (or partial lists) Lepidoptera top level list
+(not in warp page)Protected species list
+The list of in Finland.Changed 1997 protected insect species
+Related issues
+Please! The above tibiale image is the official logo of , do not use it without permission on your pages!SPS Finnish Lepidopterologist Society
+, first sightings and migrations (maintained by Arto Avanto). Through this page you can access reported observations about lepidoptera progress in Finland during the current year.
+Some of the inspirations for these pages come from the project by University of Arizona. Tree of Life
+Many links to various other places can be found from . "Electronic Resources on Lepidoptera"
+Miscellanous links to lepidoptera related information in nearby countries that I have been able to locate:

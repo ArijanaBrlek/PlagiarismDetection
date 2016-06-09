@@ -1,0 +1,21 @@
+Contacts
+Publication Search
+Welcome to the Pacific Northwest National Laboratory publications page. You can use this page to find citations to materials published since 1998 by PNNL staff or by external researchers using PNNL facilities. The latter are denoted by a logo preceding the citation. Full text copies of many PNNL formal reports are available from this page either as PDF or HTML files. 
+Examples: "Jones" or "Jones, E" or "Jones, EG"
+Date Published
+Keyword
+searching
+If you do not find what you are looking for, contact the by or telephone at (509) 372-7430. Hanford Technical Library email
+Publications
+You must enter at least 2 characters in any field to perform a valid search.
+Author
+For best success, search on the author's last name followed by the author's initials with punctuation as follows: "Jones"; "Jones, E"; "Jones, EG".
+Date Published
+Publications are available from 1998 through the present year.
+Title
+search for any words in the title of a journal article, formal report, book, or book chapter being careful to include punctuation.
+Formal Report Number
+Search for any part of the formal report number. For example: "12345", "PNNL", or "PNNL-12345".
+Keyword
+Search the following fields when available: title, abstract, information release number, publication title, and key words. This field does not search the full-text document.
+Related Links

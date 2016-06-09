@@ -1,0 +1,69 @@
+May 31st in by Text Effects Collis
+Flames are particularly hard to render in Photoshop, but in this tutorial I'll show you how to use a photograph of fire to set text to the match. We'll render the look on a nice dark background with a gorgeous text effect to complete the image.
+This is the second of our five-part series on Photoshop Typography. If you missed last week's, go visit . Create a Spectacular Grass Text Effect
+Author: Collis
+Hello! I started PSDTUTS because years ago reading Photoshop tutorials was how I got into design. I hope the site helps and inspires others! You can find me on Twitter!
+The End Effect
+As always we'll begin with the final result, so you can see where we're going. It's on a nice big canvas so it can serve as the desktop background on my laptop for the next week or so! . click to see the full 1920px x 1200px size
+Part 1—The Background
+So create a new document in Photoshop at 1920px wide x 1200px high, and with the Gradient Tool (G), draw in a radial gradient of browns (#5c3d09 to #1f1409) so you get something like what is shown below.
+Notice that the gradient is not centered vertically but sits toward the top. In this image we want the top of the text to be on fire, so the top part of the image should be a bit more lit up.
+Step 2
+As in the grass text tutorial, once again we're going to have a textured background. But rather than starting from scratch, I just copied the , merged all the layers and desaturated to get what you see below. background from the previous tutorial
+If you need to make this from scratch, first visit to get the original paper textures and then follow the previous tutorial's steps. Bittbox
+Step 3
+Now we set the layer to Overlay and to blend the texture into the background and voila!
+Step 4
+Just to add a bit more texture though, let's run the Texturizer filter. To do this, create a new layer and fill it with a brown/beige color—#66500f. Then go to Filter > Texture > Texturizer and use the Canvas texture with 80% Scaling and Relief set to 4.
+Step 5
+Once you have your texturized layer, set that to Overlay. This adds some extra fine detail to our texture which is good because we're working on such a big canvas.
+Step 6
+Next we're going to apply a layer to slightly desaturate the bottom half of the image. This is so that the top looks like it has a warmer glow where the flames are, while the bottom looks a little colder.
+So create a new layer and fill it with the color #4b4f3b. Then add a layer mask with a gradient to mask out the top and fade down (so you get the effect shown).
+Now set the layer to Color and 45% Opacity.
+Part 2—Text + Glow = Awesomeness
+OK, we now have a nice background! So let's add some text. I've used the font Trajan because it's a really dramatic looking font. Here I've placed the text in the color #cb9328, then set it to Linear Dodge (Add) with an Opacity of 8%.
+What we're going to be doing with our text is making it look like the top half of the text is coming out of the background and is red hot with flames flickering off. This means we're going to run a lot of effects and apply layer masks to them so that only the top half shows while the bottom half reverts to faded out text like we have currently.
+Step 8
+So first create a new layer group to put all the text layers in—because there will be a lot of them.
+Then duplicate the text layer and set the color of the duplicate text to #5e3f1c.
+Step 9
+Now set the newest text layer to Overlay and 70% Opacity. It should look kind of reddish (as shown below).
+Step 10
+Now duplicate the text and set the latest duplicate to a yellowish color—#cb9328. Then set this to Linear Dodge (Add) and Opacity 30%.again
+Next we add a layer mask and draw a gradient so the latest text layer fades out as shown below, and beneath you can see the reddish colored combination of the bottom two text layers.
+Step 11
+Next we duplicate the text layer yet again, but put this layer right on the bottom. Set the color to black—#000000. Then go to Filter > Blur > Gaussian Blur and it will ask you to rasterize the text, click yes to that, and then set the Radius to about 4px.
+Then Ctrl-click any of the other text layers and go back to the black layer and hit delete so you are just left with a sort of shadow. Then duplicate this layer and merge it with the first so the effect is heavier. You should have something that looks like the screenshot below.
+Step 12
+Once again, add a layer mask so the shadow quickly fades out as shown. This makes it look like the text is coming out of the page.
+Step 13
+Now duplicate our black layer again and using the Smudge Tool (R) and a largish soft brush you want to just smudge the shadow around so it looks like burn marks.
+Step 14
+Here's how our text is looking now. I actually created two sets of "burn" marks, and then four sets of the shadow layer each blurred a little more than the last and each faded back.
+Step 15
+Now it's time to make the top part of our text glow. So first of all, duplicate the text layer and place this layer at the very top and set it to a yellow color—#dc9a08.again
+Then run a Filter > Blur > Gaussian Blur over it with Radius of 8px. Then grab a large soft eraser brush and just erase away parts at the bottom so it's kind of uneven.
+Step 16
+Set our first glow layer to Soft Light. You might want to repeat the process, erasing even more so the top part is even glowier.
+Step 17
+Now duplicate the text layer yet again and place this at the very top. This one should be again the same yellow (#dc9a08).
+Then go to Layer > Rasterize > Type and turn the text into a flat graphic. Then Ctrl-click the layer and go to Select > Modify > Contract and use a value of 1px. Then press Delete to delete everything except that 1px outline.
+Step 18
+Now set the 1px layer to Overlay, and you should have something like the image below.
+Step 19
+Now to our 1px glow add a layer mask to fade it out down the bottom as we've been doing with the other layers.
+Then duplicate the layer, and run a Filter > Blur > Gaussian Blur set to 1px. Then duplicate this layer again and blur it by 2px. Then duplicate the layer again and blur it by 4px.
+Then Ctrl-click any of the text layers, press Ctrl+Shift+I to inverse the selection and go through each of the glow layers and press Delete to remove any of the blur that has strayed out of the boundary of the text.
+The idea is that we want the edges of the text to look red-hot with it fading in to an overall hot glow on the text.
+Step 20
+Next we duplicate of the glow layers and merge them together. This should result in a layer on top which is the original bright yellow.all four
+Grab the Smudge Tool and run over the text, smudging it up to look like heat waves coming off the text, as shown.
+Step 21
+Now set this latest layer to Overlay and you should have something looking like this!
+Step 22
+Now we've pretty much finished our text. I went through and duplicated some of the glow layers to make it look even more fiery. Feel free to experiment with getting a real red-hot glow look by doing so.
+Step 23
+Next, in keeping with the last wallpaper, I've gone and added a quote underneath my main text. This provides a nice embellishment to the page. Try to use colors that fit in with the background and text layer so it doesn't stand out too much, because we really want this to be a secondary element to the main text. I've used Swiss Light Condensed as my font and laid it out just like in the previous Grass Text tutorial.
+Part 3—The Flames
+Finally, with all our preparation done, it's time to add the actual flames! For this, we need some images of fire set against a plain black background. A good photo is hard to find, and try as I did, I couldn't find a really great free photo. So in the end I used this photo from Fotolia which you can purchase using the link below. There was also an OK photo from Flickr which I've also linked to and which I ended up using later for the "E". So you might want to grab that too.

@@ -1,0 +1,29 @@
+[] edit Patrol Troops and Posts
+Troops (A-I) and Posts (1-48)
+Troop A - Includes the following counties: Bartow, Catoosa, Chattooga, Cherokee, Dade, Floyd, Gordon, Haralson, Murray, Paulding, Pickens, Polk, Walker, Whitfield.
+Post 3 - Cartersville, Post 5 - Dalton, Post 28 - Jasper, Post 29 - Cedartown, Post 38 - Rome, Post 41 - LaFayette, Post 43 - Calhoun.
+Troop B - Includes the following counties: Banks, Barrow, Clarke, Dawson, Fannin, Forsyth, Franklin, Gilmer, Habersham, Hall, Hart, Jackson, Lumpkin, Madison, Oconee, Rabun, Stephens, Towns, Union, White.
+Post 6 - Gainesville, Post 7 - Toccoa, Post 27 - Blue Ridge, Post 32 - Athens, Post 37 - Cumming
+Troop C - Includes the following counties: Clayton, Cobb, DeKalb, Fulton and Gwinnett
+Post 9 - Kennesaw, (North of I-285), Post 47 - Forest Park (Outside I-285), Post 48 - Atlanta (Inside and including I-285)
+Troop D - Includes the following counties: Bibb, Butts, Carroll, Crawford, Coweta, Douglas, Harris, Heard, Henry, Fayette, Lamar, Meriwether, Monroe, Muscogee, Pike, Spalding, Talbot, Taylor, Troup, Upson
+Post 1 - Griffin, Post 2 - LaGrange, Post 4 - Villa Rica, Post 24 - Newnan, Post 26 - Thomaston, Post 34 - Manchester, Post 44 - Forsyth
+Troop E - Includes the following counties: Baldwin, Columbia, Elbert, Glascock, Greene, Hancock, Jasper, Jones, Lincoln, Putnam, McDuffie, Morgan, Newton, Oglethorpe, Richmond, Rockdale, Taliaferro, Walton, Warren, Washington, Wilkes
+Post 8 - Madison, Post 17 - Washington, Post 25 - Thomson, Post 33 - Milledgeville, Post 46 - Conyers
+Troop F - Includes the following counties: Appling, Bleckley, Bulloch, Burke, Candler, Davis, Dodge, Emanuel, Evans, Jefferson, Jenkins, Johnson, Laurens, Montgomery, Screven, Tattnall, Telfair, Toombs, Treutlen, Twiggs, Wheeler, Wilkinson
+Post 16 - Helena, Post 18 - Reidsville, Post 19 - Swainsboro, Post 20 - Dublin, Post 21 - Sylvania, Post 45 - Statesboro
+Troop G - Includes the following counties: Baker, Calhoun, Chattahoochee, Clay, Colquitt, Decatur, Dougherty, Early, Grady, Lee, Marion, Miller, Mitchell, Quitman, Randolph, Schley, Seminole, Stewart, Sumter, Terrell, Thomas, Webster, Worth
+Post 10 - Americus, Post 12 - Thomasville, Post 14 - Donalsonville, Post 39 - Cuthbert, Post 40 - Albany
+Troop H - Includes the following counties: Atkinson, Ben Hill, Berrien, Brooks, Crisp, Coffee, Cook, Dooly, Echols, Houston, Irwin, Lanier, Lowndes, Macon, Peach, Pulaski, Tift, Turner, Wilcox
+Post 13 - Tifton, Post 15 - Perry, Post 30 - Cordele, Post 31 - Valdosta, Post 36 - Douglas
+Troop I - Includes the following counties: Bacon, Brantley, Bryan, Camden, Charlton, Chatham, Clinch, Effingham, Glynn, Liberty, Long, McIntosh, Pierce, Ware, Wayne
+Post 11 - Hinesville, Post 22 - Waycross, Post 23 - Brunswick, , Post 35 - Jekyll Island, Post 42 - Rincon
+Troop J (Safety Education and Implied Consent) - Troop J contains two units:
+Safety Education Unit - Promotes the safe operation of motor vehicles.
+Implied Consent Unit - Provides support to the Forensics Science Division of the (GBI) by overseeing and maintaining the breath-alcohol program for the State of Georgia. Georgia Bureau of Investigation
+Special Waepons and Tactics () includes the Crisis Negotiations Team (CNT) SWAT
+Specialized Collision Reconstruction Team (SCRT)
+Commercial Motor Vehicle - Criminal Interdiction Unit (CMV-CIU)
+Aviation Unit - Operates 14 helicopters from six locations throughout the State. These are located in Kennesaw, Thomson, Athens, Albany, Reidsville, and Perry.
+Nighthawks DUI Task Force - A 10 member DUI Task Force which patrols , , , and counties during peak DUI related hours. Clayton Cobb DeKalb Fulton Gwinnett
+Motorcycle Unit - Patrols the of metropolitan with 30 motorcycles. Interstate Highways Atlanta

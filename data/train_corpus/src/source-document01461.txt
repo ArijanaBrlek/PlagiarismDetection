@@ -1,0 +1,25 @@
+Components - Coaxial Cables
+5-feet RG-58 Low-Loss Coaxial Cable (951101)
+• For indoor / outdoor use • Extension cable for antennas • Attenuates signal 1 dB • FME-Male / FME-Female Connectors • Requires adapters to use with 9913-equivalent cables
+10-feet RG-58 Low-Loss Coaxial Cable (951102)
+• For indoor / outdoor use • Extension cable for antennas • Attenuates signal 1 dB • FME-Male / FME-Female Connectors • Requires adapters to use with 9913-equivalent cables
+15-feet RG-58 Low-Loss Coaxial Cable (951103)
+• For indoor / outdoor use • Extension cable for antennas • Attenuates signal 3 dB • FME-Male / FME-Female Connectors • Requires adapters to use with 9913-equivalent cables
+20-feet RG-58 Low-Loss Coaxial Cable (951104)
+• For indoor / outdoor use • Connects Yagi directly to any Wilson External Antenna    Adapter • Attenuates signal 4 dB • N-Male / FME-Female Connectors
+2-feet RG-58 Low-Loss Coaxial Cable (951110)
+• For tuning and testing Yagi Antennas • Connects Yagi to any Wilson External Antenna Adapter • Attenuates signal less than 0.4 dB • N-Male / FME-Female Connectors
+6-feet RG-174 Coaxial Cable (951116)
+• For indoor use • Connects Direct Connection amplifier to any Wilson External Antenna Adapter • Connects Mobile Wireless amplifier to Small Antenna • Attenuates signal less than 2 dB • FME-Female / FME-Female Connectors
+20-feet 9913-Equivalent Ultra-Low-Loss Coaxial Cable (951108)
+• For indoor / outdoor use • Connects Yagi or inside antenna to amplifier, splitter or tap • Attenuates signal less than 1 dB • N-Male / N-Male Connectors
+30-feet 9913-Equivalent Ultra-Low-Loss Coaxial Cable (951105)
+• For indoor / outdoor use • Connects Yagi or inside antenna to amplifier, splitter or tap • Attenuates signal 1 dB • N-Male / N-Male Connectors
+50-feet 9913-Equivalent Ultra-Low-Loss Coaxial Cable (951106)
+• For indoor / outdoor use • Connects Yagi or inside antenna to amplifier, splitter or tap • Attenuates signal 2 dB • N-Male / N-Male Connectors
+75-feet 9913-Equivalent Ultra-Low-Loss Coaxial Cable (951117)
+• For indoor / outdoor use • Connects Yagi or inside antenna to amplifier, splitter or tap • Attenuates signal 3 dB • N-Male / N-Male Connectors
+100-feet 9913-Equivalent Ultra-Low-Loss Coaxial Cable (951107)
+• For indoor / outdoor use • Connects Yagi or inside antenna to amplifier, splitter or tap • Attenuates signal 4 dB • N-Male / N-Male Connectors
+2-feet 9913-Equivalent Ultra-Low-Loss Coaxial Cable (951113)
+• For indoor / outdoor use • Connects amplifier to splitter, tap or inside antenna • Attenuates signal less than 0.1 dB • N-Male / N-Male Connectors

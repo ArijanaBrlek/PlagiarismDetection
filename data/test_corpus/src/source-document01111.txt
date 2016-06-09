@@ -1,0 +1,40 @@
+About the Interactive Tornado Map
+The tornado map lets you view tornado storm records, photos and radar images.
+Just click its icon on the map, or the listing in the right column (results box).Viewing information about a tornado
+Only those storms which are in the latitude/longitude bounds of the map are displayed in it. Recent storms are displayed before older ones. Therefore, if you move the map causing a newer storm to be shown, an older storm will be removed to accommodate the newer one. See below for the order of priority.Which tornadoes are displayed on the map
+always
+By default, the Tornado Map shows all tornadoes, with the most recent storms first. You can choose to view only historically significant tornadoes by clicking on that tab, above the map itself. You can switch between these tabs and the map will keep its location and zoom level."Most Recent Storms" vs. "Historically Significant"
+To avoid clutter, there is a limit (currently 12) on how many tornadoes are displayed at the same time. To view the next set of results, click at the bottom of the right column, or to view the more current storms.Paging through results
+Older StormsNewer Storms
+Tornadoes that are displayed
+Priority level indicates which gets displayed on the map first, 1 being the highest priority. When two types have the same priority, the date of the storm determines which one is displayed first.
+1. Current Tornado Warnings
+A shaded polygon will indicate the region for which the warning applies. Click on the region or icon to view the warning text. Since this is current data, it will change frequently, and may not always be present.
+2. Current storms capable of producing a tornado
+Could be a Tornado Vortex Signature (TVS) or Mesocyclone. Since these are current storms, this data will change frequently, and may not always be present.
+3. Tornadoes (official)
+This data comes from the NOAA's Storm Prediction Center storm data archive, and goes back to 1950. : this data tends to run about two years behind, and as of this writing, . Therefore, recent tornadoes, although official, will only show up on the map as Tornado Storm Reports.IMPORTANTonly goes up to December 2005
+3. Tornado Storm Reports
+This data comes from the NOAA's Storm Prediction Center, and goes back to June 1999. New storm reports are updated every few minutes. If a particular Tornado Storm Report has an official Tornado record, the entry will be merged and shown together.
+Additional Information that is displayed
+Photos
+The photographers in our community often take pictures of the tornadoes that are on the map. In these cases, their photographs are shown with the relevant Tornado or Tornado Storm Report. See the FAQ below. WunderPhotos
+Radar
+Radar data is available for storms since April 2006, and selected historically significant storms. Archived radar loops are generated on-demand. So if you are the first person to click on a particular radar, it could take up to 20 seconds to generate, just this once.
+Frequently Asked Questions
+Why are there no tornadoes in my country?
+We currently only show tornado data from the United States.
+How do I find tornadoes in my area?
+Use the box in the right column to center the map and zoom-in to your desired location. Just type a city, zip code, etc., and press the button. The map will update with the results for the new location.Storm SearchGo
+Why did the tornado I was looking at disappear?
+Recent storms are displayed before older ones. Therefore, if you move the map causing a newer storm to be shown, an older storm will be removed to accommodate the newer one.always
+Where are the recent official tornadoes?
+This data comes from the NOAA's Storm Prediction Center storm data archive, and goes back to 1950. : this data tends to run about two years behind, and as of this writing, . Therefore, recent tornadoes, although official, will only show up on the map as Tornado Storm Reports.IMPORTANTonly goes up to December 2005
+What is the criteria for having my tornado photo show up with the tornado?
+If you are a member, your photos can be displayed on the tornado map! When uploading/modifying your photo, just make sure that: WunderPhotos
+the field is within a week before or three weeks after the tornadoDate Taken
+the fields are close enough to the path of the tornado (currently, 20km)Location
+the photo is tagged with a of at least "tornado" or "storm damage"Category
+Can I save the location of the map to view again later?
+Yes. There is a link called that you can click on or copy. You can use that URL to return to a given location and zoom-level.Link to this page
+External links

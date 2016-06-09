@@ -1,0 +1,14 @@
+The home on the Web for satellite radio signal monitoring
+There are currently and online.0 users0 guests
+Recent Web Links
+more
+This is the new web site for Hearsat.org. HearSat was originally created as a mailing list and website in November 1995. The idea was conceived by John Corby (VA3KOT) in Canada and the late Ivan Artner (HA5TS) in Hungary. HearSat was modeled after the SeeSat mailing list and website but was targeted towards satellite enthusiasts who are interested in monitoring radio signals from satellites. The web site and mailing list were originally hosted by Grove Enterprises, publishers of Monitoring Times magazine until RA Labs, owned by Bob Arnold (N2JEU), stepped forward to generously offer hosting services. HearSat remains indebted to Bob for his continued support. The mailing list is now hosted on the QTH network (www.qth.net) owned by Al Waller (K3TKJ). The content of Hearsat.org is dynamically managed by a group of active satellite monitoring enthusiasts. If you are reading this site and what to add some content, please register as a user, then go to the forums and post in the appropriate place. There is an active IRC channel where you can chat to other satellite buffs in real time, you can get to this by using the 'Live Hearsat Chat Room' link in the left hand menu bar.
+Inmarsat prepares to reposition its satellite fleet Submitted by pjm on Tue, 23/12/2008 - 21:48.
+According to the on-line report at http://www.inmarsat.com/About/Newsroom/00024493.aspx?language=EN&textonly=False - Inmarsat is going to be moving some satellites around in the first weeks of January 2009.
+»
+or to post comments Login register
+98 reads
+Chandrayaan-1 Lunar Transfer Trajectory Orbit Submitted by pjm on Thu, 06/11/2008 - 07:12.
+ From the ISRO website at http://www.isro.org/pressrelease/Nov04_2008.htm
+The fifth and final orbit raising manoeuvre of Chandrayaan-1 spacecraft was successfully carried out today (November 4, 2008) morning at 04:56 am IST. During this manoeuvre, the spacecrafts 440 Newton liquid engine was fired for about two and a half minutes. With this, Chandrayaan-1 entered the Lunar Transfer Trajectory with an apogee (farthest point to Earth) of about 380,000 km (three lakh eighty thousand km).
+»

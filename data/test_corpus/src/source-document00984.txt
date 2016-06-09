@@ -1,0 +1,23 @@
+[] edit Purpose
+, an American cartographer influential in , stated that a map not properly designed "will be a cartographic failure." Any map that does not take its audience into account by assuming too much reader knowledge about the map area's context will not fulfill its purpose. Location maps help achieve this purpose by familiarizing the reader with the location of an area they may not have read about previously. A good understanding of the audience's for a particular area is critical for a proper application of location maps. Arthur Robinson thematic cartography [1] mental map
+Used on their own, location maps do not differ significantly from traditional maps, differing primarily in the fact that solitary locator maps focus the attention on a single location within the map frame, where traditional maps generally seek to portray a multitude of features across the entire frame.
+More commonly, location maps appear as insets or ancillary maps (maps adjacent to or near the primary map) in order to help the audience place the geographic area being mapped properly inside their internal frame of reference.
+[] edit Education
+Example of a world location map for Algeria.
+As seek to teach students increasing levels of geography, maps generated for textbooks must reference the expected geographic knowledge of a particular education level. Location maps achieve this purpose by highlighting more in-depth geography within the context the student is familiar with. educators
+In the United States, this purpose is reinforced by the standards set by the National Council for Geographic Education, which says that "Mental maps, or cognitive maps, are among our most important geographic tools. Because they exist in our minds, they are the maps we use for thinking and decision-making." [2]
+[] edit Interactive applications
+Some online applications that allow the user to zoom into an area often include locator maps to assist in navigating the main map or image. For example, uses a locator map to orient visitors to its site, included as a toggle button. These locators often feature a movable box that assists the user with navigating the main map. Google Maps
+Other applications using allow people to generate their own location maps by entering some basic information about where they are. This generates a map showing places within a specified radius of that point that meet the user's criteria. Banks, hotels, retail chains, and restaurants are common users of this type of service. locator software
+[] edit Commerce
+Businesses have a vested interest in letting know where they are located, and frequently use locator maps to help them reach out to potential customers. These maps typically range from a crude schematic map showing nearby crossroads, to more realistic maps that include greater geographic detail and context. consumers
+[] edit Corporate web sites
+Businesses such as and often have locator maps online to help potential customers find their location. These are sometimes accompanied by driving and parking directions from one or more directions of travel, especially if many of their customers are not from the local area. restaurants retail establishments
+[] edit Direct marketing
+Sample locator map showing the location of a hotel by a highway interchange.
+The widespread distribution of sophisticated (GIS) mapping techniques has allowed the development of large-scale customized locator maps that can be tailored to individual consumers in campaigns. This sophistication allows a variety of customized locator maps to be produced in a relatively short period of time. Geographic Information System direct marketing
+Major types of direct marketing locator maps are:
+: A single business location is shown with major street and road connections. While this type of map can be efficiently constructed using GIS with existing street databases and customized map templates, special software is not required because the map does not change for each direct mailing.Single Location
+: Using a customer address list, specialized software can frame the map that shows a customer's location in relation to the business, and connects the two using a pre-existing street database.Customer to Business
+: Like the single location locator map, a GIS package is not required, though it also can be useful in quickly plotting the locations onto an existing street database using map templates.Multiple Location
+: Multiple locations within a defined area are shown.Defined Area Locators

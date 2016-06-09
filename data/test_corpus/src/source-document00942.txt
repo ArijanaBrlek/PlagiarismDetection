@@ -1,0 +1,19 @@
+Property and tax mapping
+Flood analysis
+One of the primary services provided by Satellite Imaging Corporation during the implementation of a GIS project is the for mapping projection. An ongoing quality control program is also maintained for this data.georeferencing of various data layers
+SIC's Expertise Prevents Potential Problems
+Problematic Coordinates for Vector and Well Data Displayed on Satellite Image
+Orthorectified IKONOS
+The expertise and accuracy of our services associated with GIS projects. Some GIS projects are hampered by coordinate problems of different image and vector data layers, which are caused by one or a combination of the following:precludes nearly all potential problems
+Improper of satellite or aerial image mosaics orthorectification
+Poor quality GPS derived ground control points (GCPs)
+Improper rectification of digital source raster maps
+Importation of or shape files for source data with incorrect coordinates vector data
+Improper use of units or unit convergence factors for source data
+Utilization of source data from a corrupt coordinate database
+Our imaging, Geographic Information System (GIS), Global Positioning System (GPS) and geodesy experts are experienced in , and supplementing satellite images and imaging data. These projects provide invaluable information to a broad spectrum of industries. extraction manipulating
+GIS — Geographic Information System
+Today there are thousands of geospatial in use. Organizations, agencies and companies throughout the world are using the technology to transform manually produced maps and associated descriptive records into powerful digital databases. Once a tool that was affordable only to the largest organizations, geospatial systems have become a cost-effective option for even the smallest organizations. applications
+Geographic information system technology is widely used for scientific investigations, natural resource management such as , , , and , , , , , and . forestry agriculture mining oil and gas exploration environmental impact assessment urban planning natural hazards land cover and change detection law enforcement cadastre habitat mapping
+The key advantage to GIS is the ability to share maps. State and federal agencies, along with utility companies, which create their own respective maps, can, for example, share maps with each other. This not only saves money, but provides the ability to create hundreds of new maps, many of which never existed before, for minimal cost.
+For a free consultation, please and provide detailed information regarding your specific coordinate problems. contact us

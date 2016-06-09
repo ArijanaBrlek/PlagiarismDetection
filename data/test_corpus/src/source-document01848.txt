@@ -1,0 +1,17 @@
+ 
+Connecting Patients and Professionals
+MetrikLink/sup> is a low-cost, easy-to-use connectivity hub for uploading objective, self-test data from personal health monitoring devices. The MetrikLink interfaces with over 59 personal health monitoring devices such as blood glucose monitors, insulin pumps, blood pressure monitors, spirometers, pedometers, and scales. The user-friendly interface has a single data transfer button and four LED status indicators, making it simple and easy to operate.
+Benefits and features for patients and professionals using MetrikLink and MediCompass Connect include:
+The MetrikLink transmits data to authorized members of the healthcare team using a phone line or an Internet-enabled PC. The unaltered, objective data can be reviewed by the provider knowing it is not subject to recall or patient bias (as with manually entered data), thus allowing them to make a more informed treatment decision.
+MetrikLink is an integral part of , a telehealth gateway that securely and seamlessly transfers data from personal health monitoring devices to MediCompass or third-party applications using HL7 messaging. MediCompass Connect
+MetrikLink enables patients and professionals to share self-tested data between healthcare visits. Patients with asthma, diabetes, cardiovascular disease, weight management and other chronic conditions, can self-test at home while staying connected to their care team. The communication between patients and professionals encourages patient participation in their health management to help meet their healthcare goals.
+Small portable connectivity hub
+Data transferred directly over a phone line or a PC with Internet access
+Securely connects to more than 59 personal health monitoring devices via a cable or IrDA link
+Simple and easy for patients, caregivers, and providers to use
+Low-cost, online, real-time chronic care monitoring
+Remote biometric monitoring between care encounters
+Secure messaging between patient and healthcare professionals
+Secure clinical data repository
+Opportunity to impact care to help prevent a crisis
+ 

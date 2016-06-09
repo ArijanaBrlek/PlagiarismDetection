@@ -1,0 +1,56 @@
+a suture completely surrounding the tooth; generally used to suspend or retain a flap.n
+,suture, continuous
+a suture in which an uninterrupted length of suture material is used to close an incision or laceration.n
+,suture, craniofacial
+the line along which bones of the cranium or face articulate in an immovable articulation.n
+,suture, frontomalar
+most lateral point of the suture between the frontal and zygoma (zygomatic bones).n
+,suture, interdental
+a suture that joins two sides of the gingiva by passing between the teeth.n
+,suture, interrupted
+individual stitches, each tied separately.n
+,suture knot
+the tiny fastening used to hold a suture in place firmly but not too tightly. The specific type is dictated by procedure, incision location, and tension required to close the wound.n
+,suture, mattress
+a continuous suture that is applied back and forth through the tissues in the same vertical plane but at a different depth, or in the same horizontal plane but at the same depth.n
+(median palatine ),suturesuture
+the line of fusion of the two maxillae (two palatine processes), starting between the central incisors and extending posteriorly across the palate, separating the horizontal plates of the palatine bones into two nearly equal parts.n
+,suture, monofilament
+refers to the single-strand composition of the material used to secure surgical stitches.n
+,suture, multifilament
+refers to the multiple-strand composition of the material used to secure surgical stitches.n
+,suture, natural
+a type of organic material used to secure surgical stitches that may react adversely with body tissue.n
+,suture needle, conventional cut
+a suturing needle with three cutting edges, one on either side and a third located on the inside curve.n
+,suture, nonabsorbable
+a suture that does not dissolve in body fluids (e.g., silk, tantalum, nylon).n
+,suture, purse-string
+a horizontal mattress suture used generally about an implant cervix.n
+,suture, shoelace
+a continuous surgical suture for depression of the tongue and retention and holding of the lingual flap out of the field of operation during the surgical impression.n
+(sling),suture, suspension
+a type of surgical stitching used when the flap being repaired is open on the lingual or facial side; surrounds the tooth by passing between the surrounding teeth and gum tissue. The stitch is adjustable and allows for adjustment of the flap for proper healing.n
+Suspension suture.
+,suture, synthetic
+new technology in surgical stitches developed to counteract the unreliable absorption rates and tissue sensitivity associated with natural stitches.n
+suture, transverse palatine
+the line along which the bones of the palate and the superior maxilla articulate in an immovable articulation. Also known as .n
+sutura palatina transversa
+suture
+1. the line of union of adjoining bones of the skull. See also . sutura
+2. the linear union of fibers from the equator of the lens, meeting on the anterior and posterior surfaces. May be the location of metabolic cataracts.
+3. a stitch or series of stitches made to secure apposition of the edges of a surgical or traumatic wound (see suture pattern below); used also as a verb to indicate application of such stitches.
+4. material used in closing a wound with stitches.
+Tendon sutures. By permission from Fossum TW, Small Animal Surgery, Mosby, 2001
+absorbable suture (4)
+a strand of organic or synthetic material used for closing wounds, which becomes dissolved in the body fluids and disappears, such as catgut and tendon or polydioxanone.
+apposition suture (3)
+a superficial suture used for exact approximation of the cutaneous edges of a wound.
+approximation suture (3)
+a deep suture for securing apposition of the deep tissue of a wound.
+automatic ridge suture
+see . mattress suture pattern
+braided suture (4)
+thin filaments braided into a single suture; has the virtues of strength, flexibility, ease of handling and good knot security.
+Bunnell suture (3)

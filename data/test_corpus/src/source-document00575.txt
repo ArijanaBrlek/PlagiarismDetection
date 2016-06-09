@@ -1,0 +1,4 @@
+Contacts Management System
+The Contacts Management System provides an easy and efficient way to manage contacts information without technical experience. NBCBN as a knowledge network involved with the Nile Basin countries depends on communication information of different types in all the Nile basin countries. This information ranges from NBCBN members personal contacts, NBCBN hosting institutes, different organizations in the basin (governmental, and NGO's) to Nile Basin Initiative (NBI) detailed contacts database including different projects and links under NBI. This system is an essential tool for managing different activities of the network secretariat, as it provides the following components
+  Quick Search
+Persons Organization

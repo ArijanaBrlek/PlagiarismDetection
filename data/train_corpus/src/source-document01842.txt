@@ -1,0 +1,5 @@
+Contacts
+FAQ: What is IN-SPIRE™?
+IN-SPIRE™ provides tools for exploring textual data, including Boolean and topical queries, term gisting, and time/trend analysis tools. This suite of tools allows the user to rapidly discover hidden information relationships by reading only pertinent documents. IN-SPIRE™ has been used to explore technical and patent literature, marketing and business documents, web data, accident and safety reports, newswire feeds and message traffic, and more. It has applications in many areas, including information analysis, strategic planning, and medical research. The goal of IN-SPIRE™ is to:
+Quickly create meaningful visualizations of the text documents
+Provide effective ways for you to explore and understand large collections of text without reading every document.

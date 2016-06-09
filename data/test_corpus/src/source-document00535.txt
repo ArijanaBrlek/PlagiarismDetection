@@ -1,0 +1,26 @@
+  Written by Chris Tom
+Sunday, 28 December 2008 02:14
+Notebook Check has the FSC Amilo SA3650 using the integrated video and also the XGP with a Radeon 3870. reviewed
+Representing the current performance demanding games with Direct X 10.0, the ego shooter Crysis came to use. Not surprising that the Amilo notebook with the system internal graphic throws the towel already at the lowest resolution of 800x600 and low graphic details of approx. 15 fps in the GPU benchmark test. For the Graphic Booster these settings proved to be no problem, delivering approx. 55 fps at the same settings. An elevation of the detail level to high as well as raising the resolution to 1024x768 pixels makes the ATI Mobility Radeon 3870 graphic in the Graphic Booster work up a sweat, too. The external graphic delivers merely 26 fps at these settings, which is definitely too low for smooth gaming pleasure. 
+Asus Knocks Apple To 7th Place
+  Written by Chris Tom
+Tuesday, 23 December 2008 21:31
+Asus has Apple out of 6th place in notebooks to 7th in shipments. Hilarious. The "flawless" computer company gets knocked off by a motherboard company that has never run an ad in the US outside of web banners. Pathetic. I'd love to see how much marketing money is spent per Apple laptop versus Asus laptop. I would love to see those numbers. knocked
+The research group doesn't explain Apple's shortfall, though the poorer performance arrived late into the lifecycle of early 2008 MacBook models. Acer, in contrast, is characterized as the fastest mover and grew 79 percent year over year helped in part by its shift towards netbooks like the Aspire One. ASUS has also moved quickly both through the use of the Eee PC line and its general focus on notebooks to claim sixth place above Apple. 
+AMD Losing out on Netbooks
+  Written by Matthew Cameron
+Friday, 05 December 2008 12:18
+The Inquirer that AMD is losing out big on the netbook scene. This might be the case when it comes to marketshare, but thankfully for the green team, there isn't much money in this segment. On the otherhand, AMD needs all the cash they can get. thinks
+Last Updated ( Saturday, 06 December 2008 05:24 )
+ 
+AMD CPUs in 3 of 10 Top Tablets
+  Written by Chris Tom
+Monday, 01 December 2008 15:29
+Tablet PC has their top 10 tablets list for November. AMD CPUs are in 3 HP models in the top 10. The top one remains the AMD powered Pavilion tx2500 that you can buy for only $849.99 with free shipping. This is the tablet you want if good graphics is your goal as it includes the 780G mobile chipset with Radeon HD 3200 graphics. released direct from HP here
+The HP Pavilion tx2500z tablet features an AMD Turion 64 X2 Dual-Core Mobile Technology processor, up to 4GB DDR2 system memory, ATI Mobile Radeon HD 3200 integrated graphics and a 12.1" WXGA touchscreen/active digitizer display. It still maintains the same solid design and features as its predecessor, the tx2000 as well. 
+Gayest Story Ever: Can Apple save the netbook?
+  Written by Chris Tom
+Monday, 01 December 2008 14:21
+Mac World has some on Mac saving the netbook. I will leave that to you to realize how retarded that title alone is. So retarded that I can't even make myself read it. idiot story
+Im a big fan of netbooksthe compact, lightweight, inexpensive laptops pioneered by Asus with its Eee PC line. Small, rugged, and yet full-featured enough for Web browsing and other light computing tasks, my Eee PC 901 has become a treasured companion for business travel. But the cost of newer netbook models has crept up, and many vendors are now offering standard-sized notebooks at rock-bottom prices, making the value of netbooks less clear. 
+More Articles...

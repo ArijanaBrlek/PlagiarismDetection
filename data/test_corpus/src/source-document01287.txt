@@ -1,0 +1,37 @@
+Difference Between Apple and PC keyboards
+Xah Lee, 2007
+This page discusses some difference of keysets and their function in and . Apple Computer's keyboards IBM PC keyboard
+A typical PC keyboard's keys.
+A typical Apple keyboard's keys.
+Ctrl, Alt/Option, Command, Windows keys
+On the PC keyboard, you have the Control, Windows, Alt keys. On Apple keyboard, you have Control, alt/option, Command keys.
+Although both Mac and Windows has the Control key, but they use is different. Also, both has the Alt key, their use is also different.
+Ctrl Key
+The in MS Windows function as keyboard shortcuts. For exampl, Copy is , Paste is . (On the Mac, Cmd key is used for keyboard shortcuts. Copy is , Paste is ) Control Key +Ctrlc+Ctrlp+c+p
+The control key under Macintosh is rarely used. When used in applications, it often function as a modifier in combination with other modifier keys. For example, in iTunes will iconify the window.++Ctrlz
+Alt Key
+The in MS Windows has 3 different uses: Alt key
+It used to invoke graphical menus. For example, pressing (and releasing) Alt by itself will invoke the graphical menu, then the user can press a alphabetic key to invoke a menu command or use arrow keys to navigate the menu.
+When pressed simultaneously with a key, it invoke a command directly. For example, closes the current window.+AltF4
+When pressed with and a letter, it inserts a special character such as .Ctrl
+The Mac's Options Key
+The (often labeled , , ) is used to type special characters, such as "" . For example, will type the bullet character " . The Option key is also used as a modifier key together with the Command key. For example, in invokes the command Hide Others in all Apple applications. Option key option%alt+%8++%h
+Windows Key
+The invokes the Start menu under Microsoft Windows. Windows key
+The Command Key
+The (labeled or ) on the Mac is used as a modifier key to invoke shortcuts. For example, is Copy. It is somewhat similar to MS Window's use of the Ctrl key. Command key cmd+c
+Return/Enter key
+On Apple's keyboards, there is the key on the main section, and there is a key on the numeric keypad. On PC, both these keys are labeled Enter . The difference here is purely a matter of labeling. The two Enter keys on PC actually send different scancodes. Return Enter key
+Return/Enter key-action's Convention on Mac
+On the Mac, the Return key and the Enter key usually serve the same function, but sometimes different. For example, in since at least version 2 (early 1990s), the Return key is used to insert a line break, but the Enter is used to execute the code in the current cell (Shift+Return does the same). On many chat clients such as and , user can set it up in so that the Return will insert a line break while the Enter key will send out the message. Mathematica Adium Colloquy (IRC client)
+Backspace Key
+On PC keyboards, there is a key on the main section, and a (often labeled Del) on the / key block. On Apple keyboards, both of these are labeled delete . This difference is just the key labeling and nothing more. Backspace Delete key HomeEnd
+Backspace Key Conventions
+The key located at the upper right corner (/) are used pretty much the same in both operating systems when in a text editing application. Specifically, it is used to delete texts to the left of the cursor. However, MS Windows also use the key to go back , such as going to a previous visited page in a browser. Only in recent years, Mac OS X's browsers also started to let the key do the same thing.BackspaceDelete
+Delete/Del Key
+The key located to the left of the key, labeled or , have different purposes. On Windows, that key is often used to actually delete things. For example, selecting a file, pressing , will put the file to the trash can. If in a word processor, the key will delete to the right of the cursor. On the Mac, from early 1990s to 2006, the Del key is usually a dead key (i.e. not used), even in a word processing environment. When there is a function assigned to it, it is used to delete to the right of the cursor.EndDeleteDelDel
+Insert vs Help
+On PC keyboards, there is the (often labeled Ins). On Apple keyboards, this key is labeled . This is just a labeling difference; They both send the same scancode. Insert key Help
+PrtScn ScrLk Break vs F13 F14 F15
+The PC has PrtScn, ScrLk, Break keys, while Apple's keyboards may or may not have them, or since about 2004 have F13, F14, F15 instead. These are just a labeling differences. Specifically, F13 is just PrtScn, etc.
+These keys have old history back to the 1980's (or earlier) and in general are not used since 1990, except on Windows the PrtScn key is for . These keys are basically never used in Mac (as i know of from 1992 to 2007), except that in recent years with OS X, Apple started to use F14 and F15 to decrease/increase the display's brightness. screenshot

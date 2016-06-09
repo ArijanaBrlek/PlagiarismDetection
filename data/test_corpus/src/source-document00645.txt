@@ -1,0 +1,47 @@
+  
+Freedom of Information Act (FOIA) Rights and Responsibilties
+| | | | | | Common exemptions to FOIA requests Making a Request for records from DMV Your FOIA Rights DMV's Responsibilities in Responding to Your Request Costs
+The Virginia Freedom of Information Act (FOIA), located at § et. seq. of the Code of Virginia, guarantees citizens of the Commonwealth and representatives of the media access to certain public records held by public bodies, public officials, and public employees. 2.2-3700
+A public record is any writing or recording - regardless of whether it is a paper record, an electronic file, an audio or video recording, or any other format - that is prepared or owned by, or in the possession of a public body or its officers, employees or agents in the transaction of public business. All public records are presumed to be open, and may only be withheld if a specific, statutory exemption applies.
+The release of information from the Department of Motor Vehicles (DMV) is also governed by the Federal Driver's Privacy Protection Act (18 USC §§ ) and by Va. Code §§ through 214. These statutes prohibit DMV from disclosing personal, driver, and vehicle information collected by it in the administration of the motor vehicle laws of Virginia, unless the release of such information meets one of the conditions specified in Va. Code §§ through 214 and applicable fees are paid. 2721 - 2725 46.2-208 46.2-208
+Your FOIA Rights
+You have the right to request to inspect receive copies of non-privileged public records, or both.or
+You have the right to request that any charges for the requested records be estimated in advance.
+If you believe that your FOIA rights have been violated, you may file a petition in district or circuit court to compel compliance with FOIA.
+[Back to Top]
+Common exemptions to FOIA requests
+The Code of Virginia allows DMV to withhold certain records from public disclosure. The DMV commonly withholds records subject to exemptions provided in the following statutes:
+The Federal Driver's Privacy Protection Act 18 USC §§ 2721-2725
+Virginia Code §§ through 46.2-214 46.2-208
+Personnel records (§ of the Code of Virginia) 2.2-3705.1(1)
+Records subject to attorney-client privilege (§ or attorney work product (§ 2.2-3705.1 (2)) 2.2-3705.1 (3))
+Vendor proprietary information (§ 2.2-3705.1 (6))
+Records relating to the negotiation and award of a contract, prior to a contract being awarded (§ 2.2-3705.1 (12))
+Those records exempted from FOIA requests by Virginia's FOIA statute (§ et seq.) 2.2-3700
+[Back to Top]
+Making a Request for records from DMV
+You may request records by U.S. Mail, fax, e-mail, in person, or over the phone. FOIA does not require that your request be in writing, nor do you need to specifically state that you are requesting records under FOIA.
+From a practical perspective, it may be helpful to both you and the person receiving your request to put your request in writing. This allows you to create a record of your request. It also gives us a clear statement of what records you are requesting, so that there is no misunderstanding over a verbal request. However, we cannot refuse to respond to your FOIA request if you elect to not put it in writing.
+Your request must identify the records you are seeking with "reasonable specificity". This is a common-sense standard. It does not refer to or limit the volume or number of records that you are requesting; instead, it requires that you be specific enough so that we can identify and locate the records that you are seeking.
+Your request must ask for existing records or documents. FOIA gives you a right to inspect or copy ; it does not apply to a situation where you are asking general questions about the work of DMV, nor does it require DMV to create a record that does not exist.records
+You may choose to receive electronic records in any format used by DMV in the regular course of business.
+For example, if you are requesting records maintained in an Excel database, you may elect to receive those records electronically, via e-mail or on a computer disk, or to receive a printed copy of those records
+If we have questions about your request, please cooperate with staff's efforts to clarify the type of records that you are seeking, or to attempt to reach a reasonable agreement about a response to a large request. Making a FOIA request is not an adversarial process, but we may need to discuss your request with you to ensure that we understand what records you are seeking.
+To request records from DMV, you may direct your request to Marta Morales. She can be reached at P.O. Office Box 27412, Richmond, VA 23220, phone: (804) 367-0671, fax: (804) 367-6631, e-mail: marta.morales@dmv.virginia.gov. In addition, the Freedom of Information Advisory Council is available to answer any questions you may have about FOIA. The Council may be contacted by e-mail at foiacouncil@leg.state.va.us, or by phone at (804) 225-3056 or [toll free] 1-866-448-4100. [Back to Top]
+DMV's Responsibilities in Responding to Your Request
+Unless otherwise exempted, DMV must respond to your request for information within five working days of receiving it. "Day One" is considered the day after your request is received. The five-day period does not include weekends or holidays.
+The reason behind your request for public records from DMV is irrelevant, and you do not have to state why you want the records before we respond to your request. FOIA does, however, allow DMV to ask you to provide your name and legal address.
+FOIA requires that DMV make one of the following responses to your request within the five-day time period:
+We provide you with the records that you have requested in their entirety.
+We withhold all of the records that you have requested, because all of the records are subject to a specific statutory exemption. If all of the records are being withheld, we must send you a response in writing. That writing must identify the volume and subject matter of the records being withheld, and state the specific section of the Code of Virginia or federal law that allows us to withhold the records.
+We provide some of the records that you have requested, but withhold other records. We cannot withhold an entire record if only a portion of it is subject to an exemption. In that instance, we may redact the portion of the record that may be withheld, and must provide you with the remainder of the record. We must provide you with a written response stating the specific section of the Code of Virginia that allows portions of the requested records to be withheld.
+We inform you in writing that the requested records cannot be found or do not exist (we do not have the records you want). However, if we know that another public body has the requested records, we must include contact information for the other public body in our response to you.
+If it is practically impossible for DMV to respond to your request within the five-day period, we must state this in writing, explaining the conditions that make the response impossible. This will allow us seven additional working days to respond to your request, giving us a total of 12 working days to respond to your request.
+If you make a request for a very large number of records, and we feel that we cannot provide the records to you within 12 days without disrupting our other organizational responsibilities, we may petition the court for additional time to respond to your request. However, DMV will make a reasonable effort to reach an agreement with you concerning your request for records before we go to court to ask for more time.
+[Back to Top]
+Costs
+You may have to pay for the records that you request from DMV. FOIA allows us to charge for the actual costs of responding to FOIA requests. This would include items like staff time spent searching for the requested records, copying costs, or any other costs directly related to supplying the requested records. It cannot include general overhead costs.
+If we estimate that it will cost more than $200 to respond to your request, we may require you to pay a deposit before proceeding with your request not to exceed the amount of the estimate, before proceeding with your request. The five days that we have to respond to your request does not include the time between when we ask for a deposit and when you respond.
+You may request that we estimate in advance the charges for supplying the records that you have requested. This will allow you to know about any costs upfront, or give you the opportunity to modify your request in an attempt to lower the estimated costs.
+If you owe DMV money from a previous FOIA request that has remained unpaid for more than 30 days, DMV may require payment of the past-due bill before it will respond to your new FOIA request.
+|  |  | P.O. Box 27412 Richmond, VA 23269

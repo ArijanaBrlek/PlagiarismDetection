@@ -1,0 +1,22 @@
+This feature requires Javascript to be enabled.
+Trombones
+The trombone is an orchestral brass aerophone with a tenor or bass range.Summary:
+Links
+Classifying Instruments
+Introduction
+The trombone is a medium-size with a fairly low . It is a mainstay of the brass section of orchestras, marching bands, and jazz bands. The feature that sets the trombone apart from other common instruments is its slide. cylindrical brass aerophone range Western
+This bass trombone has valves and extra tubing to help it get the lowest notes, as well as the moveable slide (out in front of the bell) common to all trombones.Figure 1:
+A Bass Trombone
+The Instrument
+Like other , the trombone has a , a main body of tubing, and a bell. The basically shape of the trombone's tubing (as opposed to the more conical baritones and tubas) gives the trombone a clear, direct, brassy sound that is very popular in jazz and band music. orchestral brass mouthpiece cylindrical
+The instrument changes pitch using a moveable section of tubing called the . As the slide moves out, the instrument gets longer, and the sound gets lower. You might be tempted to think this means that there is one note available for any possible position of the trombone's slide, but this is not the case. Most possible placements of a trombone slide give that sound wrong or out of tune, because they fall in between the notes of the . These in-between notes are only used when the trombone plays a , sliding between the notes on purpose. There are seven that do give scale notes. Having the slide all the way in is position 1; having the slide all the way out is position 7. The other positions are spread out in between, with several inches between one position and the next.
+slide
+glissando
+slide positions
+But of course, the trombone can get more than seven notes. Like the brass instruments that only have a few valves (trumpet and horn, for example), the trombone can use changes in the player's to get many different notes from a different at each position. embouchure harmonic series
+The trombone can play many different notes in each slide position; the figure shows only the lowest six notes possible for first and seventh positions. Each position gives the player a different of possible notes to play.Figure 2: harmonic series
+Seven positions, each a apart, will cover a (about half an octave). This is plenty everywhere in the trombone's range, except at the very bottom, in between the and the second harmonic, which are a whole apart. So some trombones - especially bass trombones - have an extra length of tubing opened by a valve (called the or ) that allows them to play the rest of that lowest octave. (If you want or need to understand this paragraph, and don't, please see .) half step tritone fundamental octave
+plug
+Harmonic Series
+Before brass were common, trombones were widely available in a variety of sizes (see ), but most of these are now rare. The trombone, for example, plays in the same as the modern , which has replaced it in most ensembles. Also rare are the trombone, which is even smaller and higher than the soprano, and the , the highest of all. The instrument that is now commonly called "the trombone" is the , which sounds one lower than the soprano/trumpet . The trombone section of most orchestras and bands will also have at least one , which has a deeper sound, a slightly lower range than the tenor, and a fuller, more focussed sound on low notes. The , which is smaller and higher than the tenor, but not as high as the soprano, and the , which sounds even lower than bass, are now rarely played. valved below
+soprano

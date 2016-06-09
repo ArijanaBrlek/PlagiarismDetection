@@ -1,0 +1,12 @@
+>> DLC Laboratories
+Satellite Navigation Laboratory
+The SatNav lab is devoted to research on satellite navigation/timing systems. The U.S. Global Positioning System (GPS) is most common, but efforts also include the Russian GLONASS system as well as the developing European Galileo and Chinese Compass systems. Research activities involve all aspects of these systems from satellite orbits to antenna/receiver design and signal processing. The laboratory includes a number of Global Navigation Satellite System (GNSS) receivers and components as well as a full constellation GPS simulator.
+Researchers are looking at ways to augment and improve the ability to use GPS in challenging environments, such as downtown urban canyons, where it is often difficult to get a continuous line-of-sight signal from the GPS satellites. Inertial sensors, such as the low-cost accelerometers that are becoming more popular in mobile phones, offer a means to sense accelerations (and thus velocities and position). If this information can be integrated with that from the satellite measurements, the result will be a robust, low-cost navigation system.GPS/INS Integration
+With GPS becoming a more critical infrastructure for applications such as automobile/emergency vehicle guidance, aircraft landing systems, and cellular and banking timing, it is important that any interference sources be quickly detected and have their location determined so they can be shut down and normal operations enabled. This project is looking at a means to detect interference with the GPS radio band and to develop low-cost GPS receivers that can be networked to form an interference net for detection/localization purposes.Detection and Localization of GPS Interference Sources
+Oscar Isoz 303-735-1935Contact
+oscar.isoz@colorado.edu
+ 
+Marcus Wilkerson holds a data recorder that channels GPS information from an antenna to the receiver where it is processed.
+Marcus Wilkerson, aerospace engineering undergraduate
+"The work I did involved analyzing the orbital positions of various GPS satellites and building a controller for a 60-foot radio dish on Table Mountain near Boulder. Another large project was adapting a CU-developed GPS receiver's software/firmware to work with a new version of the hardware. The experience was great for me. I joined in my senior year, and my only regret was not getting involved sooner.
+ 

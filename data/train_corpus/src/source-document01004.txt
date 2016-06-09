@@ -1,0 +1,61 @@
+About me
+About me
+My personal blog space. I will try to keep it up to date, most probably with information about open source software development from my part.
+If you want to contact me directly you can send an e-mail to maurits.rijk@gmail.com
+20 Comments »
+Hi I’m the author of the neochrome plug-in for the Gimp 1.0 (inspired by the Degas version). Great to see that a version exists for the Gimp 2.0. I’ll give it a try once. – Alain
+Comment by — June 16, 2007Alain #
+Well, thanks to your clean code it was easy to port the plug-in to C#.
+Comment by — June 21, 2007 maurits #
+Hi, I installed GIMP# and I can find it in the Xtns menu. I use GIMP 2.2.17. I placed a Photoshop action in the folder D:\Program Files\GIMP-2.0\share\gimp\2.0\scripts (, but it does not show up when opening the item “Photoshop Actions…” under the Xtns menu. My OS is Windows XP. I used gimp-sharp_setup_0_10.exe to install GIMP#, because I do not know how to use the tar.gz files. Can you help me? Henrik
+http://www.2morrow.dk/75ppi/coolpix/actions/default.htm)
+Comment by — July 24, 2007 Henrik #
+@Henrik: thanks for the feedback. I mailed you some more details, but in general the Photoshop actions don’t work in the win32 version of GIMP# 0.10 because of a bug. This is fixed, but we don’t have a more recent version of the win32 installer yet
+Comment by — July 25, 2007 maurits #
+Hi. I’ve been porting various gimp-plugins and the like to Windows for a few months now, and I see that there is not yet a binary for the .12 release. I tried building it myself, but couldn’t get too far (might be some problems with Mono, as I used the binaries and whatnot from the installer.) After a bit of fiddling around, I finally did get it to produce some executables, but they would explode (meaning, fatal crash) upon use. Do you think you could help with this at all?
+Comment by — August 8, 2007Commodore Guff #
+@Commodore Guff: I’m not really familiar with any win32 development. Make sure that you don’t have any old dll’s (gimp-sharp.dll) or .exe’s in your GIMP plug-in directory. If that still doesn’t work, I would suggest to take just one single plug-in (for example ncp.exe) and gimp-sharp.dll. I think that the installer also puts gtk-sharp, glib-sharp, etc. into the plug-in directory, but I’m not completely sure about that.
+Do the plug-ins already crash when GIMP initializes them or only when you try to run them?
+Comment by — August 9, 2007 maurits #
+Yes, they crash during initialization. Come to think of it, though, I’m not sure if any of that was in the installation directory. I’ll have to try again later.
+Comment by — August 9, 2007Commodore Guff #
+Well, after a lot of trial and error, they’re sort-of-kind-of-partially-working. In a way. They register properly, do not crash during initialization, display the little images next to their names, and I think all of them actually display their dialogs. However, the previews for most are completely blacked out, and the only plug-in that finishes without crashing is Ministeck. The Photoshop actions thing might work, though, but I’m not exactly sure what it’s meant to do.
+Any idea of who could possibly help with this? Who built the .10 release on Windows?
+Comment by — August 13, 2007Commodore Guff #
+Hey there
+I saw that you have few mentions of C# in your posts. Are there any examples of actually using the GIMP library with some C# code to perform any operations?Like cutting image in multiple pieces, resizing and so on?
+I am just looking at the GIMP library at the moment and trying to find some starting points.
+Thanks so much for the help.
+Comment by — October 15, 2007Dan #
+Hi Dan, if you download the GIMP# sourcecode and look in the plug-in directory, you will find many examples. For example the SliceTool has code to cut images.
+Beware that you can only use the GIMP library from within a plug-in. It’s not the usual library you just link against, but you need run your application from within a running GIMP context.
+If you need a very easy to understand example of writing a plug-in, I would suggest you look at the AverageBlur code. If you need any help, don’t hesitate to contact me.
+Comment by — October 15, 2007 maurits #
+I just got the source code.
+Is there any full example,like a C# project that compiles and uses one of the tools?
+I am just trying to get my head around it and its all new to me at the moment.
+I would need to have gimp installed too right?
+Cheers
+Comment by — October 16, 2007Dan #
+Hi Dan, GIMP# only supplies a binding to the GIMP library and some plug-ins. You will need to have GIMP installed.
+Comment by — October 16, 2007 maurits #
+Hi there, I noticed that a lot of people seems to have praises for GIMP#. However I am a windows user and I am quite impressed with the latest release of GIMP 2.4. Now if only I can get a windows version of GIMP #…
+Comment by — October 27, 2007John #
+@John: currently the win32 support is lacking. The last release for Windows is quite old and the maintainer doesn’t have time at the moment to make an update. Hopefully this will change in the (near) future, but I can’t give any guarantees, I’m afraid.
+Comment by — October 29, 2007 maurits #
+Hello,
+I see you’ve done a lot of work with PS actions and the Gimp. I wonder if you could point me in the right direction? I can’t afford PS CS+ only PSE 5. Thus,I don’t have the ability to create, edit, or adapt atn files into PSE 5. Short of a HEX editor, really to native for me, what can I use to do this with?
+Many Thanks,
+Glenn
+Comment by — November 6, 2007 Glenn Forrest #
+@Glenn: the only option I’m offering right now for GIMP is to read and play .atn files. GIMP doesn’t have a macro recording facility yet. In the future I could add functionality to edit atn files, but creating will be difficult without the GIMP infrastructure to support this.
+Comment by — November 6, 2007 maurits #
+Hi, how much work would it be, to maintain the windows version? I have some preknowledge in programming, but not too much Is there something like a tutorial, about what has to be done to compile it on windows? best regards michael
+Comment by — November 22, 2007michael #
+@Michael: creating a windows version is not that difficult, I guess. Most if not all of the code is portable. Biggest task is to set up the development environment on Windows and creating an installer. Massimo Perga (the guy that created the previous installers) has put a short manual on the GIMP# sourceforge site, but that might be somewhat outdated.
+Comment by — November 22, 2007 Maurits #
+@zomers: you mean ??? but there is nothing there, at least I don’t see any information there, only 5 headlines… best michael http://sourceforge.net/docman/display_doc.php?docid=31352&group_id=117667
+Comment by — November 22, 2007michael #
+@michael: hm, there used to be a more complete document there. Let me check if I still can find the original somewhere.
+Comment by — November 26, 2007 maurits #
+Leave a comment

@@ -1,0 +1,44 @@
+The glory of "Go Fish!"
+(Producers: Xiaoyuan Tu, Demetri Terzopoulos, Eugene Fiume)
+Presented in
+ACM SIGGRAPH Video ReviewIssue 91: SIGGRAPH'93 Electronic Theater;
+Selected and shown at the
+SIGGRAPH'93 Electronic Theatre Evening Show, Anaheim, CA, August, 1993;
+Selected and shown at the
+Graphics Interface'93 Electronic Theatre, Toronto, ON, May, 1993;
+In
+Imagina93/94 home video & videodisk, INA Entreprise, France;
+Presented at the
+Premio Immagine'93 InternationalEvening of Virtual Images, Milan, Italy, October, 1993;
+Won the
+Canadian Academy of Multimedia and Arts Awardfor "Technical Excellence", presented at the Digital Media Awards show, Toronto, May, 1994;
+Presented at
+ICOGRAPHICS'94 Creative Computing Theatre(and videocatalogue), March, 1994;
+Broadcast on the Fuji Television Network on September 21, 1993 in
+Supertime, the most popular evening news program in the Tokyo area;
+Broadcast on
+Television Espanola, the main Spanish TV station, in the program"Metropolis", October, 1993;
+Broadcast on the Canal+ Television Network in Europe, 1994;
+Selected by the Japan Graphics Design Association for presentation at the
+JAGDA Film & Video Show, Tokyo, March, 1994;
+On public display as part of the 1993-94 exhibit at the ``Vente'' exhibition hall, Fujita, Corp., head offices, Tokyo.
+Broadcast on CITY-TV, Toronto, in the program
+Media Television, June, 1994;
+NSTVon Cable69, New York, NY, Octorber 16, 1994.
+Runner-up for an award in the research category on
+The London Effects & Animation Festival, London, England, Nov., 1994.
+Broadcast on the
+Discovery Channel,in the pilot programE-scape Velocity, Canada, January, 2ed, 1995.
+Broadcast on the CBC Network in the program
+Decouverte(in French), worldwide, January, 15th, 1995.
+Broadcast on the
+Evolution No. 8, Episode 14, Japan, Febuary, 4th, 1995.
+Broadcast on the NHK Television Network in
+The Technology of the 20th Century(premiere program), Japan, April, 17th, 1995.
+The glory of "A National Geo-Graphics Society Special: The Undersea World of Jack Cousto".
+(Producers: Xiaoyuan Tu, Radek Grzeszczuk, Demetri Terzopoulos)
+Presentations
+SIGGRAPH'95 Electronic Theater, Los Angeles, August, 1995.
+NICOGRAPH'95 Computer Graphics Filmshow, Tokyo, Japan, November, 1995.
+Toronto Computer Animation Festival, Toronto, Canada, February, 1996
+International Scientific Film Festival

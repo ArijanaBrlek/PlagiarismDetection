@@ -1,0 +1,14 @@
+Lots of updates to Yahoo Maps
+Yahoo has been pretty quiet lately about their Maps, compared to Google and Microsoft. Today they finally have some news.
+As reported by and posted on the , here is what has been added: Search Engine Land Yahoo Local & Maps Blog
+New Neighborhood Data at lower zoom levels with:
+> 300 cities with new neighborhood data added throughout North America, from Palo Alto, to Chicago, to Toronto, etc.
+> 12,000 new neighborhood added, from Lower East Side (New York, Milwaukee, Bridgeport) to Lower Collegetown (Ithaca)
+Expanded Worldwide Coverage with much improved coverage, especially throughout Eastern Europe
+New POI information - highlighting Schools, Rest areas, Ski Resorts, etc.
+Additional shaded relief levels worldwide
+City label density increased for better usability
+Style improvements such as Hybrid Road and Label colors adjusted for better legibility
+Lighter map tiles  with an average of 30-60% reduction in size
+Nothing too exciting in there, but it’s pretty nice update nonetheless.
+Share and Enjoy:

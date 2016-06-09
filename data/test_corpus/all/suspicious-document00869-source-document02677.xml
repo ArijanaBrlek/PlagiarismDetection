@@ -1,0 +1,4 @@
+<document reference="suspicious-document00869.txt">
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.4789241799914239" source_length="673" source_offset="0" source_reference="source-document02677.txt" this_length="673" this_offset="9202" type="artificial" />
+<feature name="plagiarism" obfuscation="random" obfuscation_degree="0.5097172295499938" source_length="636" source_offset="776" source_reference="source-document02677.txt" this_length="713" this_offset="31210" type="artificial" />
+</document>

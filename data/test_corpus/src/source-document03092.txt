@@ -1,0 +1,11 @@
+Title: System: Region:
+Atari 7800 Hardware
+While the 7800 can use the extensive library of 2600 peripherals and accessories, very few items were made specifically for the system. In the same vein, there is not an extensive catalog of prototype items either. Very few unreleased games have been discovered, and there is only a handful of hardware, but there are certainly some interesting items. In most cases you can click the image for a larger picture.
+Picture
+Description
+The Atari 7800. There are several variations of this machine, the notable difference being the presence of the expansion slot on the left side of the console. This expansion slot only appeared on early versions of the 7800, and unfortunately no hardware was ever released to take advantage of it. Some later versions of the 7800 have compatibility problems with a select few 2600 cartridges, most notably Robot Tank, Decathlon, Space Shuttle, Time Pilot, Kool-Aid Man and the Supercharger. Outside of North America, the 7800 was released with Asteroids built-in to the ROM OS. In Australia and New Zealand, it included the 32-in-1 game cartridge as a pack-in.Atari 7800
+This is the specially designed joystick that was included with the 7800. It has the advantage of two independently functioning fire buttons, but suffers from an awkward design that makes it uncomfortable.Atari Proline Joystick
+Similar to an NES controller, this Atari-made gamepad was the pack-in for the 7800 when it was sold in Europe. Although rare in the US, they are not hard to find in Europe. However, they were sold separately in very small quantities in their own box, and this is very hard to find.Atari Joypad
+Announced at the beginning of the Atari 7800 launch in 1984, Atari never released this product. In 2000, Curt Vendel and Gary Rubio restarted this project and actually brought it to market in limited quantities. It's a piggy-back cartridge that allows you to record your high score, but it's only compatible with certain cartridges.Atari High Score Cartridge
+Atari didn't make a gun specifically for the 7800, so owners had to purchase the XE gun that is fully compatible.Atari XE Light Gun
+Available from , this is similar to the standard 7800 controller, but is a bit sturdier, and also features auto-fire.Best Joystick

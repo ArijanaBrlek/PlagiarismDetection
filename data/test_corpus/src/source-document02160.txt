@@ -1,0 +1,23 @@
+$
+Transmission Media
+Data is transmitted over copper wires, fiber optic cable, radio and microwaves. The term 'media' is used to generically refer to the physical connectors, wires or devices used to plug things together.
+Basic Communications Media Types
+COPPER
+Coaxial Cabling
+Coaxial cabling is used in bus-style Ethernet networks. Coaxial cable consists of a copper wire core surrounded by a plastic cladding sheathed in a wire mesh. Coaxial cable comes in two sizes which are called andthinnetthicknet.
+Unshielded Twisted Pair (UTP)
+If you use two pairs of wires to enable two communications circuits, one for transmit, and one for receive. If you twist the wires of each pair, you can place them much closer together. There are several grades of coaxial cable with category ratings. There are Category 3 (<10 Mbps), Category 5 (10 Mbps), Category 5e (10/100 Mbps) and Category 6 (100/1000 Mbps) versions of unshielded twisted pair.
+Fiber Optic
+Single Mode
+Single mode fiber refers to the fact that only a single wavelength (one color of light) is transmitted over the physical medium. Typically, single mode fiber is true doped fiberglass fibers wrapped in a plastic cladding. Single mode typically has much longer reach, but a larger bend radius than multi-mode.
+Dispersion Shifted
+Non-Zero Dispersion-Shifted
+Multi-Mode
+Multi-mode fiber can carry multiple wavelengths, is made of special clear plastic materials and has a much smaller bend radius than single mode fiber. Multi-mode does not have as long a reach as single mode fiber.
+Step Index
+Graded-Index
+Infra-Red
+There are many systems today using infra-red communications. This is usually a directional infrared light signal transmitted into the air and received by nearby devices. Such systems came into use in the early 90's for use with laptops, printers and later in the 90's with cameras and handhelds.
+Radio and Microwave
+Last of all, but certainly not least are radio and microwave signals. These are the signals we think of as being radio, television and satellite, but they are now being put to use in wireless Ethernet and Bluetooth communications technologies.
+ 

@@ -1,0 +1,8 @@
+The Summer 2002 issue of magazine has more information about global navigation and GPS. Crosslink
+GPS Primer
+The Global Positioning System:
+An Amazing Tool
+Imagine being an archeologist on an expedition to the Yucatan Peninsula in Mexico. After preparing for your trip for months, you are certain that somewhere close by are the ruins of villages once inhabited by Mayan Indians. The forest is dense, the sun is hot, and the air is moist and humid. The only way back to civilization is by using the power of the small GPS receiver you carry with you.
+Or let's suppose you are an oceanographer for the International Ice Patrol, responsible for finding icebergs that form in the cold waters of the northern Atlantic Ocean. Some of the icebergs are 50 miles long. More than 300 of them form every winter, and they are a major threat to the ships that travel those waters. Using a GPS receiver, you are able to help ships avoid disaster by zeroing in on the position of the icebergs and notifying ship captains of their locations, perhaps averting disaster.
+Someday soon every car on the road could be equipped with a navigation and communication system. The in-dash monitor would provide a full-color display of your location and a map of nearby roads. A computer-generated voice would guide you to your destination. In the event of an accident the car would use its built-in cell phone to call local emergency services and tell them where you are. At its heart will be a GPS receiver. Systems as advanced as this one are already available in some cars.
+ 

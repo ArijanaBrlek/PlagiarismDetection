@@ -1,0 +1,15 @@
+Resources for IT pros
+Demo: Watch, pause, and record TV on your PC
+Watch this demo to learn how to watch, pause, and record TV on your computer using Windows Media Center.
+Read the transcript
+These days, just about everyone listens to music on their computer. But did you know you can also use your computer to watch and record TV? Hi, Im Andy Myers, a writer on the Windows team, and Im going to show you how to use your computer as a DVR so youll never miss your favorite TV shows again.
+With the right setup, its possible to watch and record TV on a laptopbut Im going to show you how to do it on a desktop computer. Ive even connected my computer to a plasma TV to show what a real home theater experience can be like.
+Before you get started, youll need three things: A computer running either Windows Vista Home Premium or Windows Vista Ultimate, a TV signal, and a TV tuner. My PC came a with built-in TV tuner, but if yours didn't, you might be able to add one. You can learn more about this in Windows Help.
+Because I have cable TV, I can just plug the TV signal from the wall directly into the back of my computer.
+Now I need to start Windows Media Center and set up my TV signal. Ill press the green button on the Media Center remote that came with my computer.
+From the start screen, Ill scroll to , click , click , and then click so Media Center knows what programs are on what channels. Dont worryyoull only have to do this once.TasksSettingsTVSet Up TV Signal
+Now comes the fun part. From the start screen, Ill scroll to , click , and then click . There are a lot of ways to find your favorite TV programs in Media CenterIll use the Guide. Next, I find the program that I want to record, and then click the button on my remote. If its part of a series, I can click the button on my remote, and then click . You can add as many recordings as you likeor as many as will fit on your hard drive, at least.TV and MoviesRecorded TVAdd RecordingRecordMoreRecord Series
+Now Ill go back to the Recorded TV screenall the programs Ive recorded will show up here. I can watch them in any order I like, pause for a break, and even fast-forward through commercials.
+And if I dont want to watch recorded programs, I can always choose a live program instead. Media Center even lets you pause and rewind live TV.
+Thats it! After youre set up, watching and recording TV on your computer is just a couple remote clicks away.
+See also

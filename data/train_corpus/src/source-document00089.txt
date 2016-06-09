@@ -1,0 +1,7 @@
+6 Extras
+How is watching Live football possible?
+There are still more then a few countries around the world where PPV has not yet been established, and football is televised for free. Broadcasts of some of the TV stations in these countries are available via video streams on the internet.
+How good is the Quality of the live streams?
+The quality depends on the rate at which video streams are transmitted. This quality is measured by the same units measuring how broad you internet connection is: Kb/Sec. Most streams are transmitted at a quality of between 100Kb/Sec and 400 Kb/sec, so if your connection is somewhere around 750Kbs there is no need to rush off and pay for a broader connection package. 400Kb/sec is more or less the rate at which it is possible to watch the video stream on a full screen in reasonable quality. For quality lesser than that, the size of the media player's window has to be reduced.
+Sounds too good to be true!
+While this method might be a good alternative to the good old TV set, there are still some problems associated with it. Millions of people around the world are trying to connect to the servers broadcasting the streams, just as you are. These servers are not designed to support such a large number of users, so the load on them in imense. The number of users each of those servers can support is limited, and sometimes even if you manage to connect to one, the high traffic might impair its functionality, in some cases causing it to crash.

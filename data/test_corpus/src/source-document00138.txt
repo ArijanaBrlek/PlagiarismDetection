@@ -1,0 +1,17 @@
+Related Links
+Support Architecture for Large-Scale Subsurface Analysis (SALSSA)
+In this Scidac SAP, we are developing a process integration framework that combines and extends leading edge technologies for process automation, data and metadata management, and large-scale data visualization. The extensible framework will support the creation and execution of workflows for data preparation, model execution on a variety of compute resources, and model validation. Records of workflow executions and resultant data will be tracked. A variety of existing visualization and analysis tools, including parallel capable tools, will be integrated into the framework and accessible from workflows or for use in later analyses. We also plan to investigate new ways to visualize the hybrid model data sets.
+SALSSA Software
+To date we have created several development versions of the SALSSA data management and workflow environment. These versions are prototypes intended for use by project staff and collaborators in testing and development. The software will be made publicly available in 2008. Please see the posters and papers under the presentations and papers links for more information.
+SALSSA 2.2 (Feb 09) This version will support launching jobs to queued machines, in particular, the EMSL chinook machine. Also supported will be the current SPH codes along with tools to visualize results and to control the disposition of the very large outputs associated with the SPH runs.
+SALSSA v2.0 (Sep 08) This prototype provides a graph-based view of activities. The activities can be chained together to an arbitrary depth and complexity. Jobs can be run to multiple workstations. The data management and provenance is based fully on rdf relationships. SALSSA v2.0 has been tested by running several of the simulations described on the page, and has been provided to Idaho National Laboratory collaborators for use in performing additional design simulations. Benchmark Application
+SALSSA v1.0 (Jan 08) An initial prototype with the capability to set up STOMP parameter studies, run jobs to workstations, and view the runs, jobs, and job files.
+Additional Information
+Karen Schuchardt, Pacific Northwest National Laboratory (PI) karen.schuchardt@pnl.gov
+Jeff Daily, Pacific Northwest National Laboratory
+Todd Elsethagen, Pacific Northwest National Laboratory
+Jared Chase, Pacific Northwest National Laboratory
+Vicky Freedman, Pacific Northwest National Laboratory
+Past Contributors
+Lisong Sun Gary Black, PNNL
+>>

@@ -1,0 +1,25 @@
+[] edit Indications
+Iron supplements are used in to treat . medicine iron-deficiency anemia
+First, it must be clear that iron deficiency and not another factor (e.g. chronic, low-grade, undetected blood loss such as ) causes the anemia. Preventive measures must be discussed with the patient (for example when the patient is on a because inorganic iron in plants has a lower , or elderly patients with a poor diet). fecal occult blood strict vegetarian diet bioavailability
+Another indication for giving extra iron is the second and third trimester of , generally in association with . Indeed, in some condition like growth, menstruation and pregnancy, the body's need for iron is increased. Supplements may be needed to reach life goals. pregnancy folic acid RDA [1]
+[] edit Administration
+Iron can be supplemented using various pharmacological forms, such as (this is the most common and cheapest , e.g. Feratab, Fer-Iron, Slow-FE, ) and in complex with , , , and other salts. Sometimes is added for better absorption. iron(II) sulphate salt gluconate dextran carbonyl iron ascorbic acid
+Generally, iron supplementation therapy is an oral therapy, and iron therapy (intravenously or intramuscular) is only given when resorption is seriously compromised (by illnesses, or when the patient cannot swallow) and benefit from oral therapy cannot be expected. It is more expensive and has increased . parenteral morbidity
+Heme iron polypeptide can be used when regular iron supplements such as ferrous sulfate or ferrous fumarate are not tolerated or absorbed. A clinical study demonstrated that HIP increased serum iron levels 23 times greater than ferrous fumarate on a milligram-per-milligram basis. [2]
+Since iron stores in the body are generally depleted, and there is a limit to what the body can process (about 100mg per day) without , this is a chronic therapy which may take 3-6 months. In some conditions (e.g. after ), in which there is production of by the of the is complicated), even permanent iron substitution is necessary. iron poisoning gastrectomy intrinsic factor parietal cells stomach
+Patients at risk of acute complications may be candidates for . Patients with may benefit from . transfusion anemia of chronic disease erythropoietin
+[] edit Side effects
+Side effects of therapy with iron are most often or and abdominal discomfort. Taken after a meal, side effects decrease but there is an increased risk of interaction with other substances. Side effects are , and the dose may be adjusted. diarrhea constipation epigastric dose-dependent
+The patient may notice that his/her stools become black. This is completely harmless, but patients must be warned about this to avoid unnecessary concern. When iron supplements are given in a liquid form, teeth may reversibly discolor (this can be avoided through the use of a straw). Intramuscular injection can be painful, and brown discoloration may be noticed.
+When resumes, other essentials for this process (such as or ) may be depleted, and care must be taken to avoid deficiencies of these elements. haematopoiesis folic acid vitamin B12
+Treatments with have higher incidence of adverse events than iron(III)-hydroxide polymaltose complex (IPC) or iron bis-glycinate chelate. iron(II) sulfate [3] [4] [5] [6] [7]
+[] edit Contraindications
+Documented and anemias without proper work-up (i.e. documentation of iron deficiency). Hypersensitivity reactions can be very dramatic if iron is administered intravenously. hypersensitivity
+[] edit Interactions
+Iron forms an insoluble complex with several other drugs, resulting in decreased absorption of both iron and the other drug. Examples include , , , , and . The same can occur with elements in food, such as . Absorption of iron is better at a low pH (an acid environment), and resorption is decreased if there is a simultaneous intake of antacids, phosphates, etc. tetracycline penicillamine methyldopa levodopa bisphosphonates quinolones calcium
+from foods, such as and , reduce absorption of iron. Tannins tea saw palmetto
+Taken after a meal, there are fewer side effects but there is also less absorption because of interaction and pH alteration. Generally, an interval of 2-3h between the iron intake and that of other drugs seems advisable.
+[] edit Precautions
+Children who ingest tablets may become intoxicated, in which case they should be taken to an emergency department. Some formulations (like carbonyl-iron) may be safer.
+[] edit Follow-up
+Follow-up is needed to ensure compliance and to detect adequate response to therapy. If not, this may indicate another cause of anemia. , percentage, , and (the latter three being signs of ) should increase. Haematocrit reticulocyte MCV MCH MCHC microcytic anemia

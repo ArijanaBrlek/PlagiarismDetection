@@ -1,0 +1,8 @@
+Data Intensive Computing
+Research Area: Analytic Algorithms
+Analytical processes are necessary to perform assessments of the data, to identify patterns and anomalies, and to provide feature identification and classification. One of the key outcomes is to perform these analysis processes to the data stream. Performing the analysis in real time requires the ability to analyze data as they are collected. By developing techniques to perform real-time analyses on data before they are stored, we can reduce data transfer size and provide an intermediate product that expedites the time-to-solution for critical processes that require immediate decisions. Additionally, by assessing the output of these algorithms, the workflow for a specific problem may be dynamically adapted.in situ
+Projects that support this R&D capability:
+High Performance Data Analysis Tools for Intelligent Mass Spectrometry Pipelines
+CLIQUE: Correlation Layers for Information Query and Exploration
+Adaptive Composite Analysis for Complex Systems
+Data Intensive Machine Learning for Real-Time Decision Analysis

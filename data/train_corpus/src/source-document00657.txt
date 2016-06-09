@@ -1,0 +1,14 @@
+places: Hudson river valley, New York state, NY
+news: report reports rides trip trips road roads condition conditions
+regions: Mid-Hudson Catskills Catskill region Wallkill area areas
+counties: Dutchess Rockland Orange Ulster Greene Westchester Putnam Columbia county
+towns:  Poughkeepsie Rhinebeck New Paltz Woodstock Kingston Manhattan -- city town village
+bicycling: bicycle bicycling bike bikes bicycles bicyclist cycle cyclist cycling touring riding rider riders
+routes: route routes ride rides tour tours turn cue sheet sheets map maps
+Where to Look News Exploring FAQ About Us more
+To send us a question or idea about bicycling, please post it to one of the that we read.  For technical website concerns or send us a correction or update to info on this website, see the -- -- Homepage is Hudson valley discussion groups contact information www.roberts-1.com/bikehudson
+ Copyright 1999-2002 Kenneth S. Roberts. - - see the Terms of Use
+ 
+Samplelink
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+[ This text is just to potentially fill up width space to help the browser format the left menucol better. You're not supposed to see it in your browser screen display or on your printed paper output. If you do see it or notice it, it shouldn't cause any problem with your use of this website. But you could let us know about how you experienced it. ]

@@ -1,0 +1,32 @@
+Posts: 2
+Install wireless apple mousu and keyboard to Windows??
+Hi you all, I have two computers mac and windows computers. And I bought apples wireless mouse and keyboard, so I would need any machine to devide those for two computeres. Well the problems is that I can't install those to windows xp. I have heard that it's somehow possible, but how?? Can someone hepl me with that problem??
+Offline
+Posts: 360
+Re: Install wireless apple mousu and keyboard to Windows??
+Try downloading Boot Camp and burning the driver disc. It contains Windows XP drivers for all the Apple keyboards and mice, and it should work for using your gear on Windows.
+Current Toys: B&W PowerMac G3 300MHz, 768 MB RAM, 21GB HD, Mac Mini Intel Core Duo 1.66GHz, 2048MB RAM, 60GB HDD, iPhone 3G (8GB), Sony PSP, Sony PS3 (40GB)
+Offline
+Posts: 2
+Re: Install wireless apple mousu and keyboard to Windows??
+Do I need Intel based mac computer for doing that? Or is that somehow possible to burn the driver cd with old not intel Mac?
+Offline
+Re: Install wireless apple mousu and keyboard to Windows??
+Yes, and the windows machine must be able to support bluetooth.
+Regards, Art in Baton Rouge, art743@mac.com Mac Pro, ATI 3870, 30in Mac, 24in HP, RAID, XP in Boot Camp.
+Offline
+Re: Install wireless apple mousu and keyboard to Windows??
+Art743 wrote:
+Yes, and the windows machine must be able to support bluetooth.
+Given the fact that windows supports every Apple USB keyboard & mouse... I am guessing it's a bluetooth issue unless told otherwise
+Last edited by mrreet2001 (2007-04-25 12:22 pm)
+2.2Ghz BlackMB---15" 2.4Ghz MBP(work)---Dual 2.3Ghz G5 (4G Ram, 2x 250G HD)---1.5GHz Powerbook---1.6Ghz G5 iMac ---500Mhz iMac DV 2.4GHz PC --- 1.2Ghz PC laptop
+Offline
+Posts: 3736
+Re: Install wireless apple mousu and keyboard to Windows??
+The only thing about Boot Camp is that it will install a custom graphics driver (and possibly other stuff) that only applies to Intel Macs; not generic PCs.  You should reinstall your correct graphics driver after you install the Boot Camp drivers.
+while (1) {fork();}
+Website
+Re: Install wireless apple mousu and keyboard to Windows??
+Last I checked the bootcamp drivers checked to make sure it was an Intel-mac, and didn't install if it wasn't. My PC didn't work too great with bluetooth, so I had luck plugging the bluetooth dongle into my mac, pairing my keyboard, then putting the dongle in the PC. But you should be able to pair just fine if your PC works with other bluetooth devices.
+Offline

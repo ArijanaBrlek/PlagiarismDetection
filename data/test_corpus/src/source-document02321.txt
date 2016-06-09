@@ -1,0 +1,10 @@
+break. (this is often redundant and therefore left off) Syllable
+Brackets
+Two types of brackets are commonly used to enclose transcriptions in the IPA:
+[Square brackets] indicate the details of the pronunciation, regardless of whether they are actually meaningful to a native speaker. This is what a foreigner who does not know the structure of a language might hear. For instance, the English word is pronounced , with different el sounds at the beginning and end. This may be obvious to speakers of other languages, though a native English speaker might not believe it. Likewise, Spanish has two different sounds to foreign ears, , though a Spaniard might not be able to hear it. Omitting such detail does not make any difference to the identity of the word. phonetic lulls[ l z]la bombab[la omba]
+/Slashes/ indicate meaningful sounds called . Changing the symbols between slashes would either change the identity of the word or produce nonsense. Since there is no meaningful difference between the two el sounds in the word they need to be transcribed with the same symbol: . Similarly, Spanish is transcribed phonemically with a single sound, . Thus a reader who is not familiar with the language in question might not know how to interpret these transcriptions. phonemes lulls,/ l lz/la bombab/la bomba/
+A third kind of bracket is occasionally seen:
+Either //double slashes// or |pipes| (or occasionally other conventions) show that the enclosed sounds are theoretical constructs that aren't actually heard. (This is part of .) For instance, most phonologists argue that that the at the ends of verbs, which surfaces as either in or as in , has a single underlying form. If they decide this form is an they would write it //s// (or |s|) to claim that phonemic and are essentially and underneath. If they were to decide it was essentially the latter, //z//, they would transcribe these words and . morphophonology -s/s/talks/t ks//z/lulls/l lz/s,/t ks//l lz///t ks////l ls////t kz////l lz//
+Lastly,
+<Angle brackets> may be used to represent the original : <lulls>, <la bomba>. orthography
+Outside links

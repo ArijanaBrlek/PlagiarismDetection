@@ -1,0 +1,20 @@
+User Rating
+out of 108.0
+Guide to Map Design SoftwareFind your way to a great map designing program without spending a dime
+By KB Gibson
+Map design software can cost hundreds of dollars if you buy one on the retail market. Add the cost of yearly upgrades and you’re talking about a sizable investment. However, you may be able to find just what you need through free map designing software programs and tools. Use free map design software to: 1. Edit existing road maps to meet your specific needs. 2. Create plat maps for new real estate developments. 3. Generate aerial maps of towns, subdivisions and individual streets. The best contacts and resources to help you get it done Helpful advice for making the most of this Guide
+Action Steps
+Download free map making software and tools from shareware sites. keeps up-to-date information on free programs and map services, including web map clients and web applications. Don’t forget Open Source software like the program that runs on Linux, Unix, Mac OSX and Windows operating systems.Share a map design program
+I recommend:  MapCruzin Quantum GIS
+Download trial versions. Some companies that design map software allow access to a full program for a limited amount of time. Others offer limited features, but let you use the software indefinitely. SmartDraw and Microsoft’s MapPoint offer free map making software as trial downloads. Use for 60 days, which is twice as long as many programs allow. Another trial version of a map program geared to the real estate industry is . is a free version of Map Maker Pro with limited export format options and no templates, grids or 3D functions. The professional version, Map Maker Pro, is available for purchase or free to not-for-profit organizations.Take a trial run of software to design maps
+I recommend:  MapPoint Maptitude MapMaker Gratis
+For aerial maps, design software based on satellite views allows you to use arrow keys and your mouse to pinpoint locations. You can also use search terms to focus on specific areas. NASA started it all when they made their software a free download. Users zoom in from NASA’s Landsat satellite to see any location on Earth. Google has made the process even simpler with , which allows you to create content overlays as KML files.Try satellite mapping software
+I recommend:  World Wind Google Earth
+Check Global Positioning System (GPS) and Geography Information System (GIS) websites for free map design software. GIS programs capture geographical information to allow you to create density maps and also plot how certain decisions will affect locations. Check the for the latest in GIS software and data. allows you to plot GPS information and add labels to a map. With both freeware and shareware versions, you can transfer information from a GPS receiver to your computer.Locate GPS and GIS websites
+I recommend:  Guide to Geographic Information Systems GPS Utility
+Tips & Tactics
+If you own real estate appraisal software, map design may already be at your fingertips with tools for making plat maps, street maps, aerial maps and flood maps.
+Consider purchasing the full version of a mapping program if you're satisfied with the trial version.
+FEATURED LISTINGS
+Create a custom with just a few clicks for reports, sales, presentations, and more with our Download a trial. Map Design Software
+mapmapsoftware.
