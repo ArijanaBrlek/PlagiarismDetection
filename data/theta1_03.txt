@@ -1,0 +1,18 @@
+277/1185
+Reading data/05-summary-obfuscation/
+Reading data/t1_03_out5/
+Processing... (this may take a while)
+Plagdet Score 0.144430115063
+Recall 0.102998643472
+Precision 0.241623993333
+Granularity 1.0
+
+138/1000
+Reading data/03-random-obfuscation/
+Reading data/t1_03_out3/
+Processing... (this may take a while)
+Plagdet Score 0.117571655262
+Recall 0.0693544149402
+Precision 0.385771206967
+Granularity 1.0
+
