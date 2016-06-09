@@ -491,6 +491,7 @@ def main(micro_averaged, plag_path, plag_tag_name, det_path, det_tag_name):
     print 'Precision', prec 
     print 'Granularity', gran
 
+    print '{}\t{}\t{}'.format(rec, prec, plagdet_score(rec, prec, gran))
 
 if __name__ == '__main__':   
     main(*parse_options())
