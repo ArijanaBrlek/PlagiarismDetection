@@ -1,0 +1,7 @@
+Reading data/05-summary-obfuscation
+Reading data/t1_05_out05/
+Processing... (this may take a while)
+Plagdet Score 0.156276295326
+Recall 0.0934194218594
+Precision 0.87074681817
+Granularity 1.11363636364
