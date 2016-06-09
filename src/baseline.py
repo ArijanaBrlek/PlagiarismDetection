@@ -163,7 +163,7 @@ if __name__ == "__main__":
             print subfolder
             for t1 in [x * 0.1 for x in range(3, 9)]:
                 for t3 in [x * 0.1 for x in range(3, 9)]:
-                    print t1, t3
+                    print 't1={}, t3={}'.format(t1, t3)
                     outdir = datasetdir + subfolder + '_t1_' + str(t1).replace('.', '') + '_t3_' + str(t3).replace('.','') + '/'	
                     if not os.path.exists(outdir):
                         os.makedirs(outdir)
