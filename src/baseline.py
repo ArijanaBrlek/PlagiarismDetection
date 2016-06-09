@@ -161,7 +161,7 @@ if __name__ == "__main__":
 
         for subfolder in subfolders:
             print subfolder
-            for t1 in [x * 0.1 for x in range(3, 9)]:
+            for t1 in [x * 0.1 for x in range(5, 6)]:
                 for t3 in [x * 0.1 for x in range(3, 9)]:
                     print 't1={}, t3={}'.format(t1, t3)
                     outdir = datasetdir + 'out/' + subfolder + '_t1_' + str(t1).replace('.', '') + '_t3_' + str(t3).replace('.','') + '/'	
