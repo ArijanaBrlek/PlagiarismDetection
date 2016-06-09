@@ -148,35 +148,20 @@ if __name__ == "__main__":
     the actual source and suspicious documents are located.
     """
     if len(sys.argv) == 5:
-	datasetdir = sys.argv[1]
         srcdir = sys.argv[2]
         suspdir = sys.argv[3]
         outdir = sys.argv[4]
         model = Word2Vec.load_word2vec_format('data/model/GoogleNews-vectors-negative300.bin', binary=True)
 
-	subfolders = ['none', 'random', 'summary', 'translation']
+        if outdir[-1] != "/":
+            outdir += "/"
+        lines = open(sys.argv[1], 'r').readlines()
 
-        if datasetdir[-1] != "/":
-            datasetdir += "/"
-
-        for subfolder in subfolders:
-            print subfolder
-            for t1 in [x * 0.1 for x in range(5, 6)]:
-                for t3 in [x * 0.1 for x in range(3, 9)]:
-                    print 't1={}, t3={}'.format(t1, t3)
-                    outdir = datasetdir + 'out/' + subfolder + '_t1_' + str(t1).replace('.', '') + '_t3_' + str(t3).replace('.','') + '/'	
-                    if not os.path.exists(outdir):
-                        os.makedirs(outdir)
-	            lines = open(datasetdir + subfolder + '/pairs', 'r').readlines()
-                    print len(lines)
-
-                    for (i, line) in enumerate(lines):
-                        print "{}/{}".format(i + 1, len(lines))
-			susp, src = line.split()
-			baseline = Baseline(os.path.join(suspdir, susp), os.path.join(srcdir, src), outdir, model)
-			baseline.th1 = t1
-                        baseline.th3 = t3
-                        baseline.process()
+        for (i, line) in enumerate(lines):
+            print "{}/{}".format(i + 1, len(lines))
+            susp, src = line.split()
+            baseline = Baseline(os.path.join(suspdir, susp), os.path.join(srcdir, src), outdir, model)
+            baseline.process()
     else:
         print('\n'.join(["Unexpected number of commandline arguments.",
                          "Usage: ./pan12-plagiarism-text-alignment-example.py {pairs} {src-dir} {susp-dir} {out-dir}"]))
