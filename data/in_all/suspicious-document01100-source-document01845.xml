@@ -1,0 +1,4 @@
+<document  reference="suspicious-document01100.txt">
+	<feature  name="about" authors="DUC2006" title="news" language="en" />
+	<feature  name="md5" value="a82b339b1affddc41b796ee98ed6cd24" language="en" />
+</document>
