@@ -23,7 +23,7 @@ $(function() {
         $('#src-filename').html(jsonObj.src_file);
         $('#susp-filename').html(jsonObj.susp_file);
 
-          jQuery.get('/data/src/' + jsonObj.src_file, function(data) {
+          jQuery.get('/data/test_corpus/src/' + jsonObj.src_file, function(data) {
                $('#src-doc').html(data);
 
                 var p = $('#src-doc')[0],
@@ -40,7 +40,7 @@ $(function() {
                 $('#src-doc')[0].innerHTML = textArray.join('');
             });
 
-          jQuery.get('/data/susp/' + jsonObj.susp_file, function(data) {
+          jQuery.get('/data/test_corpus/susp/' + jsonObj.susp_file, function(data) {
                $('#susp-doc').html(data);
 
                 var p = $('#susp-doc')[0],
